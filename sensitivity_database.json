@@ -1,0 +1,8002 @@
+{
+  "Samsung Model 1": {
+    "General": 91,
+    "Red Dot": 90,
+    "2x Scope": 88,
+    "4x Scope": 78,
+    "AWM Scope": 58,
+    "Free Look": 68
+  },
+  "Samsung Model 2": {
+    "General": 89,
+    "Red Dot": 95,
+    "2x Scope": 81,
+    "4x Scope": 83,
+    "AWM Scope": 57,
+    "Free Look": 60
+  },
+  "Samsung Model 3": {
+    "General": 89,
+    "Red Dot": 95,
+    "2x Scope": 75,
+    "4x Scope": 80,
+    "AWM Scope": 47,
+    "Free Look": 61
+  },
+  "Samsung Model 4": {
+    "General": 98,
+    "Red Dot": 85,
+    "2x Scope": 84,
+    "4x Scope": 82,
+    "AWM Scope": 57,
+    "Free Look": 65
+  },
+  "Samsung Model 5": {
+    "General": 86,
+    "Red Dot": 83,
+    "2x Scope": 81,
+    "4x Scope": 85,
+    "AWM Scope": 49,
+    "Free Look": 63
+  },
+  "Samsung Model 6": {
+    "General": 97,
+    "Red Dot": 87,
+    "2x Scope": 82,
+    "4x Scope": 77,
+    "AWM Scope": 46,
+    "Free Look": 64
+  },
+  "Samsung Model 7": {
+    "General": 90,
+    "Red Dot": 88,
+    "2x Scope": 88,
+    "4x Scope": 82,
+    "AWM Scope": 56,
+    "Free Look": 68
+  },
+  "Samsung Model 8": {
+    "General": 98,
+    "Red Dot": 83,
+    "2x Scope": 80,
+    "4x Scope": 81,
+    "AWM Scope": 50,
+    "Free Look": 61
+  },
+  "Samsung Model 9": {
+    "General": 88,
+    "Red Dot": 95,
+    "2x Scope": 81,
+    "4x Scope": 75,
+    "AWM Scope": 50,
+    "Free Look": 75
+  },
+  "Samsung Model 10": {
+    "General": 94,
+    "Red Dot": 82,
+    "2x Scope": 84,
+    "4x Scope": 77,
+    "AWM Scope": 49,
+    "Free Look": 67
+  },
+  "Samsung Model 11": {
+    "General": 94,
+    "Red Dot": 95,
+    "2x Scope": 90,
+    "4x Scope": 84,
+    "AWM Scope": 58,
+    "Free Look": 72
+  },
+  "Samsung Model 12": {
+    "General": 99,
+    "Red Dot": 86,
+    "2x Scope": 83,
+    "4x Scope": 78,
+    "AWM Scope": 59,
+    "Free Look": 63
+  },
+  "Samsung Model 13": {
+    "General": 93,
+    "Red Dot": 80,
+    "2x Scope": 83,
+    "4x Scope": 84,
+    "AWM Scope": 53,
+    "Free Look": 55
+  },
+  "Samsung Model 14": {
+    "General": 94,
+    "Red Dot": 94,
+    "2x Scope": 86,
+    "4x Scope": 73,
+    "AWM Scope": 45,
+    "Free Look": 71
+  },
+  "Samsung Model 15": {
+    "General": 93,
+    "Red Dot": 89,
+    "2x Scope": 77,
+    "4x Scope": 73,
+    "AWM Scope": 49,
+    "Free Look": 72
+  },
+  "Samsung Model 16": {
+    "General": 89,
+    "Red Dot": 89,
+    "2x Scope": 85,
+    "4x Scope": 82,
+    "AWM Scope": 55,
+    "Free Look": 58
+  },
+  "Samsung Model 17": {
+    "General": 85,
+    "Red Dot": 88,
+    "2x Scope": 77,
+    "4x Scope": 78,
+    "AWM Scope": 59,
+    "Free Look": 68
+  },
+  "Samsung Model 18": {
+    "General": 96,
+    "Red Dot": 89,
+    "2x Scope": 81,
+    "4x Scope": 85,
+    "AWM Scope": 56,
+    "Free Look": 64
+  },
+  "Samsung Model 19": {
+    "General": 92,
+    "Red Dot": 91,
+    "2x Scope": 75,
+    "4x Scope": 74,
+    "AWM Scope": 45,
+    "Free Look": 57
+  },
+  "Samsung Model 20": {
+    "General": 94,
+    "Red Dot": 95,
+    "2x Scope": 85,
+    "4x Scope": 73,
+    "AWM Scope": 49,
+    "Free Look": 65
+  },
+  "Samsung Model 21": {
+    "General": 94,
+    "Red Dot": 88,
+    "2x Scope": 83,
+    "4x Scope": 81,
+    "AWM Scope": 47,
+    "Free Look": 74
+  },
+  "Samsung Model 22": {
+    "General": 100,
+    "Red Dot": 93,
+    "2x Scope": 78,
+    "4x Scope": 75,
+    "AWM Scope": 54,
+    "Free Look": 73
+  },
+  "Samsung Model 23": {
+    "General": 92,
+    "Red Dot": 83,
+    "2x Scope": 83,
+    "4x Scope": 84,
+    "AWM Scope": 45,
+    "Free Look": 71
+  },
+  "Samsung Model 24": {
+    "General": 89,
+    "Red Dot": 82,
+    "2x Scope": 87,
+    "4x Scope": 82,
+    "AWM Scope": 45,
+    "Free Look": 71
+  },
+  "Samsung Model 25": {
+    "General": 85,
+    "Red Dot": 93,
+    "2x Scope": 83,
+    "4x Scope": 77,
+    "AWM Scope": 49,
+    "Free Look": 57
+  },
+  "Samsung Model 26": {
+    "General": 100,
+    "Red Dot": 94,
+    "2x Scope": 84,
+    "4x Scope": 78,
+    "AWM Scope": 56,
+    "Free Look": 58
+  },
+  "Samsung Model 27": {
+    "General": 86,
+    "Red Dot": 84,
+    "2x Scope": 86,
+    "4x Scope": 82,
+    "AWM Scope": 55,
+    "Free Look": 73
+  },
+  "Samsung Model 28": {
+    "General": 90,
+    "Red Dot": 91,
+    "2x Scope": 88,
+    "4x Scope": 72,
+    "AWM Scope": 54,
+    "Free Look": 71
+  },
+  "Samsung Model 29": {
+    "General": 89,
+    "Red Dot": 93,
+    "2x Scope": 81,
+    "4x Scope": 73,
+    "AWM Scope": 54,
+    "Free Look": 60
+  },
+  "Samsung Model 30": {
+    "General": 94,
+    "Red Dot": 85,
+    "2x Scope": 84,
+    "4x Scope": 78,
+    "AWM Scope": 57,
+    "Free Look": 62
+  },
+  "Samsung Model 31": {
+    "General": 92,
+    "Red Dot": 94,
+    "2x Scope": 89,
+    "4x Scope": 71,
+    "AWM Scope": 55,
+    "Free Look": 62
+  },
+  "Samsung Model 32": {
+    "General": 100,
+    "Red Dot": 90,
+    "2x Scope": 77,
+    "4x Scope": 71,
+    "AWM Scope": 50,
+    "Free Look": 58
+  },
+  "Samsung Model 33": {
+    "General": 88,
+    "Red Dot": 82,
+    "2x Scope": 75,
+    "4x Scope": 72,
+    "AWM Scope": 48,
+    "Free Look": 72
+  },
+  "Samsung Model 34": {
+    "General": 92,
+    "Red Dot": 93,
+    "2x Scope": 83,
+    "4x Scope": 74,
+    "AWM Scope": 48,
+    "Free Look": 64
+  },
+  "Samsung Model 35": {
+    "General": 89,
+    "Red Dot": 92,
+    "2x Scope": 77,
+    "4x Scope": 82,
+    "AWM Scope": 59,
+    "Free Look": 60
+  },
+  "Samsung Model 36": {
+    "General": 100,
+    "Red Dot": 84,
+    "2x Scope": 78,
+    "4x Scope": 78,
+    "AWM Scope": 57,
+    "Free Look": 72
+  },
+  "Samsung Model 37": {
+    "General": 97,
+    "Red Dot": 84,
+    "2x Scope": 86,
+    "4x Scope": 70,
+    "AWM Scope": 54,
+    "Free Look": 62
+  },
+  "Samsung Model 38": {
+    "General": 97,
+    "Red Dot": 84,
+    "2x Scope": 88,
+    "4x Scope": 77,
+    "AWM Scope": 52,
+    "Free Look": 58
+  },
+  "Samsung Model 39": {
+    "General": 99,
+    "Red Dot": 89,
+    "2x Scope": 76,
+    "4x Scope": 82,
+    "AWM Scope": 46,
+    "Free Look": 55
+  },
+  "Samsung Model 40": {
+    "General": 87,
+    "Red Dot": 95,
+    "2x Scope": 82,
+    "4x Scope": 84,
+    "AWM Scope": 45,
+    "Free Look": 59
+  },
+  "Samsung Model 41": {
+    "General": 96,
+    "Red Dot": 84,
+    "2x Scope": 79,
+    "4x Scope": 74,
+    "AWM Scope": 54,
+    "Free Look": 63
+  },
+  "Samsung Model 42": {
+    "General": 100,
+    "Red Dot": 87,
+    "2x Scope": 84,
+    "4x Scope": 79,
+    "AWM Scope": 57,
+    "Free Look": 70
+  },
+  "Samsung Model 43": {
+    "General": 86,
+    "Red Dot": 80,
+    "2x Scope": 80,
+    "4x Scope": 79,
+    "AWM Scope": 56,
+    "Free Look": 62
+  },
+  "Samsung Model 44": {
+    "General": 95,
+    "Red Dot": 86,
+    "2x Scope": 79,
+    "4x Scope": 73,
+    "AWM Scope": 45,
+    "Free Look": 73
+  },
+  "Samsung Model 45": {
+    "General": 99,
+    "Red Dot": 87,
+    "2x Scope": 85,
+    "4x Scope": 75,
+    "AWM Scope": 55,
+    "Free Look": 69
+  },
+  "Samsung Model 46": {
+    "General": 92,
+    "Red Dot": 95,
+    "2x Scope": 82,
+    "4x Scope": 82,
+    "AWM Scope": 55,
+    "Free Look": 70
+  },
+  "Samsung Model 47": {
+    "General": 99,
+    "Red Dot": 88,
+    "2x Scope": 81,
+    "4x Scope": 71,
+    "AWM Scope": 54,
+    "Free Look": 58
+  },
+  "Samsung Model 48": {
+    "General": 98,
+    "Red Dot": 89,
+    "2x Scope": 87,
+    "4x Scope": 72,
+    "AWM Scope": 47,
+    "Free Look": 57
+  },
+  "Samsung Model 49": {
+    "General": 89,
+    "Red Dot": 92,
+    "2x Scope": 77,
+    "4x Scope": 70,
+    "AWM Scope": 51,
+    "Free Look": 72
+  },
+  "Samsung Model 50": {
+    "General": 89,
+    "Red Dot": 90,
+    "2x Scope": 79,
+    "4x Scope": 79,
+    "AWM Scope": 52,
+    "Free Look": 75
+  },
+  "Samsung Model 51": {
+    "General": 87,
+    "Red Dot": 94,
+    "2x Scope": 89,
+    "4x Scope": 75,
+    "AWM Scope": 51,
+    "Free Look": 75
+  },
+  "Samsung Model 52": {
+    "General": 94,
+    "Red Dot": 91,
+    "2x Scope": 84,
+    "4x Scope": 82,
+    "AWM Scope": 46,
+    "Free Look": 72
+  },
+  "Samsung Model 53": {
+    "General": 85,
+    "Red Dot": 83,
+    "2x Scope": 78,
+    "4x Scope": 80,
+    "AWM Scope": 60,
+    "Free Look": 71
+  },
+  "Samsung Model 54": {
+    "General": 86,
+    "Red Dot": 82,
+    "2x Scope": 83,
+    "4x Scope": 83,
+    "AWM Scope": 59,
+    "Free Look": 66
+  },
+  "Samsung Model 55": {
+    "General": 94,
+    "Red Dot": 85,
+    "2x Scope": 82,
+    "4x Scope": 74,
+    "AWM Scope": 59,
+    "Free Look": 57
+  },
+  "Samsung Model 56": {
+    "General": 92,
+    "Red Dot": 83,
+    "2x Scope": 76,
+    "4x Scope": 71,
+    "AWM Scope": 56,
+    "Free Look": 56
+  },
+  "Samsung Model 57": {
+    "General": 89,
+    "Red Dot": 82,
+    "2x Scope": 78,
+    "4x Scope": 81,
+    "AWM Scope": 56,
+    "Free Look": 72
+  },
+  "Samsung Model 58": {
+    "General": 85,
+    "Red Dot": 94,
+    "2x Scope": 82,
+    "4x Scope": 84,
+    "AWM Scope": 47,
+    "Free Look": 57
+  },
+  "Samsung Model 59": {
+    "General": 92,
+    "Red Dot": 93,
+    "2x Scope": 76,
+    "4x Scope": 77,
+    "AWM Scope": 47,
+    "Free Look": 73
+  },
+  "Xiaomi Model 1": {
+    "General": 90,
+    "Red Dot": 94,
+    "2x Scope": 87,
+    "4x Scope": 82,
+    "AWM Scope": 54,
+    "Free Look": 66
+  },
+  "Xiaomi Model 2": {
+    "General": 100,
+    "Red Dot": 94,
+    "2x Scope": 76,
+    "4x Scope": 72,
+    "AWM Scope": 46,
+    "Free Look": 68
+  },
+  "Xiaomi Model 3": {
+    "General": 95,
+    "Red Dot": 88,
+    "2x Scope": 86,
+    "4x Scope": 77,
+    "AWM Scope": 57,
+    "Free Look": 56
+  },
+  "Xiaomi Model 4": {
+    "General": 89,
+    "Red Dot": 87,
+    "2x Scope": 90,
+    "4x Scope": 72,
+    "AWM Scope": 46,
+    "Free Look": 71
+  },
+  "Xiaomi Model 5": {
+    "General": 94,
+    "Red Dot": 92,
+    "2x Scope": 88,
+    "4x Scope": 73,
+    "AWM Scope": 49,
+    "Free Look": 56
+  },
+  "Xiaomi Model 6": {
+    "General": 93,
+    "Red Dot": 94,
+    "2x Scope": 87,
+    "4x Scope": 81,
+    "AWM Scope": 51,
+    "Free Look": 57
+  },
+  "Xiaomi Model 7": {
+    "General": 90,
+    "Red Dot": 85,
+    "2x Scope": 78,
+    "4x Scope": 70,
+    "AWM Scope": 50,
+    "Free Look": 66
+  },
+  "Xiaomi Model 8": {
+    "General": 88,
+    "Red Dot": 83,
+    "2x Scope": 82,
+    "4x Scope": 70,
+    "AWM Scope": 55,
+    "Free Look": 69
+  },
+  "Xiaomi Model 9": {
+    "General": 94,
+    "Red Dot": 95,
+    "2x Scope": 81,
+    "4x Scope": 77,
+    "AWM Scope": 48,
+    "Free Look": 75
+  },
+  "Xiaomi Model 10": {
+    "General": 89,
+    "Red Dot": 87,
+    "2x Scope": 75,
+    "4x Scope": 74,
+    "AWM Scope": 50,
+    "Free Look": 67
+  },
+  "Xiaomi Model 11": {
+    "General": 94,
+    "Red Dot": 86,
+    "2x Scope": 83,
+    "4x Scope": 70,
+    "AWM Scope": 46,
+    "Free Look": 63
+  },
+  "Xiaomi Model 12": {
+    "General": 90,
+    "Red Dot": 92,
+    "2x Scope": 76,
+    "4x Scope": 83,
+    "AWM Scope": 47,
+    "Free Look": 74
+  },
+  "Xiaomi Model 13": {
+    "General": 91,
+    "Red Dot": 92,
+    "2x Scope": 89,
+    "4x Scope": 76,
+    "AWM Scope": 47,
+    "Free Look": 63
+  },
+  "Xiaomi Model 14": {
+    "General": 94,
+    "Red Dot": 89,
+    "2x Scope": 81,
+    "4x Scope": 71,
+    "AWM Scope": 58,
+    "Free Look": 59
+  },
+  "Xiaomi Model 15": {
+    "General": 87,
+    "Red Dot": 93,
+    "2x Scope": 75,
+    "4x Scope": 74,
+    "AWM Scope": 49,
+    "Free Look": 75
+  },
+  "Xiaomi Model 16": {
+    "General": 98,
+    "Red Dot": 84,
+    "2x Scope": 76,
+    "4x Scope": 70,
+    "AWM Scope": 60,
+    "Free Look": 58
+  },
+  "Xiaomi Model 17": {
+    "General": 99,
+    "Red Dot": 82,
+    "2x Scope": 81,
+    "4x Scope": 74,
+    "AWM Scope": 49,
+    "Free Look": 65
+  },
+  "Xiaomi Model 18": {
+    "General": 93,
+    "Red Dot": 90,
+    "2x Scope": 90,
+    "4x Scope": 84,
+    "AWM Scope": 49,
+    "Free Look": 66
+  },
+  "Xiaomi Model 19": {
+    "General": 95,
+    "Red Dot": 92,
+    "2x Scope": 81,
+    "4x Scope": 79,
+    "AWM Scope": 46,
+    "Free Look": 71
+  },
+  "Xiaomi Model 20": {
+    "General": 91,
+    "Red Dot": 90,
+    "2x Scope": 86,
+    "4x Scope": 74,
+    "AWM Scope": 58,
+    "Free Look": 74
+  },
+  "Xiaomi Model 21": {
+    "General": 92,
+    "Red Dot": 80,
+    "2x Scope": 82,
+    "4x Scope": 79,
+    "AWM Scope": 59,
+    "Free Look": 70
+  },
+  "Xiaomi Model 22": {
+    "General": 88,
+    "Red Dot": 83,
+    "2x Scope": 81,
+    "4x Scope": 80,
+    "AWM Scope": 54,
+    "Free Look": 71
+  },
+  "Xiaomi Model 23": {
+    "General": 88,
+    "Red Dot": 94,
+    "2x Scope": 76,
+    "4x Scope": 72,
+    "AWM Scope": 45,
+    "Free Look": 64
+  },
+  "Xiaomi Model 24": {
+    "General": 93,
+    "Red Dot": 92,
+    "2x Scope": 90,
+    "4x Scope": 77,
+    "AWM Scope": 59,
+    "Free Look": 75
+  },
+  "Xiaomi Model 25": {
+    "General": 86,
+    "Red Dot": 86,
+    "2x Scope": 88,
+    "4x Scope": 75,
+    "AWM Scope": 58,
+    "Free Look": 60
+  },
+  "Xiaomi Model 26": {
+    "General": 96,
+    "Red Dot": 86,
+    "2x Scope": 77,
+    "4x Scope": 82,
+    "AWM Scope": 54,
+    "Free Look": 59
+  },
+  "Xiaomi Model 27": {
+    "General": 92,
+    "Red Dot": 93,
+    "2x Scope": 81,
+    "4x Scope": 73,
+    "AWM Scope": 52,
+    "Free Look": 61
+  },
+  "Xiaomi Model 28": {
+    "General": 89,
+    "Red Dot": 88,
+    "2x Scope": 76,
+    "4x Scope": 85,
+    "AWM Scope": 56,
+    "Free Look": 74
+  },
+  "Xiaomi Model 29": {
+    "General": 92,
+    "Red Dot": 86,
+    "2x Scope": 88,
+    "4x Scope": 82,
+    "AWM Scope": 49,
+    "Free Look": 65
+  },
+  "Xiaomi Model 30": {
+    "General": 98,
+    "Red Dot": 85,
+    "2x Scope": 84,
+    "4x Scope": 73,
+    "AWM Scope": 58,
+    "Free Look": 55
+  },
+  "Xiaomi Model 31": {
+    "General": 86,
+    "Red Dot": 85,
+    "2x Scope": 84,
+    "4x Scope": 81,
+    "AWM Scope": 48,
+    "Free Look": 74
+  },
+  "Xiaomi Model 32": {
+    "General": 98,
+    "Red Dot": 95,
+    "2x Scope": 85,
+    "4x Scope": 82,
+    "AWM Scope": 59,
+    "Free Look": 63
+  },
+  "Xiaomi Model 33": {
+    "General": 95,
+    "Red Dot": 92,
+    "2x Scope": 83,
+    "4x Scope": 85,
+    "AWM Scope": 52,
+    "Free Look": 63
+  },
+  "Xiaomi Model 34": {
+    "General": 100,
+    "Red Dot": 94,
+    "2x Scope": 83,
+    "4x Scope": 73,
+    "AWM Scope": 51,
+    "Free Look": 70
+  },
+  "Xiaomi Model 35": {
+    "General": 86,
+    "Red Dot": 81,
+    "2x Scope": 85,
+    "4x Scope": 76,
+    "AWM Scope": 55,
+    "Free Look": 70
+  },
+  "Xiaomi Model 36": {
+    "General": 94,
+    "Red Dot": 84,
+    "2x Scope": 77,
+    "4x Scope": 77,
+    "AWM Scope": 50,
+    "Free Look": 59
+  },
+  "Xiaomi Model 37": {
+    "General": 100,
+    "Red Dot": 83,
+    "2x Scope": 85,
+    "4x Scope": 80,
+    "AWM Scope": 54,
+    "Free Look": 74
+  },
+  "Xiaomi Model 38": {
+    "General": 89,
+    "Red Dot": 95,
+    "2x Scope": 76,
+    "4x Scope": 75,
+    "AWM Scope": 51,
+    "Free Look": 67
+  },
+  "Xiaomi Model 39": {
+    "General": 90,
+    "Red Dot": 92,
+    "2x Scope": 86,
+    "4x Scope": 72,
+    "AWM Scope": 55,
+    "Free Look": 55
+  },
+  "Xiaomi Model 40": {
+    "General": 91,
+    "Red Dot": 90,
+    "2x Scope": 85,
+    "4x Scope": 73,
+    "AWM Scope": 52,
+    "Free Look": 65
+  },
+  "Xiaomi Model 41": {
+    "General": 98,
+    "Red Dot": 84,
+    "2x Scope": 81,
+    "4x Scope": 77,
+    "AWM Scope": 50,
+    "Free Look": 61
+  },
+  "Xiaomi Model 42": {
+    "General": 89,
+    "Red Dot": 83,
+    "2x Scope": 89,
+    "4x Scope": 74,
+    "AWM Scope": 52,
+    "Free Look": 68
+  },
+  "Xiaomi Model 43": {
+    "General": 86,
+    "Red Dot": 90,
+    "2x Scope": 80,
+    "4x Scope": 73,
+    "AWM Scope": 51,
+    "Free Look": 58
+  },
+  "Xiaomi Model 44": {
+    "General": 93,
+    "Red Dot": 95,
+    "2x Scope": 83,
+    "4x Scope": 74,
+    "AWM Scope": 58,
+    "Free Look": 60
+  },
+  "Xiaomi Model 45": {
+    "General": 94,
+    "Red Dot": 91,
+    "2x Scope": 79,
+    "4x Scope": 70,
+    "AWM Scope": 59,
+    "Free Look": 63
+  },
+  "Xiaomi Model 46": {
+    "General": 93,
+    "Red Dot": 94,
+    "2x Scope": 77,
+    "4x Scope": 80,
+    "AWM Scope": 55,
+    "Free Look": 74
+  },
+  "Xiaomi Model 47": {
+    "General": 96,
+    "Red Dot": 87,
+    "2x Scope": 89,
+    "4x Scope": 82,
+    "AWM Scope": 52,
+    "Free Look": 58
+  },
+  "Xiaomi Model 48": {
+    "General": 86,
+    "Red Dot": 81,
+    "2x Scope": 78,
+    "4x Scope": 78,
+    "AWM Scope": 49,
+    "Free Look": 67
+  },
+  "Xiaomi Model 49": {
+    "General": 99,
+    "Red Dot": 83,
+    "2x Scope": 79,
+    "4x Scope": 76,
+    "AWM Scope": 58,
+    "Free Look": 56
+  },
+  "Xiaomi Model 50": {
+    "General": 91,
+    "Red Dot": 83,
+    "2x Scope": 90,
+    "4x Scope": 70,
+    "AWM Scope": 57,
+    "Free Look": 71
+  },
+  "Xiaomi Model 51": {
+    "General": 99,
+    "Red Dot": 86,
+    "2x Scope": 78,
+    "4x Scope": 82,
+    "AWM Scope": 50,
+    "Free Look": 56
+  },
+  "Xiaomi Model 52": {
+    "General": 94,
+    "Red Dot": 86,
+    "2x Scope": 81,
+    "4x Scope": 73,
+    "AWM Scope": 49,
+    "Free Look": 61
+  },
+  "Xiaomi Model 53": {
+    "General": 91,
+    "Red Dot": 92,
+    "2x Scope": 89,
+    "4x Scope": 80,
+    "AWM Scope": 49,
+    "Free Look": 73
+  },
+  "Xiaomi Model 54": {
+    "General": 92,
+    "Red Dot": 85,
+    "2x Scope": 90,
+    "4x Scope": 74,
+    "AWM Scope": 46,
+    "Free Look": 64
+  },
+  "Xiaomi Model 55": {
+    "General": 85,
+    "Red Dot": 82,
+    "2x Scope": 85,
+    "4x Scope": 84,
+    "AWM Scope": 58,
+    "Free Look": 73
+  },
+  "Xiaomi Model 56": {
+    "General": 90,
+    "Red Dot": 85,
+    "2x Scope": 80,
+    "4x Scope": 85,
+    "AWM Scope": 58,
+    "Free Look": 56
+  },
+  "Xiaomi Model 57": {
+    "General": 98,
+    "Red Dot": 93,
+    "2x Scope": 86,
+    "4x Scope": 78,
+    "AWM Scope": 57,
+    "Free Look": 75
+  },
+  "Xiaomi Model 58": {
+    "General": 95,
+    "Red Dot": 92,
+    "2x Scope": 80,
+    "4x Scope": 81,
+    "AWM Scope": 49,
+    "Free Look": 65
+  },
+  "Xiaomi Model 59": {
+    "General": 98,
+    "Red Dot": 81,
+    "2x Scope": 88,
+    "4x Scope": 72,
+    "AWM Scope": 51,
+    "Free Look": 69
+  },
+  "Realme Model 1": {
+    "General": 92,
+    "Red Dot": 84,
+    "2x Scope": 81,
+    "4x Scope": 83,
+    "AWM Scope": 45,
+    "Free Look": 69
+  },
+  "Realme Model 2": {
+    "General": 100,
+    "Red Dot": 84,
+    "2x Scope": 88,
+    "4x Scope": 80,
+    "AWM Scope": 51,
+    "Free Look": 73
+  },
+  "Realme Model 3": {
+    "General": 96,
+    "Red Dot": 87,
+    "2x Scope": 79,
+    "4x Scope": 75,
+    "AWM Scope": 56,
+    "Free Look": 63
+  },
+  "Realme Model 4": {
+    "General": 86,
+    "Red Dot": 83,
+    "2x Scope": 84,
+    "4x Scope": 80,
+    "AWM Scope": 51,
+    "Free Look": 71
+  },
+  "Realme Model 5": {
+    "General": 96,
+    "Red Dot": 89,
+    "2x Scope": 88,
+    "4x Scope": 78,
+    "AWM Scope": 47,
+    "Free Look": 59
+  },
+  "Realme Model 6": {
+    "General": 94,
+    "Red Dot": 87,
+    "2x Scope": 89,
+    "4x Scope": 82,
+    "AWM Scope": 47,
+    "Free Look": 57
+  },
+  "Realme Model 7": {
+    "General": 89,
+    "Red Dot": 80,
+    "2x Scope": 84,
+    "4x Scope": 81,
+    "AWM Scope": 59,
+    "Free Look": 58
+  },
+  "Realme Model 8": {
+    "General": 91,
+    "Red Dot": 87,
+    "2x Scope": 83,
+    "4x Scope": 77,
+    "AWM Scope": 51,
+    "Free Look": 60
+  },
+  "Realme Model 9": {
+    "General": 97,
+    "Red Dot": 93,
+    "2x Scope": 89,
+    "4x Scope": 75,
+    "AWM Scope": 53,
+    "Free Look": 69
+  },
+  "Realme Model 10": {
+    "General": 95,
+    "Red Dot": 88,
+    "2x Scope": 90,
+    "4x Scope": 72,
+    "AWM Scope": 50,
+    "Free Look": 75
+  },
+  "Realme Model 11": {
+    "General": 85,
+    "Red Dot": 83,
+    "2x Scope": 86,
+    "4x Scope": 84,
+    "AWM Scope": 46,
+    "Free Look": 66
+  },
+  "Realme Model 12": {
+    "General": 87,
+    "Red Dot": 92,
+    "2x Scope": 78,
+    "4x Scope": 74,
+    "AWM Scope": 47,
+    "Free Look": 73
+  },
+  "Realme Model 13": {
+    "General": 86,
+    "Red Dot": 85,
+    "2x Scope": 83,
+    "4x Scope": 77,
+    "AWM Scope": 55,
+    "Free Look": 63
+  },
+  "Realme Model 14": {
+    "General": 98,
+    "Red Dot": 89,
+    "2x Scope": 82,
+    "4x Scope": 79,
+    "AWM Scope": 50,
+    "Free Look": 67
+  },
+  "Realme Model 15": {
+    "General": 85,
+    "Red Dot": 92,
+    "2x Scope": 80,
+    "4x Scope": 73,
+    "AWM Scope": 54,
+    "Free Look": 67
+  },
+  "Realme Model 16": {
+    "General": 99,
+    "Red Dot": 92,
+    "2x Scope": 90,
+    "4x Scope": 81,
+    "AWM Scope": 57,
+    "Free Look": 71
+  },
+  "Realme Model 17": {
+    "General": 92,
+    "Red Dot": 82,
+    "2x Scope": 79,
+    "4x Scope": 75,
+    "AWM Scope": 50,
+    "Free Look": 65
+  },
+  "Realme Model 18": {
+    "General": 86,
+    "Red Dot": 81,
+    "2x Scope": 86,
+    "4x Scope": 83,
+    "AWM Scope": 54,
+    "Free Look": 57
+  },
+  "Realme Model 19": {
+    "General": 89,
+    "Red Dot": 93,
+    "2x Scope": 85,
+    "4x Scope": 83,
+    "AWM Scope": 56,
+    "Free Look": 74
+  },
+  "Realme Model 20": {
+    "General": 92,
+    "Red Dot": 90,
+    "2x Scope": 81,
+    "4x Scope": 75,
+    "AWM Scope": 55,
+    "Free Look": 66
+  },
+  "Realme Model 21": {
+    "General": 87,
+    "Red Dot": 95,
+    "2x Scope": 89,
+    "4x Scope": 85,
+    "AWM Scope": 54,
+    "Free Look": 67
+  },
+  "Realme Model 22": {
+    "General": 95,
+    "Red Dot": 81,
+    "2x Scope": 79,
+    "4x Scope": 84,
+    "AWM Scope": 54,
+    "Free Look": 74
+  },
+  "Realme Model 23": {
+    "General": 98,
+    "Red Dot": 83,
+    "2x Scope": 87,
+    "4x Scope": 71,
+    "AWM Scope": 50,
+    "Free Look": 57
+  },
+  "Realme Model 24": {
+    "General": 99,
+    "Red Dot": 86,
+    "2x Scope": 78,
+    "4x Scope": 85,
+    "AWM Scope": 57,
+    "Free Look": 67
+  },
+  "Realme Model 25": {
+    "General": 95,
+    "Red Dot": 89,
+    "2x Scope": 79,
+    "4x Scope": 76,
+    "AWM Scope": 53,
+    "Free Look": 58
+  },
+  "Realme Model 26": {
+    "General": 88,
+    "Red Dot": 88,
+    "2x Scope": 86,
+    "4x Scope": 79,
+    "AWM Scope": 48,
+    "Free Look": 71
+  },
+  "Realme Model 27": {
+    "General": 94,
+    "Red Dot": 87,
+    "2x Scope": 88,
+    "4x Scope": 75,
+    "AWM Scope": 51,
+    "Free Look": 67
+  },
+  "Realme Model 28": {
+    "General": 90,
+    "Red Dot": 85,
+    "2x Scope": 86,
+    "4x Scope": 75,
+    "AWM Scope": 57,
+    "Free Look": 56
+  },
+  "Realme Model 29": {
+    "General": 97,
+    "Red Dot": 83,
+    "2x Scope": 80,
+    "4x Scope": 70,
+    "AWM Scope": 60,
+    "Free Look": 57
+  },
+  "Realme Model 30": {
+    "General": 98,
+    "Red Dot": 82,
+    "2x Scope": 81,
+    "4x Scope": 73,
+    "AWM Scope": 49,
+    "Free Look": 74
+  },
+  "Realme Model 31": {
+    "General": 93,
+    "Red Dot": 95,
+    "2x Scope": 85,
+    "4x Scope": 84,
+    "AWM Scope": 53,
+    "Free Look": 65
+  },
+  "Realme Model 32": {
+    "General": 86,
+    "Red Dot": 89,
+    "2x Scope": 79,
+    "4x Scope": 85,
+    "AWM Scope": 54,
+    "Free Look": 61
+  },
+  "Realme Model 33": {
+    "General": 93,
+    "Red Dot": 91,
+    "2x Scope": 77,
+    "4x Scope": 79,
+    "AWM Scope": 49,
+    "Free Look": 60
+  },
+  "Realme Model 34": {
+    "General": 99,
+    "Red Dot": 86,
+    "2x Scope": 85,
+    "4x Scope": 76,
+    "AWM Scope": 45,
+    "Free Look": 66
+  },
+  "Realme Model 35": {
+    "General": 92,
+    "Red Dot": 85,
+    "2x Scope": 85,
+    "4x Scope": 80,
+    "AWM Scope": 46,
+    "Free Look": 71
+  },
+  "Realme Model 36": {
+    "General": 93,
+    "Red Dot": 81,
+    "2x Scope": 77,
+    "4x Scope": 77,
+    "AWM Scope": 55,
+    "Free Look": 61
+  },
+  "Realme Model 37": {
+    "General": 99,
+    "Red Dot": 88,
+    "2x Scope": 83,
+    "4x Scope": 84,
+    "AWM Scope": 46,
+    "Free Look": 59
+  },
+  "Realme Model 38": {
+    "General": 87,
+    "Red Dot": 95,
+    "2x Scope": 78,
+    "4x Scope": 78,
+    "AWM Scope": 59,
+    "Free Look": 75
+  },
+  "Realme Model 39": {
+    "General": 97,
+    "Red Dot": 83,
+    "2x Scope": 76,
+    "4x Scope": 82,
+    "AWM Scope": 59,
+    "Free Look": 66
+  },
+  "Realme Model 40": {
+    "General": 95,
+    "Red Dot": 84,
+    "2x Scope": 76,
+    "4x Scope": 70,
+    "AWM Scope": 54,
+    "Free Look": 71
+  },
+  "Realme Model 41": {
+    "General": 87,
+    "Red Dot": 84,
+    "2x Scope": 85,
+    "4x Scope": 74,
+    "AWM Scope": 48,
+    "Free Look": 59
+  },
+  "Realme Model 42": {
+    "General": 99,
+    "Red Dot": 92,
+    "2x Scope": 75,
+    "4x Scope": 71,
+    "AWM Scope": 57,
+    "Free Look": 56
+  },
+  "Realme Model 43": {
+    "General": 92,
+    "Red Dot": 80,
+    "2x Scope": 85,
+    "4x Scope": 75,
+    "AWM Scope": 50,
+    "Free Look": 61
+  },
+  "Realme Model 44": {
+    "General": 85,
+    "Red Dot": 90,
+    "2x Scope": 85,
+    "4x Scope": 75,
+    "AWM Scope": 48,
+    "Free Look": 69
+  },
+  "Realme Model 45": {
+    "General": 98,
+    "Red Dot": 83,
+    "2x Scope": 75,
+    "4x Scope": 84,
+    "AWM Scope": 56,
+    "Free Look": 74
+  },
+  "Realme Model 46": {
+    "General": 100,
+    "Red Dot": 95,
+    "2x Scope": 82,
+    "4x Scope": 76,
+    "AWM Scope": 59,
+    "Free Look": 73
+  },
+  "Realme Model 47": {
+    "General": 93,
+    "Red Dot": 85,
+    "2x Scope": 88,
+    "4x Scope": 85,
+    "AWM Scope": 47,
+    "Free Look": 59
+  },
+  "Realme Model 48": {
+    "General": 92,
+    "Red Dot": 95,
+    "2x Scope": 77,
+    "4x Scope": 82,
+    "AWM Scope": 60,
+    "Free Look": 63
+  },
+  "Realme Model 49": {
+    "General": 95,
+    "Red Dot": 82,
+    "2x Scope": 80,
+    "4x Scope": 73,
+    "AWM Scope": 54,
+    "Free Look": 58
+  },
+  "Realme Model 50": {
+    "General": 89,
+    "Red Dot": 81,
+    "2x Scope": 80,
+    "4x Scope": 75,
+    "AWM Scope": 49,
+    "Free Look": 67
+  },
+  "Realme Model 51": {
+    "General": 93,
+    "Red Dot": 92,
+    "2x Scope": 81,
+    "4x Scope": 74,
+    "AWM Scope": 50,
+    "Free Look": 65
+  },
+  "Realme Model 52": {
+    "General": 97,
+    "Red Dot": 81,
+    "2x Scope": 86,
+    "4x Scope": 77,
+    "AWM Scope": 53,
+    "Free Look": 64
+  },
+  "Realme Model 53": {
+    "General": 87,
+    "Red Dot": 90,
+    "2x Scope": 81,
+    "4x Scope": 70,
+    "AWM Scope": 57,
+    "Free Look": 64
+  },
+  "Realme Model 54": {
+    "General": 99,
+    "Red Dot": 82,
+    "2x Scope": 86,
+    "4x Scope": 72,
+    "AWM Scope": 51,
+    "Free Look": 75
+  },
+  "Realme Model 55": {
+    "General": 96,
+    "Red Dot": 80,
+    "2x Scope": 87,
+    "4x Scope": 72,
+    "AWM Scope": 56,
+    "Free Look": 56
+  },
+  "Realme Model 56": {
+    "General": 92,
+    "Red Dot": 91,
+    "2x Scope": 81,
+    "4x Scope": 71,
+    "AWM Scope": 46,
+    "Free Look": 68
+  },
+  "Realme Model 57": {
+    "General": 95,
+    "Red Dot": 94,
+    "2x Scope": 78,
+    "4x Scope": 85,
+    "AWM Scope": 55,
+    "Free Look": 64
+  },
+  "Realme Model 58": {
+    "General": 86,
+    "Red Dot": 90,
+    "2x Scope": 82,
+    "4x Scope": 78,
+    "AWM Scope": 53,
+    "Free Look": 55
+  },
+  "Realme Model 59": {
+    "General": 100,
+    "Red Dot": 83,
+    "2x Scope": 86,
+    "4x Scope": 81,
+    "AWM Scope": 54,
+    "Free Look": 65
+  },
+  "Oppo Model 1": {
+    "General": 88,
+    "Red Dot": 86,
+    "2x Scope": 77,
+    "4x Scope": 74,
+    "AWM Scope": 57,
+    "Free Look": 56
+  },
+  "Oppo Model 2": {
+    "General": 97,
+    "Red Dot": 88,
+    "2x Scope": 84,
+    "4x Scope": 73,
+    "AWM Scope": 54,
+    "Free Look": 57
+  },
+  "Oppo Model 3": {
+    "General": 89,
+    "Red Dot": 83,
+    "2x Scope": 85,
+    "4x Scope": 72,
+    "AWM Scope": 58,
+    "Free Look": 56
+  },
+  "Oppo Model 4": {
+    "General": 86,
+    "Red Dot": 80,
+    "2x Scope": 87,
+    "4x Scope": 79,
+    "AWM Scope": 51,
+    "Free Look": 59
+  },
+  "Oppo Model 5": {
+    "General": 86,
+    "Red Dot": 86,
+    "2x Scope": 85,
+    "4x Scope": 74,
+    "AWM Scope": 60,
+    "Free Look": 75
+  },
+  "Oppo Model 6": {
+    "General": 94,
+    "Red Dot": 83,
+    "2x Scope": 80,
+    "4x Scope": 85,
+    "AWM Scope": 46,
+    "Free Look": 67
+  },
+  "Oppo Model 7": {
+    "General": 88,
+    "Red Dot": 85,
+    "2x Scope": 75,
+    "4x Scope": 85,
+    "AWM Scope": 45,
+    "Free Look": 61
+  },
+  "Oppo Model 8": {
+    "General": 97,
+    "Red Dot": 83,
+    "2x Scope": 77,
+    "4x Scope": 70,
+    "AWM Scope": 56,
+    "Free Look": 67
+  },
+  "Oppo Model 9": {
+    "General": 93,
+    "Red Dot": 92,
+    "2x Scope": 90,
+    "4x Scope": 74,
+    "AWM Scope": 53,
+    "Free Look": 63
+  },
+  "Oppo Model 10": {
+    "General": 100,
+    "Red Dot": 95,
+    "2x Scope": 76,
+    "4x Scope": 77,
+    "AWM Scope": 46,
+    "Free Look": 60
+  },
+  "Oppo Model 11": {
+    "General": 92,
+    "Red Dot": 90,
+    "2x Scope": 76,
+    "4x Scope": 77,
+    "AWM Scope": 54,
+    "Free Look": 55
+  },
+  "Oppo Model 12": {
+    "General": 89,
+    "Red Dot": 92,
+    "2x Scope": 90,
+    "4x Scope": 81,
+    "AWM Scope": 53,
+    "Free Look": 56
+  },
+  "Oppo Model 13": {
+    "General": 86,
+    "Red Dot": 85,
+    "2x Scope": 80,
+    "4x Scope": 76,
+    "AWM Scope": 47,
+    "Free Look": 56
+  },
+  "Oppo Model 14": {
+    "General": 100,
+    "Red Dot": 86,
+    "2x Scope": 81,
+    "4x Scope": 83,
+    "AWM Scope": 46,
+    "Free Look": 63
+  },
+  "Oppo Model 15": {
+    "General": 99,
+    "Red Dot": 88,
+    "2x Scope": 80,
+    "4x Scope": 78,
+    "AWM Scope": 56,
+    "Free Look": 68
+  },
+  "Oppo Model 16": {
+    "General": 98,
+    "Red Dot": 90,
+    "2x Scope": 79,
+    "4x Scope": 80,
+    "AWM Scope": 46,
+    "Free Look": 70
+  },
+  "Oppo Model 17": {
+    "General": 96,
+    "Red Dot": 83,
+    "2x Scope": 86,
+    "4x Scope": 71,
+    "AWM Scope": 48,
+    "Free Look": 57
+  },
+  "Oppo Model 18": {
+    "General": 97,
+    "Red Dot": 90,
+    "2x Scope": 88,
+    "4x Scope": 71,
+    "AWM Scope": 51,
+    "Free Look": 68
+  },
+  "Oppo Model 19": {
+    "General": 90,
+    "Red Dot": 92,
+    "2x Scope": 80,
+    "4x Scope": 84,
+    "AWM Scope": 48,
+    "Free Look": 66
+  },
+  "Oppo Model 20": {
+    "General": 100,
+    "Red Dot": 88,
+    "2x Scope": 89,
+    "4x Scope": 78,
+    "AWM Scope": 53,
+    "Free Look": 59
+  },
+  "Oppo Model 21": {
+    "General": 86,
+    "Red Dot": 86,
+    "2x Scope": 86,
+    "4x Scope": 74,
+    "AWM Scope": 60,
+    "Free Look": 58
+  },
+  "Oppo Model 22": {
+    "General": 91,
+    "Red Dot": 92,
+    "2x Scope": 82,
+    "4x Scope": 82,
+    "AWM Scope": 60,
+    "Free Look": 68
+  },
+  "Oppo Model 23": {
+    "General": 98,
+    "Red Dot": 80,
+    "2x Scope": 86,
+    "4x Scope": 74,
+    "AWM Scope": 49,
+    "Free Look": 57
+  },
+  "Oppo Model 24": {
+    "General": 88,
+    "Red Dot": 85,
+    "2x Scope": 88,
+    "4x Scope": 85,
+    "AWM Scope": 58,
+    "Free Look": 68
+  },
+  "Oppo Model 25": {
+    "General": 95,
+    "Red Dot": 82,
+    "2x Scope": 77,
+    "4x Scope": 80,
+    "AWM Scope": 60,
+    "Free Look": 71
+  },
+  "Oppo Model 26": {
+    "General": 86,
+    "Red Dot": 80,
+    "2x Scope": 84,
+    "4x Scope": 83,
+    "AWM Scope": 54,
+    "Free Look": 58
+  },
+  "Oppo Model 27": {
+    "General": 96,
+    "Red Dot": 85,
+    "2x Scope": 81,
+    "4x Scope": 70,
+    "AWM Scope": 46,
+    "Free Look": 59
+  },
+  "Oppo Model 28": {
+    "General": 85,
+    "Red Dot": 91,
+    "2x Scope": 90,
+    "4x Scope": 82,
+    "AWM Scope": 47,
+    "Free Look": 71
+  },
+  "Oppo Model 29": {
+    "General": 85,
+    "Red Dot": 89,
+    "2x Scope": 76,
+    "4x Scope": 78,
+    "AWM Scope": 55,
+    "Free Look": 71
+  },
+  "Oppo Model 30": {
+    "General": 97,
+    "Red Dot": 80,
+    "2x Scope": 81,
+    "4x Scope": 71,
+    "AWM Scope": 52,
+    "Free Look": 73
+  },
+  "Oppo Model 31": {
+    "General": 87,
+    "Red Dot": 93,
+    "2x Scope": 79,
+    "4x Scope": 84,
+    "AWM Scope": 55,
+    "Free Look": 58
+  },
+  "Oppo Model 32": {
+    "General": 92,
+    "Red Dot": 89,
+    "2x Scope": 87,
+    "4x Scope": 76,
+    "AWM Scope": 48,
+    "Free Look": 62
+  },
+  "Oppo Model 33": {
+    "General": 94,
+    "Red Dot": 87,
+    "2x Scope": 81,
+    "4x Scope": 83,
+    "AWM Scope": 48,
+    "Free Look": 60
+  },
+  "Oppo Model 34": {
+    "General": 93,
+    "Red Dot": 84,
+    "2x Scope": 77,
+    "4x Scope": 82,
+    "AWM Scope": 53,
+    "Free Look": 57
+  },
+  "Oppo Model 35": {
+    "General": 89,
+    "Red Dot": 89,
+    "2x Scope": 86,
+    "4x Scope": 72,
+    "AWM Scope": 50,
+    "Free Look": 56
+  },
+  "Oppo Model 36": {
+    "General": 100,
+    "Red Dot": 89,
+    "2x Scope": 78,
+    "4x Scope": 80,
+    "AWM Scope": 51,
+    "Free Look": 71
+  },
+  "Oppo Model 37": {
+    "General": 96,
+    "Red Dot": 91,
+    "2x Scope": 87,
+    "4x Scope": 76,
+    "AWM Scope": 45,
+    "Free Look": 59
+  },
+  "Oppo Model 38": {
+    "General": 92,
+    "Red Dot": 94,
+    "2x Scope": 82,
+    "4x Scope": 81,
+    "AWM Scope": 51,
+    "Free Look": 70
+  },
+  "Oppo Model 39": {
+    "General": 96,
+    "Red Dot": 95,
+    "2x Scope": 75,
+    "4x Scope": 81,
+    "AWM Scope": 46,
+    "Free Look": 60
+  },
+  "Oppo Model 40": {
+    "General": 90,
+    "Red Dot": 91,
+    "2x Scope": 78,
+    "4x Scope": 79,
+    "AWM Scope": 55,
+    "Free Look": 69
+  },
+  "Oppo Model 41": {
+    "General": 98,
+    "Red Dot": 83,
+    "2x Scope": 76,
+    "4x Scope": 71,
+    "AWM Scope": 57,
+    "Free Look": 73
+  },
+  "Oppo Model 42": {
+    "General": 95,
+    "Red Dot": 86,
+    "2x Scope": 78,
+    "4x Scope": 74,
+    "AWM Scope": 52,
+    "Free Look": 59
+  },
+  "Oppo Model 43": {
+    "General": 92,
+    "Red Dot": 84,
+    "2x Scope": 75,
+    "4x Scope": 73,
+    "AWM Scope": 45,
+    "Free Look": 57
+  },
+  "Oppo Model 44": {
+    "General": 89,
+    "Red Dot": 87,
+    "2x Scope": 78,
+    "4x Scope": 79,
+    "AWM Scope": 48,
+    "Free Look": 59
+  },
+  "Oppo Model 45": {
+    "General": 100,
+    "Red Dot": 86,
+    "2x Scope": 87,
+    "4x Scope": 81,
+    "AWM Scope": 60,
+    "Free Look": 55
+  },
+  "Oppo Model 46": {
+    "General": 85,
+    "Red Dot": 95,
+    "2x Scope": 89,
+    "4x Scope": 85,
+    "AWM Scope": 54,
+    "Free Look": 61
+  },
+  "Oppo Model 47": {
+    "General": 99,
+    "Red Dot": 82,
+    "2x Scope": 90,
+    "4x Scope": 84,
+    "AWM Scope": 45,
+    "Free Look": 62
+  },
+  "Oppo Model 48": {
+    "General": 89,
+    "Red Dot": 83,
+    "2x Scope": 88,
+    "4x Scope": 77,
+    "AWM Scope": 56,
+    "Free Look": 66
+  },
+  "Oppo Model 49": {
+    "General": 86,
+    "Red Dot": 80,
+    "2x Scope": 85,
+    "4x Scope": 75,
+    "AWM Scope": 58,
+    "Free Look": 61
+  },
+  "Oppo Model 50": {
+    "General": 98,
+    "Red Dot": 95,
+    "2x Scope": 86,
+    "4x Scope": 75,
+    "AWM Scope": 50,
+    "Free Look": 66
+  },
+  "Oppo Model 51": {
+    "General": 95,
+    "Red Dot": 86,
+    "2x Scope": 82,
+    "4x Scope": 82,
+    "AWM Scope": 53,
+    "Free Look": 75
+  },
+  "Oppo Model 52": {
+    "General": 87,
+    "Red Dot": 93,
+    "2x Scope": 79,
+    "4x Scope": 76,
+    "AWM Scope": 46,
+    "Free Look": 70
+  },
+  "Oppo Model 53": {
+    "General": 100,
+    "Red Dot": 88,
+    "2x Scope": 76,
+    "4x Scope": 76,
+    "AWM Scope": 46,
+    "Free Look": 55
+  },
+  "Oppo Model 54": {
+    "General": 100,
+    "Red Dot": 94,
+    "2x Scope": 75,
+    "4x Scope": 79,
+    "AWM Scope": 46,
+    "Free Look": 65
+  },
+  "Oppo Model 55": {
+    "General": 96,
+    "Red Dot": 81,
+    "2x Scope": 83,
+    "4x Scope": 82,
+    "AWM Scope": 46,
+    "Free Look": 65
+  },
+  "Oppo Model 56": {
+    "General": 97,
+    "Red Dot": 84,
+    "2x Scope": 88,
+    "4x Scope": 73,
+    "AWM Scope": 45,
+    "Free Look": 72
+  },
+  "Oppo Model 57": {
+    "General": 100,
+    "Red Dot": 92,
+    "2x Scope": 86,
+    "4x Scope": 73,
+    "AWM Scope": 53,
+    "Free Look": 67
+  },
+  "Oppo Model 58": {
+    "General": 98,
+    "Red Dot": 86,
+    "2x Scope": 77,
+    "4x Scope": 74,
+    "AWM Scope": 51,
+    "Free Look": 58
+  },
+  "Oppo Model 59": {
+    "General": 99,
+    "Red Dot": 94,
+    "2x Scope": 79,
+    "4x Scope": 83,
+    "AWM Scope": 58,
+    "Free Look": 74
+  },
+  "Vivo Model 1": {
+    "General": 98,
+    "Red Dot": 87,
+    "2x Scope": 77,
+    "4x Scope": 73,
+    "AWM Scope": 55,
+    "Free Look": 58
+  },
+  "Vivo Model 2": {
+    "General": 100,
+    "Red Dot": 88,
+    "2x Scope": 81,
+    "4x Scope": 71,
+    "AWM Scope": 56,
+    "Free Look": 71
+  },
+  "Vivo Model 3": {
+    "General": 98,
+    "Red Dot": 92,
+    "2x Scope": 89,
+    "4x Scope": 85,
+    "AWM Scope": 49,
+    "Free Look": 70
+  },
+  "Vivo Model 4": {
+    "General": 90,
+    "Red Dot": 84,
+    "2x Scope": 90,
+    "4x Scope": 81,
+    "AWM Scope": 45,
+    "Free Look": 68
+  },
+  "Vivo Model 5": {
+    "General": 91,
+    "Red Dot": 85,
+    "2x Scope": 75,
+    "4x Scope": 77,
+    "AWM Scope": 46,
+    "Free Look": 75
+  },
+  "Vivo Model 6": {
+    "General": 93,
+    "Red Dot": 89,
+    "2x Scope": 80,
+    "4x Scope": 81,
+    "AWM Scope": 59,
+    "Free Look": 73
+  },
+  "Vivo Model 7": {
+    "General": 86,
+    "Red Dot": 89,
+    "2x Scope": 83,
+    "4x Scope": 73,
+    "AWM Scope": 51,
+    "Free Look": 70
+  },
+  "Vivo Model 8": {
+    "General": 97,
+    "Red Dot": 93,
+    "2x Scope": 78,
+    "4x Scope": 84,
+    "AWM Scope": 55,
+    "Free Look": 74
+  },
+  "Vivo Model 9": {
+    "General": 93,
+    "Red Dot": 90,
+    "2x Scope": 77,
+    "4x Scope": 73,
+    "AWM Scope": 58,
+    "Free Look": 74
+  },
+  "Vivo Model 10": {
+    "General": 94,
+    "Red Dot": 91,
+    "2x Scope": 79,
+    "4x Scope": 83,
+    "AWM Scope": 59,
+    "Free Look": 57
+  },
+  "Vivo Model 11": {
+    "General": 86,
+    "Red Dot": 88,
+    "2x Scope": 83,
+    "4x Scope": 79,
+    "AWM Scope": 53,
+    "Free Look": 71
+  },
+  "Vivo Model 12": {
+    "General": 99,
+    "Red Dot": 84,
+    "2x Scope": 87,
+    "4x Scope": 74,
+    "AWM Scope": 56,
+    "Free Look": 73
+  },
+  "Vivo Model 13": {
+    "General": 97,
+    "Red Dot": 86,
+    "2x Scope": 90,
+    "4x Scope": 84,
+    "AWM Scope": 51,
+    "Free Look": 66
+  },
+  "Vivo Model 14": {
+    "General": 100,
+    "Red Dot": 90,
+    "2x Scope": 87,
+    "4x Scope": 72,
+    "AWM Scope": 52,
+    "Free Look": 65
+  },
+  "Vivo Model 15": {
+    "General": 96,
+    "Red Dot": 88,
+    "2x Scope": 85,
+    "4x Scope": 75,
+    "AWM Scope": 46,
+    "Free Look": 61
+  },
+  "Vivo Model 16": {
+    "General": 97,
+    "Red Dot": 83,
+    "2x Scope": 86,
+    "4x Scope": 84,
+    "AWM Scope": 60,
+    "Free Look": 66
+  },
+  "Vivo Model 17": {
+    "General": 96,
+    "Red Dot": 87,
+    "2x Scope": 75,
+    "4x Scope": 73,
+    "AWM Scope": 52,
+    "Free Look": 68
+  },
+  "Vivo Model 18": {
+    "General": 86,
+    "Red Dot": 81,
+    "2x Scope": 79,
+    "4x Scope": 78,
+    "AWM Scope": 52,
+    "Free Look": 71
+  },
+  "Vivo Model 19": {
+    "General": 98,
+    "Red Dot": 82,
+    "2x Scope": 85,
+    "4x Scope": 84,
+    "AWM Scope": 46,
+    "Free Look": 72
+  },
+  "Vivo Model 20": {
+    "General": 85,
+    "Red Dot": 94,
+    "2x Scope": 81,
+    "4x Scope": 77,
+    "AWM Scope": 56,
+    "Free Look": 64
+  },
+  "Vivo Model 21": {
+    "General": 89,
+    "Red Dot": 84,
+    "2x Scope": 86,
+    "4x Scope": 84,
+    "AWM Scope": 53,
+    "Free Look": 66
+  },
+  "Vivo Model 22": {
+    "General": 85,
+    "Red Dot": 84,
+    "2x Scope": 85,
+    "4x Scope": 73,
+    "AWM Scope": 55,
+    "Free Look": 71
+  },
+  "Vivo Model 23": {
+    "General": 88,
+    "Red Dot": 95,
+    "2x Scope": 78,
+    "4x Scope": 85,
+    "AWM Scope": 55,
+    "Free Look": 70
+  },
+  "Vivo Model 24": {
+    "General": 89,
+    "Red Dot": 89,
+    "2x Scope": 76,
+    "4x Scope": 71,
+    "AWM Scope": 47,
+    "Free Look": 69
+  },
+  "Vivo Model 25": {
+    "General": 91,
+    "Red Dot": 90,
+    "2x Scope": 87,
+    "4x Scope": 81,
+    "AWM Scope": 47,
+    "Free Look": 70
+  },
+  "Vivo Model 26": {
+    "General": 85,
+    "Red Dot": 81,
+    "2x Scope": 82,
+    "4x Scope": 70,
+    "AWM Scope": 53,
+    "Free Look": 72
+  },
+  "Vivo Model 27": {
+    "General": 98,
+    "Red Dot": 88,
+    "2x Scope": 84,
+    "4x Scope": 84,
+    "AWM Scope": 56,
+    "Free Look": 62
+  },
+  "Vivo Model 28": {
+    "General": 87,
+    "Red Dot": 83,
+    "2x Scope": 83,
+    "4x Scope": 75,
+    "AWM Scope": 50,
+    "Free Look": 73
+  },
+  "Vivo Model 29": {
+    "General": 98,
+    "Red Dot": 89,
+    "2x Scope": 80,
+    "4x Scope": 82,
+    "AWM Scope": 55,
+    "Free Look": 62
+  },
+  "Vivo Model 30": {
+    "General": 96,
+    "Red Dot": 91,
+    "2x Scope": 84,
+    "4x Scope": 78,
+    "AWM Scope": 48,
+    "Free Look": 64
+  },
+  "Vivo Model 31": {
+    "General": 95,
+    "Red Dot": 88,
+    "2x Scope": 80,
+    "4x Scope": 85,
+    "AWM Scope": 47,
+    "Free Look": 59
+  },
+  "Vivo Model 32": {
+    "General": 93,
+    "Red Dot": 91,
+    "2x Scope": 86,
+    "4x Scope": 83,
+    "AWM Scope": 51,
+    "Free Look": 74
+  },
+  "Vivo Model 33": {
+    "General": 86,
+    "Red Dot": 92,
+    "2x Scope": 82,
+    "4x Scope": 83,
+    "AWM Scope": 60,
+    "Free Look": 57
+  },
+  "Vivo Model 34": {
+    "General": 98,
+    "Red Dot": 90,
+    "2x Scope": 80,
+    "4x Scope": 82,
+    "AWM Scope": 46,
+    "Free Look": 61
+  },
+  "Vivo Model 35": {
+    "General": 87,
+    "Red Dot": 84,
+    "2x Scope": 75,
+    "4x Scope": 84,
+    "AWM Scope": 55,
+    "Free Look": 58
+  },
+  "Vivo Model 36": {
+    "General": 86,
+    "Red Dot": 84,
+    "2x Scope": 87,
+    "4x Scope": 81,
+    "AWM Scope": 53,
+    "Free Look": 66
+  },
+  "Vivo Model 37": {
+    "General": 99,
+    "Red Dot": 90,
+    "2x Scope": 89,
+    "4x Scope": 85,
+    "AWM Scope": 57,
+    "Free Look": 75
+  },
+  "Vivo Model 38": {
+    "General": 85,
+    "Red Dot": 92,
+    "2x Scope": 75,
+    "4x Scope": 77,
+    "AWM Scope": 57,
+    "Free Look": 60
+  },
+  "Vivo Model 39": {
+    "General": 87,
+    "Red Dot": 92,
+    "2x Scope": 79,
+    "4x Scope": 75,
+    "AWM Scope": 52,
+    "Free Look": 70
+  },
+  "Vivo Model 40": {
+    "General": 99,
+    "Red Dot": 85,
+    "2x Scope": 90,
+    "4x Scope": 79,
+    "AWM Scope": 57,
+    "Free Look": 63
+  },
+  "Vivo Model 41": {
+    "General": 92,
+    "Red Dot": 83,
+    "2x Scope": 77,
+    "4x Scope": 81,
+    "AWM Scope": 54,
+    "Free Look": 73
+  },
+  "Vivo Model 42": {
+    "General": 97,
+    "Red Dot": 88,
+    "2x Scope": 84,
+    "4x Scope": 73,
+    "AWM Scope": 60,
+    "Free Look": 69
+  },
+  "Vivo Model 43": {
+    "General": 97,
+    "Red Dot": 90,
+    "2x Scope": 86,
+    "4x Scope": 77,
+    "AWM Scope": 48,
+    "Free Look": 63
+  },
+  "Vivo Model 44": {
+    "General": 87,
+    "Red Dot": 94,
+    "2x Scope": 85,
+    "4x Scope": 74,
+    "AWM Scope": 45,
+    "Free Look": 62
+  },
+  "Vivo Model 45": {
+    "General": 86,
+    "Red Dot": 90,
+    "2x Scope": 76,
+    "4x Scope": 74,
+    "AWM Scope": 48,
+    "Free Look": 68
+  },
+  "Vivo Model 46": {
+    "General": 90,
+    "Red Dot": 81,
+    "2x Scope": 85,
+    "4x Scope": 77,
+    "AWM Scope": 46,
+    "Free Look": 56
+  },
+  "Vivo Model 47": {
+    "General": 85,
+    "Red Dot": 88,
+    "2x Scope": 83,
+    "4x Scope": 80,
+    "AWM Scope": 46,
+    "Free Look": 70
+  },
+  "Vivo Model 48": {
+    "General": 85,
+    "Red Dot": 88,
+    "2x Scope": 75,
+    "4x Scope": 73,
+    "AWM Scope": 45,
+    "Free Look": 61
+  },
+  "Vivo Model 49": {
+    "General": 98,
+    "Red Dot": 89,
+    "2x Scope": 87,
+    "4x Scope": 81,
+    "AWM Scope": 54,
+    "Free Look": 63
+  },
+  "Vivo Model 50": {
+    "General": 100,
+    "Red Dot": 84,
+    "2x Scope": 90,
+    "4x Scope": 83,
+    "AWM Scope": 57,
+    "Free Look": 72
+  },
+  "Vivo Model 51": {
+    "General": 86,
+    "Red Dot": 92,
+    "2x Scope": 79,
+    "4x Scope": 83,
+    "AWM Scope": 59,
+    "Free Look": 57
+  },
+  "Vivo Model 52": {
+    "General": 90,
+    "Red Dot": 86,
+    "2x Scope": 81,
+    "4x Scope": 75,
+    "AWM Scope": 51,
+    "Free Look": 72
+  },
+  "Vivo Model 53": {
+    "General": 100,
+    "Red Dot": 92,
+    "2x Scope": 82,
+    "4x Scope": 75,
+    "AWM Scope": 54,
+    "Free Look": 70
+  },
+  "Vivo Model 54": {
+    "General": 92,
+    "Red Dot": 91,
+    "2x Scope": 89,
+    "4x Scope": 85,
+    "AWM Scope": 59,
+    "Free Look": 58
+  },
+  "Vivo Model 55": {
+    "General": 93,
+    "Red Dot": 91,
+    "2x Scope": 76,
+    "4x Scope": 72,
+    "AWM Scope": 47,
+    "Free Look": 62
+  },
+  "Vivo Model 56": {
+    "General": 86,
+    "Red Dot": 86,
+    "2x Scope": 83,
+    "4x Scope": 80,
+    "AWM Scope": 45,
+    "Free Look": 60
+  },
+  "Vivo Model 57": {
+    "General": 93,
+    "Red Dot": 90,
+    "2x Scope": 78,
+    "4x Scope": 70,
+    "AWM Scope": 52,
+    "Free Look": 67
+  },
+  "Vivo Model 58": {
+    "General": 85,
+    "Red Dot": 90,
+    "2x Scope": 81,
+    "4x Scope": 71,
+    "AWM Scope": 54,
+    "Free Look": 74
+  },
+  "Vivo Model 59": {
+    "General": 90,
+    "Red Dot": 85,
+    "2x Scope": 82,
+    "4x Scope": 85,
+    "AWM Scope": 53,
+    "Free Look": 59
+  },
+  "OnePlus Model 1": {
+    "General": 90,
+    "Red Dot": 93,
+    "2x Scope": 88,
+    "4x Scope": 75,
+    "AWM Scope": 48,
+    "Free Look": 60
+  },
+  "OnePlus Model 2": {
+    "General": 96,
+    "Red Dot": 83,
+    "2x Scope": 76,
+    "4x Scope": 82,
+    "AWM Scope": 59,
+    "Free Look": 61
+  },
+  "OnePlus Model 3": {
+    "General": 86,
+    "Red Dot": 82,
+    "2x Scope": 84,
+    "4x Scope": 71,
+    "AWM Scope": 45,
+    "Free Look": 60
+  },
+  "OnePlus Model 4": {
+    "General": 97,
+    "Red Dot": 80,
+    "2x Scope": 81,
+    "4x Scope": 74,
+    "AWM Scope": 45,
+    "Free Look": 55
+  },
+  "OnePlus Model 5": {
+    "General": 87,
+    "Red Dot": 87,
+    "2x Scope": 80,
+    "4x Scope": 81,
+    "AWM Scope": 59,
+    "Free Look": 71
+  },
+  "OnePlus Model 6": {
+    "General": 93,
+    "Red Dot": 81,
+    "2x Scope": 75,
+    "4x Scope": 85,
+    "AWM Scope": 60,
+    "Free Look": 59
+  },
+  "OnePlus Model 7": {
+    "General": 95,
+    "Red Dot": 81,
+    "2x Scope": 80,
+    "4x Scope": 83,
+    "AWM Scope": 46,
+    "Free Look": 56
+  },
+  "OnePlus Model 8": {
+    "General": 94,
+    "Red Dot": 80,
+    "2x Scope": 90,
+    "4x Scope": 77,
+    "AWM Scope": 57,
+    "Free Look": 65
+  },
+  "OnePlus Model 9": {
+    "General": 95,
+    "Red Dot": 86,
+    "2x Scope": 86,
+    "4x Scope": 80,
+    "AWM Scope": 58,
+    "Free Look": 69
+  },
+  "OnePlus Model 10": {
+    "General": 99,
+    "Red Dot": 86,
+    "2x Scope": 89,
+    "4x Scope": 83,
+    "AWM Scope": 54,
+    "Free Look": 72
+  },
+  "OnePlus Model 11": {
+    "General": 92,
+    "Red Dot": 80,
+    "2x Scope": 75,
+    "4x Scope": 80,
+    "AWM Scope": 56,
+    "Free Look": 73
+  },
+  "OnePlus Model 12": {
+    "General": 90,
+    "Red Dot": 82,
+    "2x Scope": 88,
+    "4x Scope": 71,
+    "AWM Scope": 54,
+    "Free Look": 56
+  },
+  "OnePlus Model 13": {
+    "General": 89,
+    "Red Dot": 94,
+    "2x Scope": 86,
+    "4x Scope": 83,
+    "AWM Scope": 59,
+    "Free Look": 66
+  },
+  "OnePlus Model 14": {
+    "General": 99,
+    "Red Dot": 81,
+    "2x Scope": 87,
+    "4x Scope": 80,
+    "AWM Scope": 50,
+    "Free Look": 55
+  },
+  "OnePlus Model 15": {
+    "General": 93,
+    "Red Dot": 83,
+    "2x Scope": 81,
+    "4x Scope": 77,
+    "AWM Scope": 51,
+    "Free Look": 72
+  },
+  "OnePlus Model 16": {
+    "General": 92,
+    "Red Dot": 95,
+    "2x Scope": 90,
+    "4x Scope": 78,
+    "AWM Scope": 56,
+    "Free Look": 71
+  },
+  "OnePlus Model 17": {
+    "General": 92,
+    "Red Dot": 80,
+    "2x Scope": 84,
+    "4x Scope": 74,
+    "AWM Scope": 46,
+    "Free Look": 66
+  },
+  "OnePlus Model 18": {
+    "General": 91,
+    "Red Dot": 84,
+    "2x Scope": 81,
+    "4x Scope": 82,
+    "AWM Scope": 59,
+    "Free Look": 62
+  },
+  "OnePlus Model 19": {
+    "General": 93,
+    "Red Dot": 83,
+    "2x Scope": 87,
+    "4x Scope": 84,
+    "AWM Scope": 45,
+    "Free Look": 64
+  },
+  "OnePlus Model 20": {
+    "General": 96,
+    "Red Dot": 83,
+    "2x Scope": 87,
+    "4x Scope": 77,
+    "AWM Scope": 58,
+    "Free Look": 57
+  },
+  "OnePlus Model 21": {
+    "General": 91,
+    "Red Dot": 86,
+    "2x Scope": 79,
+    "4x Scope": 84,
+    "AWM Scope": 47,
+    "Free Look": 69
+  },
+  "OnePlus Model 22": {
+    "General": 94,
+    "Red Dot": 87,
+    "2x Scope": 85,
+    "4x Scope": 81,
+    "AWM Scope": 50,
+    "Free Look": 64
+  },
+  "OnePlus Model 23": {
+    "General": 93,
+    "Red Dot": 84,
+    "2x Scope": 84,
+    "4x Scope": 77,
+    "AWM Scope": 46,
+    "Free Look": 64
+  },
+  "OnePlus Model 24": {
+    "General": 93,
+    "Red Dot": 95,
+    "2x Scope": 85,
+    "4x Scope": 73,
+    "AWM Scope": 52,
+    "Free Look": 75
+  },
+  "OnePlus Model 25": {
+    "General": 88,
+    "Red Dot": 93,
+    "2x Scope": 76,
+    "4x Scope": 75,
+    "AWM Scope": 58,
+    "Free Look": 58
+  },
+  "OnePlus Model 26": {
+    "General": 90,
+    "Red Dot": 80,
+    "2x Scope": 79,
+    "4x Scope": 74,
+    "AWM Scope": 47,
+    "Free Look": 70
+  },
+  "OnePlus Model 27": {
+    "General": 86,
+    "Red Dot": 93,
+    "2x Scope": 78,
+    "4x Scope": 82,
+    "AWM Scope": 56,
+    "Free Look": 58
+  },
+  "OnePlus Model 28": {
+    "General": 97,
+    "Red Dot": 92,
+    "2x Scope": 82,
+    "4x Scope": 70,
+    "AWM Scope": 52,
+    "Free Look": 74
+  },
+  "OnePlus Model 29": {
+    "General": 88,
+    "Red Dot": 91,
+    "2x Scope": 82,
+    "4x Scope": 83,
+    "AWM Scope": 47,
+    "Free Look": 57
+  },
+  "OnePlus Model 30": {
+    "General": 98,
+    "Red Dot": 88,
+    "2x Scope": 87,
+    "4x Scope": 72,
+    "AWM Scope": 57,
+    "Free Look": 56
+  },
+  "OnePlus Model 31": {
+    "General": 89,
+    "Red Dot": 82,
+    "2x Scope": 77,
+    "4x Scope": 80,
+    "AWM Scope": 46,
+    "Free Look": 63
+  },
+  "OnePlus Model 32": {
+    "General": 96,
+    "Red Dot": 94,
+    "2x Scope": 78,
+    "4x Scope": 81,
+    "AWM Scope": 55,
+    "Free Look": 70
+  },
+  "OnePlus Model 33": {
+    "General": 98,
+    "Red Dot": 89,
+    "2x Scope": 76,
+    "4x Scope": 78,
+    "AWM Scope": 49,
+    "Free Look": 65
+  },
+  "OnePlus Model 34": {
+    "General": 89,
+    "Red Dot": 82,
+    "2x Scope": 79,
+    "4x Scope": 83,
+    "AWM Scope": 59,
+    "Free Look": 55
+  },
+  "OnePlus Model 35": {
+    "General": 86,
+    "Red Dot": 86,
+    "2x Scope": 76,
+    "4x Scope": 80,
+    "AWM Scope": 58,
+    "Free Look": 66
+  },
+  "OnePlus Model 36": {
+    "General": 95,
+    "Red Dot": 81,
+    "2x Scope": 79,
+    "4x Scope": 83,
+    "AWM Scope": 55,
+    "Free Look": 74
+  },
+  "OnePlus Model 37": {
+    "General": 98,
+    "Red Dot": 89,
+    "2x Scope": 77,
+    "4x Scope": 74,
+    "AWM Scope": 56,
+    "Free Look": 74
+  },
+  "OnePlus Model 38": {
+    "General": 97,
+    "Red Dot": 82,
+    "2x Scope": 82,
+    "4x Scope": 78,
+    "AWM Scope": 46,
+    "Free Look": 74
+  },
+  "OnePlus Model 39": {
+    "General": 89,
+    "Red Dot": 91,
+    "2x Scope": 86,
+    "4x Scope": 82,
+    "AWM Scope": 48,
+    "Free Look": 69
+  },
+  "OnePlus Model 40": {
+    "General": 89,
+    "Red Dot": 87,
+    "2x Scope": 90,
+    "4x Scope": 80,
+    "AWM Scope": 58,
+    "Free Look": 62
+  },
+  "OnePlus Model 41": {
+    "General": 85,
+    "Red Dot": 80,
+    "2x Scope": 89,
+    "4x Scope": 71,
+    "AWM Scope": 51,
+    "Free Look": 71
+  },
+  "OnePlus Model 42": {
+    "General": 89,
+    "Red Dot": 85,
+    "2x Scope": 75,
+    "4x Scope": 81,
+    "AWM Scope": 56,
+    "Free Look": 63
+  },
+  "OnePlus Model 43": {
+    "General": 94,
+    "Red Dot": 88,
+    "2x Scope": 81,
+    "4x Scope": 80,
+    "AWM Scope": 49,
+    "Free Look": 75
+  },
+  "OnePlus Model 44": {
+    "General": 90,
+    "Red Dot": 89,
+    "2x Scope": 90,
+    "4x Scope": 81,
+    "AWM Scope": 60,
+    "Free Look": 71
+  },
+  "OnePlus Model 45": {
+    "General": 91,
+    "Red Dot": 91,
+    "2x Scope": 83,
+    "4x Scope": 72,
+    "AWM Scope": 59,
+    "Free Look": 59
+  },
+  "OnePlus Model 46": {
+    "General": 93,
+    "Red Dot": 94,
+    "2x Scope": 82,
+    "4x Scope": 83,
+    "AWM Scope": 57,
+    "Free Look": 59
+  },
+  "OnePlus Model 47": {
+    "General": 85,
+    "Red Dot": 91,
+    "2x Scope": 80,
+    "4x Scope": 84,
+    "AWM Scope": 51,
+    "Free Look": 62
+  },
+  "OnePlus Model 48": {
+    "General": 87,
+    "Red Dot": 87,
+    "2x Scope": 86,
+    "4x Scope": 72,
+    "AWM Scope": 49,
+    "Free Look": 70
+  },
+  "OnePlus Model 49": {
+    "General": 87,
+    "Red Dot": 89,
+    "2x Scope": 89,
+    "4x Scope": 76,
+    "AWM Scope": 55,
+    "Free Look": 67
+  },
+  "OnePlus Model 50": {
+    "General": 94,
+    "Red Dot": 95,
+    "2x Scope": 76,
+    "4x Scope": 82,
+    "AWM Scope": 54,
+    "Free Look": 70
+  },
+  "OnePlus Model 51": {
+    "General": 97,
+    "Red Dot": 89,
+    "2x Scope": 77,
+    "4x Scope": 72,
+    "AWM Scope": 52,
+    "Free Look": 61
+  },
+  "OnePlus Model 52": {
+    "General": 86,
+    "Red Dot": 89,
+    "2x Scope": 90,
+    "4x Scope": 78,
+    "AWM Scope": 58,
+    "Free Look": 61
+  },
+  "OnePlus Model 53": {
+    "General": 95,
+    "Red Dot": 81,
+    "2x Scope": 79,
+    "4x Scope": 70,
+    "AWM Scope": 45,
+    "Free Look": 71
+  },
+  "OnePlus Model 54": {
+    "General": 85,
+    "Red Dot": 91,
+    "2x Scope": 76,
+    "4x Scope": 77,
+    "AWM Scope": 56,
+    "Free Look": 56
+  },
+  "OnePlus Model 55": {
+    "General": 99,
+    "Red Dot": 95,
+    "2x Scope": 75,
+    "4x Scope": 78,
+    "AWM Scope": 47,
+    "Free Look": 62
+  },
+  "OnePlus Model 56": {
+    "General": 85,
+    "Red Dot": 91,
+    "2x Scope": 89,
+    "4x Scope": 78,
+    "AWM Scope": 53,
+    "Free Look": 57
+  },
+  "OnePlus Model 57": {
+    "General": 89,
+    "Red Dot": 87,
+    "2x Scope": 77,
+    "4x Scope": 74,
+    "AWM Scope": 51,
+    "Free Look": 60
+  },
+  "OnePlus Model 58": {
+    "General": 99,
+    "Red Dot": 87,
+    "2x Scope": 86,
+    "4x Scope": 84,
+    "AWM Scope": 51,
+    "Free Look": 61
+  },
+  "OnePlus Model 59": {
+    "General": 95,
+    "Red Dot": 81,
+    "2x Scope": 79,
+    "4x Scope": 75,
+    "AWM Scope": 60,
+    "Free Look": 68
+  },
+  "Motorola Model 1": {
+    "General": 86,
+    "Red Dot": 93,
+    "2x Scope": 79,
+    "4x Scope": 80,
+    "AWM Scope": 52,
+    "Free Look": 63
+  },
+  "Motorola Model 2": {
+    "General": 98,
+    "Red Dot": 92,
+    "2x Scope": 78,
+    "4x Scope": 80,
+    "AWM Scope": 56,
+    "Free Look": 61
+  },
+  "Motorola Model 3": {
+    "General": 93,
+    "Red Dot": 86,
+    "2x Scope": 87,
+    "4x Scope": 80,
+    "AWM Scope": 55,
+    "Free Look": 73
+  },
+  "Motorola Model 4": {
+    "General": 95,
+    "Red Dot": 95,
+    "2x Scope": 76,
+    "4x Scope": 73,
+    "AWM Scope": 55,
+    "Free Look": 62
+  },
+  "Motorola Model 5": {
+    "General": 93,
+    "Red Dot": 82,
+    "2x Scope": 75,
+    "4x Scope": 78,
+    "AWM Scope": 45,
+    "Free Look": 72
+  },
+  "Motorola Model 6": {
+    "General": 93,
+    "Red Dot": 82,
+    "2x Scope": 85,
+    "4x Scope": 76,
+    "AWM Scope": 54,
+    "Free Look": 58
+  },
+  "Motorola Model 7": {
+    "General": 93,
+    "Red Dot": 88,
+    "2x Scope": 84,
+    "4x Scope": 79,
+    "AWM Scope": 50,
+    "Free Look": 71
+  },
+  "Motorola Model 8": {
+    "General": 99,
+    "Red Dot": 93,
+    "2x Scope": 79,
+    "4x Scope": 79,
+    "AWM Scope": 59,
+    "Free Look": 66
+  },
+  "Motorola Model 9": {
+    "General": 89,
+    "Red Dot": 84,
+    "2x Scope": 77,
+    "4x Scope": 73,
+    "AWM Scope": 47,
+    "Free Look": 69
+  },
+  "Motorola Model 10": {
+    "General": 93,
+    "Red Dot": 95,
+    "2x Scope": 78,
+    "4x Scope": 83,
+    "AWM Scope": 57,
+    "Free Look": 60
+  },
+  "Motorola Model 11": {
+    "General": 92,
+    "Red Dot": 82,
+    "2x Scope": 87,
+    "4x Scope": 82,
+    "AWM Scope": 57,
+    "Free Look": 72
+  },
+  "Motorola Model 12": {
+    "General": 89,
+    "Red Dot": 85,
+    "2x Scope": 77,
+    "4x Scope": 72,
+    "AWM Scope": 59,
+    "Free Look": 71
+  },
+  "Motorola Model 13": {
+    "General": 85,
+    "Red Dot": 89,
+    "2x Scope": 80,
+    "4x Scope": 82,
+    "AWM Scope": 59,
+    "Free Look": 72
+  },
+  "Motorola Model 14": {
+    "General": 93,
+    "Red Dot": 82,
+    "2x Scope": 80,
+    "4x Scope": 81,
+    "AWM Scope": 48,
+    "Free Look": 60
+  },
+  "Motorola Model 15": {
+    "General": 94,
+    "Red Dot": 94,
+    "2x Scope": 84,
+    "4x Scope": 83,
+    "AWM Scope": 57,
+    "Free Look": 64
+  },
+  "Motorola Model 16": {
+    "General": 98,
+    "Red Dot": 89,
+    "2x Scope": 75,
+    "4x Scope": 77,
+    "AWM Scope": 48,
+    "Free Look": 60
+  },
+  "Motorola Model 17": {
+    "General": 85,
+    "Red Dot": 85,
+    "2x Scope": 77,
+    "4x Scope": 77,
+    "AWM Scope": 56,
+    "Free Look": 63
+  },
+  "Motorola Model 18": {
+    "General": 96,
+    "Red Dot": 94,
+    "2x Scope": 86,
+    "4x Scope": 85,
+    "AWM Scope": 58,
+    "Free Look": 55
+  },
+  "Motorola Model 19": {
+    "General": 100,
+    "Red Dot": 89,
+    "2x Scope": 90,
+    "4x Scope": 83,
+    "AWM Scope": 50,
+    "Free Look": 64
+  },
+  "Motorola Model 20": {
+    "General": 88,
+    "Red Dot": 94,
+    "2x Scope": 78,
+    "4x Scope": 75,
+    "AWM Scope": 46,
+    "Free Look": 61
+  },
+  "Motorola Model 21": {
+    "General": 87,
+    "Red Dot": 88,
+    "2x Scope": 79,
+    "4x Scope": 78,
+    "AWM Scope": 46,
+    "Free Look": 71
+  },
+  "Motorola Model 22": {
+    "General": 89,
+    "Red Dot": 94,
+    "2x Scope": 89,
+    "4x Scope": 84,
+    "AWM Scope": 46,
+    "Free Look": 69
+  },
+  "Motorola Model 23": {
+    "General": 100,
+    "Red Dot": 95,
+    "2x Scope": 82,
+    "4x Scope": 71,
+    "AWM Scope": 48,
+    "Free Look": 69
+  },
+  "Motorola Model 24": {
+    "General": 99,
+    "Red Dot": 92,
+    "2x Scope": 83,
+    "4x Scope": 70,
+    "AWM Scope": 56,
+    "Free Look": 67
+  },
+  "Motorola Model 25": {
+    "General": 96,
+    "Red Dot": 87,
+    "2x Scope": 81,
+    "4x Scope": 81,
+    "AWM Scope": 58,
+    "Free Look": 55
+  },
+  "Motorola Model 26": {
+    "General": 95,
+    "Red Dot": 84,
+    "2x Scope": 89,
+    "4x Scope": 74,
+    "AWM Scope": 57,
+    "Free Look": 65
+  },
+  "Motorola Model 27": {
+    "General": 88,
+    "Red Dot": 86,
+    "2x Scope": 88,
+    "4x Scope": 85,
+    "AWM Scope": 47,
+    "Free Look": 68
+  },
+  "Motorola Model 28": {
+    "General": 98,
+    "Red Dot": 86,
+    "2x Scope": 81,
+    "4x Scope": 84,
+    "AWM Scope": 60,
+    "Free Look": 64
+  },
+  "Motorola Model 29": {
+    "General": 95,
+    "Red Dot": 87,
+    "2x Scope": 80,
+    "4x Scope": 73,
+    "AWM Scope": 45,
+    "Free Look": 56
+  },
+  "Motorola Model 30": {
+    "General": 85,
+    "Red Dot": 86,
+    "2x Scope": 75,
+    "4x Scope": 72,
+    "AWM Scope": 50,
+    "Free Look": 62
+  },
+  "Motorola Model 31": {
+    "General": 93,
+    "Red Dot": 83,
+    "2x Scope": 75,
+    "4x Scope": 85,
+    "AWM Scope": 57,
+    "Free Look": 64
+  },
+  "Motorola Model 32": {
+    "General": 87,
+    "Red Dot": 86,
+    "2x Scope": 85,
+    "4x Scope": 78,
+    "AWM Scope": 54,
+    "Free Look": 61
+  },
+  "Motorola Model 33": {
+    "General": 97,
+    "Red Dot": 81,
+    "2x Scope": 80,
+    "4x Scope": 77,
+    "AWM Scope": 60,
+    "Free Look": 62
+  },
+  "Motorola Model 34": {
+    "General": 92,
+    "Red Dot": 92,
+    "2x Scope": 89,
+    "4x Scope": 76,
+    "AWM Scope": 49,
+    "Free Look": 64
+  },
+  "Motorola Model 35": {
+    "General": 97,
+    "Red Dot": 88,
+    "2x Scope": 81,
+    "4x Scope": 75,
+    "AWM Scope": 45,
+    "Free Look": 74
+  },
+  "Motorola Model 36": {
+    "General": 86,
+    "Red Dot": 85,
+    "2x Scope": 83,
+    "4x Scope": 74,
+    "AWM Scope": 54,
+    "Free Look": 66
+  },
+  "Motorola Model 37": {
+    "General": 100,
+    "Red Dot": 91,
+    "2x Scope": 86,
+    "4x Scope": 74,
+    "AWM Scope": 45,
+    "Free Look": 56
+  },
+  "Motorola Model 38": {
+    "General": 93,
+    "Red Dot": 93,
+    "2x Scope": 86,
+    "4x Scope": 85,
+    "AWM Scope": 55,
+    "Free Look": 69
+  },
+  "Motorola Model 39": {
+    "General": 100,
+    "Red Dot": 95,
+    "2x Scope": 75,
+    "4x Scope": 75,
+    "AWM Scope": 48,
+    "Free Look": 67
+  },
+  "Motorola Model 40": {
+    "General": 89,
+    "Red Dot": 80,
+    "2x Scope": 84,
+    "4x Scope": 84,
+    "AWM Scope": 59,
+    "Free Look": 72
+  },
+  "Motorola Model 41": {
+    "General": 97,
+    "Red Dot": 82,
+    "2x Scope": 79,
+    "4x Scope": 81,
+    "AWM Scope": 50,
+    "Free Look": 72
+  },
+  "Motorola Model 42": {
+    "General": 94,
+    "Red Dot": 85,
+    "2x Scope": 82,
+    "4x Scope": 85,
+    "AWM Scope": 55,
+    "Free Look": 74
+  },
+  "Motorola Model 43": {
+    "General": 100,
+    "Red Dot": 87,
+    "2x Scope": 87,
+    "4x Scope": 78,
+    "AWM Scope": 54,
+    "Free Look": 56
+  },
+  "Motorola Model 44": {
+    "General": 95,
+    "Red Dot": 82,
+    "2x Scope": 83,
+    "4x Scope": 74,
+    "AWM Scope": 59,
+    "Free Look": 74
+  },
+  "Motorola Model 45": {
+    "General": 90,
+    "Red Dot": 88,
+    "2x Scope": 83,
+    "4x Scope": 85,
+    "AWM Scope": 52,
+    "Free Look": 67
+  },
+  "Motorola Model 46": {
+    "General": 93,
+    "Red Dot": 84,
+    "2x Scope": 78,
+    "4x Scope": 70,
+    "AWM Scope": 59,
+    "Free Look": 67
+  },
+  "Motorola Model 47": {
+    "General": 99,
+    "Red Dot": 86,
+    "2x Scope": 89,
+    "4x Scope": 73,
+    "AWM Scope": 60,
+    "Free Look": 63
+  },
+  "Motorola Model 48": {
+    "General": 97,
+    "Red Dot": 81,
+    "2x Scope": 78,
+    "4x Scope": 82,
+    "AWM Scope": 52,
+    "Free Look": 55
+  },
+  "Motorola Model 49": {
+    "General": 100,
+    "Red Dot": 81,
+    "2x Scope": 83,
+    "4x Scope": 81,
+    "AWM Scope": 55,
+    "Free Look": 62
+  },
+  "Motorola Model 50": {
+    "General": 96,
+    "Red Dot": 93,
+    "2x Scope": 83,
+    "4x Scope": 79,
+    "AWM Scope": 50,
+    "Free Look": 65
+  },
+  "Motorola Model 51": {
+    "General": 91,
+    "Red Dot": 95,
+    "2x Scope": 77,
+    "4x Scope": 75,
+    "AWM Scope": 57,
+    "Free Look": 63
+  },
+  "Motorola Model 52": {
+    "General": 94,
+    "Red Dot": 89,
+    "2x Scope": 81,
+    "4x Scope": 79,
+    "AWM Scope": 53,
+    "Free Look": 58
+  },
+  "Motorola Model 53": {
+    "General": 97,
+    "Red Dot": 83,
+    "2x Scope": 78,
+    "4x Scope": 85,
+    "AWM Scope": 50,
+    "Free Look": 60
+  },
+  "Motorola Model 54": {
+    "General": 88,
+    "Red Dot": 87,
+    "2x Scope": 81,
+    "4x Scope": 82,
+    "AWM Scope": 55,
+    "Free Look": 66
+  },
+  "Motorola Model 55": {
+    "General": 88,
+    "Red Dot": 90,
+    "2x Scope": 79,
+    "4x Scope": 76,
+    "AWM Scope": 53,
+    "Free Look": 59
+  },
+  "Motorola Model 56": {
+    "General": 94,
+    "Red Dot": 83,
+    "2x Scope": 82,
+    "4x Scope": 71,
+    "AWM Scope": 60,
+    "Free Look": 56
+  },
+  "Motorola Model 57": {
+    "General": 98,
+    "Red Dot": 84,
+    "2x Scope": 85,
+    "4x Scope": 76,
+    "AWM Scope": 58,
+    "Free Look": 70
+  },
+  "Motorola Model 58": {
+    "General": 94,
+    "Red Dot": 81,
+    "2x Scope": 90,
+    "4x Scope": 75,
+    "AWM Scope": 56,
+    "Free Look": 69
+  },
+  "Motorola Model 59": {
+    "General": 97,
+    "Red Dot": 83,
+    "2x Scope": 80,
+    "4x Scope": 75,
+    "AWM Scope": 51,
+    "Free Look": 61
+  },
+  "Infinix Model 1": {
+    "General": 95,
+    "Red Dot": 86,
+    "2x Scope": 89,
+    "4x Scope": 77,
+    "AWM Scope": 45,
+    "Free Look": 75
+  },
+  "Infinix Model 2": {
+    "General": 93,
+    "Red Dot": 88,
+    "2x Scope": 84,
+    "4x Scope": 85,
+    "AWM Scope": 54,
+    "Free Look": 73
+  },
+  "Infinix Model 3": {
+    "General": 93,
+    "Red Dot": 91,
+    "2x Scope": 76,
+    "4x Scope": 70,
+    "AWM Scope": 60,
+    "Free Look": 55
+  },
+  "Infinix Model 4": {
+    "General": 90,
+    "Red Dot": 81,
+    "2x Scope": 77,
+    "4x Scope": 80,
+    "AWM Scope": 51,
+    "Free Look": 73
+  },
+  "Infinix Model 5": {
+    "General": 85,
+    "Red Dot": 84,
+    "2x Scope": 82,
+    "4x Scope": 85,
+    "AWM Scope": 45,
+    "Free Look": 64
+  },
+  "Infinix Model 6": {
+    "General": 89,
+    "Red Dot": 84,
+    "2x Scope": 77,
+    "4x Scope": 79,
+    "AWM Scope": 49,
+    "Free Look": 64
+  },
+  "Infinix Model 7": {
+    "General": 97,
+    "Red Dot": 81,
+    "2x Scope": 89,
+    "4x Scope": 81,
+    "AWM Scope": 46,
+    "Free Look": 60
+  },
+  "Infinix Model 8": {
+    "General": 97,
+    "Red Dot": 84,
+    "2x Scope": 86,
+    "4x Scope": 71,
+    "AWM Scope": 49,
+    "Free Look": 68
+  },
+  "Infinix Model 9": {
+    "General": 95,
+    "Red Dot": 91,
+    "2x Scope": 86,
+    "4x Scope": 84,
+    "AWM Scope": 50,
+    "Free Look": 57
+  },
+  "Infinix Model 10": {
+    "General": 96,
+    "Red Dot": 81,
+    "2x Scope": 75,
+    "4x Scope": 85,
+    "AWM Scope": 45,
+    "Free Look": 72
+  },
+  "Infinix Model 11": {
+    "General": 97,
+    "Red Dot": 80,
+    "2x Scope": 86,
+    "4x Scope": 83,
+    "AWM Scope": 54,
+    "Free Look": 60
+  },
+  "Infinix Model 12": {
+    "General": 99,
+    "Red Dot": 91,
+    "2x Scope": 78,
+    "4x Scope": 72,
+    "AWM Scope": 49,
+    "Free Look": 73
+  },
+  "Infinix Model 13": {
+    "General": 98,
+    "Red Dot": 92,
+    "2x Scope": 90,
+    "4x Scope": 76,
+    "AWM Scope": 54,
+    "Free Look": 66
+  },
+  "Infinix Model 14": {
+    "General": 87,
+    "Red Dot": 83,
+    "2x Scope": 84,
+    "4x Scope": 85,
+    "AWM Scope": 58,
+    "Free Look": 61
+  },
+  "Infinix Model 15": {
+    "General": 97,
+    "Red Dot": 95,
+    "2x Scope": 76,
+    "4x Scope": 72,
+    "AWM Scope": 53,
+    "Free Look": 74
+  },
+  "Infinix Model 16": {
+    "General": 85,
+    "Red Dot": 89,
+    "2x Scope": 85,
+    "4x Scope": 83,
+    "AWM Scope": 56,
+    "Free Look": 74
+  },
+  "Infinix Model 17": {
+    "General": 90,
+    "Red Dot": 87,
+    "2x Scope": 75,
+    "4x Scope": 77,
+    "AWM Scope": 56,
+    "Free Look": 64
+  },
+  "Infinix Model 18": {
+    "General": 96,
+    "Red Dot": 89,
+    "2x Scope": 89,
+    "4x Scope": 84,
+    "AWM Scope": 55,
+    "Free Look": 58
+  },
+  "Infinix Model 19": {
+    "General": 92,
+    "Red Dot": 88,
+    "2x Scope": 77,
+    "4x Scope": 73,
+    "AWM Scope": 56,
+    "Free Look": 70
+  },
+  "Infinix Model 20": {
+    "General": 85,
+    "Red Dot": 89,
+    "2x Scope": 81,
+    "4x Scope": 83,
+    "AWM Scope": 50,
+    "Free Look": 68
+  },
+  "Infinix Model 21": {
+    "General": 86,
+    "Red Dot": 92,
+    "2x Scope": 79,
+    "4x Scope": 76,
+    "AWM Scope": 55,
+    "Free Look": 65
+  },
+  "Infinix Model 22": {
+    "General": 96,
+    "Red Dot": 92,
+    "2x Scope": 80,
+    "4x Scope": 71,
+    "AWM Scope": 59,
+    "Free Look": 60
+  },
+  "Infinix Model 23": {
+    "General": 93,
+    "Red Dot": 92,
+    "2x Scope": 81,
+    "4x Scope": 84,
+    "AWM Scope": 51,
+    "Free Look": 60
+  },
+  "Infinix Model 24": {
+    "General": 92,
+    "Red Dot": 94,
+    "2x Scope": 82,
+    "4x Scope": 76,
+    "AWM Scope": 54,
+    "Free Look": 74
+  },
+  "Infinix Model 25": {
+    "General": 96,
+    "Red Dot": 83,
+    "2x Scope": 79,
+    "4x Scope": 82,
+    "AWM Scope": 50,
+    "Free Look": 63
+  },
+  "Infinix Model 26": {
+    "General": 92,
+    "Red Dot": 95,
+    "2x Scope": 76,
+    "4x Scope": 76,
+    "AWM Scope": 56,
+    "Free Look": 59
+  },
+  "Infinix Model 27": {
+    "General": 88,
+    "Red Dot": 93,
+    "2x Scope": 76,
+    "4x Scope": 85,
+    "AWM Scope": 60,
+    "Free Look": 55
+  },
+  "Infinix Model 28": {
+    "General": 91,
+    "Red Dot": 82,
+    "2x Scope": 86,
+    "4x Scope": 72,
+    "AWM Scope": 51,
+    "Free Look": 58
+  },
+  "Infinix Model 29": {
+    "General": 87,
+    "Red Dot": 94,
+    "2x Scope": 75,
+    "4x Scope": 70,
+    "AWM Scope": 58,
+    "Free Look": 70
+  },
+  "Infinix Model 30": {
+    "General": 94,
+    "Red Dot": 85,
+    "2x Scope": 76,
+    "4x Scope": 75,
+    "AWM Scope": 51,
+    "Free Look": 59
+  },
+  "Infinix Model 31": {
+    "General": 88,
+    "Red Dot": 82,
+    "2x Scope": 87,
+    "4x Scope": 75,
+    "AWM Scope": 52,
+    "Free Look": 70
+  },
+  "Infinix Model 32": {
+    "General": 93,
+    "Red Dot": 80,
+    "2x Scope": 85,
+    "4x Scope": 85,
+    "AWM Scope": 49,
+    "Free Look": 61
+  },
+  "Infinix Model 33": {
+    "General": 91,
+    "Red Dot": 80,
+    "2x Scope": 89,
+    "4x Scope": 85,
+    "AWM Scope": 52,
+    "Free Look": 58
+  },
+  "Infinix Model 34": {
+    "General": 100,
+    "Red Dot": 91,
+    "2x Scope": 83,
+    "4x Scope": 74,
+    "AWM Scope": 45,
+    "Free Look": 72
+  },
+  "Infinix Model 35": {
+    "General": 86,
+    "Red Dot": 88,
+    "2x Scope": 84,
+    "4x Scope": 83,
+    "AWM Scope": 59,
+    "Free Look": 72
+  },
+  "Infinix Model 36": {
+    "General": 95,
+    "Red Dot": 84,
+    "2x Scope": 84,
+    "4x Scope": 79,
+    "AWM Scope": 59,
+    "Free Look": 60
+  },
+  "Infinix Model 37": {
+    "General": 99,
+    "Red Dot": 82,
+    "2x Scope": 84,
+    "4x Scope": 75,
+    "AWM Scope": 59,
+    "Free Look": 55
+  },
+  "Infinix Model 38": {
+    "General": 89,
+    "Red Dot": 85,
+    "2x Scope": 89,
+    "4x Scope": 79,
+    "AWM Scope": 53,
+    "Free Look": 68
+  },
+  "Infinix Model 39": {
+    "General": 88,
+    "Red Dot": 95,
+    "2x Scope": 79,
+    "4x Scope": 85,
+    "AWM Scope": 50,
+    "Free Look": 60
+  },
+  "Infinix Model 40": {
+    "General": 86,
+    "Red Dot": 84,
+    "2x Scope": 75,
+    "4x Scope": 78,
+    "AWM Scope": 46,
+    "Free Look": 56
+  },
+  "Infinix Model 41": {
+    "General": 93,
+    "Red Dot": 81,
+    "2x Scope": 82,
+    "4x Scope": 81,
+    "AWM Scope": 50,
+    "Free Look": 64
+  },
+  "Infinix Model 42": {
+    "General": 93,
+    "Red Dot": 86,
+    "2x Scope": 86,
+    "4x Scope": 81,
+    "AWM Scope": 58,
+    "Free Look": 61
+  },
+  "Infinix Model 43": {
+    "General": 95,
+    "Red Dot": 81,
+    "2x Scope": 90,
+    "4x Scope": 79,
+    "AWM Scope": 49,
+    "Free Look": 74
+  },
+  "Infinix Model 44": {
+    "General": 91,
+    "Red Dot": 82,
+    "2x Scope": 79,
+    "4x Scope": 74,
+    "AWM Scope": 50,
+    "Free Look": 75
+  },
+  "Infinix Model 45": {
+    "General": 86,
+    "Red Dot": 93,
+    "2x Scope": 90,
+    "4x Scope": 71,
+    "AWM Scope": 48,
+    "Free Look": 69
+  },
+  "Infinix Model 46": {
+    "General": 98,
+    "Red Dot": 92,
+    "2x Scope": 81,
+    "4x Scope": 75,
+    "AWM Scope": 59,
+    "Free Look": 69
+  },
+  "Infinix Model 47": {
+    "General": 85,
+    "Red Dot": 87,
+    "2x Scope": 78,
+    "4x Scope": 72,
+    "AWM Scope": 58,
+    "Free Look": 64
+  },
+  "Infinix Model 48": {
+    "General": 92,
+    "Red Dot": 91,
+    "2x Scope": 84,
+    "4x Scope": 83,
+    "AWM Scope": 57,
+    "Free Look": 64
+  },
+  "Infinix Model 49": {
+    "General": 95,
+    "Red Dot": 85,
+    "2x Scope": 87,
+    "4x Scope": 74,
+    "AWM Scope": 60,
+    "Free Look": 59
+  },
+  "Infinix Model 50": {
+    "General": 98,
+    "Red Dot": 87,
+    "2x Scope": 81,
+    "4x Scope": 83,
+    "AWM Scope": 51,
+    "Free Look": 74
+  },
+  "Infinix Model 51": {
+    "General": 99,
+    "Red Dot": 87,
+    "2x Scope": 89,
+    "4x Scope": 78,
+    "AWM Scope": 46,
+    "Free Look": 64
+  },
+  "Infinix Model 52": {
+    "General": 87,
+    "Red Dot": 92,
+    "2x Scope": 80,
+    "4x Scope": 84,
+    "AWM Scope": 56,
+    "Free Look": 59
+  },
+  "Infinix Model 53": {
+    "General": 88,
+    "Red Dot": 87,
+    "2x Scope": 88,
+    "4x Scope": 73,
+    "AWM Scope": 47,
+    "Free Look": 65
+  },
+  "Infinix Model 54": {
+    "General": 92,
+    "Red Dot": 87,
+    "2x Scope": 80,
+    "4x Scope": 73,
+    "AWM Scope": 53,
+    "Free Look": 68
+  },
+  "Infinix Model 55": {
+    "General": 86,
+    "Red Dot": 81,
+    "2x Scope": 82,
+    "4x Scope": 74,
+    "AWM Scope": 53,
+    "Free Look": 75
+  },
+  "Infinix Model 56": {
+    "General": 91,
+    "Red Dot": 84,
+    "2x Scope": 85,
+    "4x Scope": 81,
+    "AWM Scope": 57,
+    "Free Look": 57
+  },
+  "Infinix Model 57": {
+    "General": 87,
+    "Red Dot": 91,
+    "2x Scope": 78,
+    "4x Scope": 79,
+    "AWM Scope": 60,
+    "Free Look": 72
+  },
+  "Infinix Model 58": {
+    "General": 86,
+    "Red Dot": 90,
+    "2x Scope": 88,
+    "4x Scope": 78,
+    "AWM Scope": 58,
+    "Free Look": 68
+  },
+  "Infinix Model 59": {
+    "General": 90,
+    "Red Dot": 95,
+    "2x Scope": 90,
+    "4x Scope": 83,
+    "AWM Scope": 54,
+    "Free Look": 70
+  },
+  "Tecno Model 1": {
+    "General": 99,
+    "Red Dot": 88,
+    "2x Scope": 78,
+    "4x Scope": 76,
+    "AWM Scope": 45,
+    "Free Look": 67
+  },
+  "Tecno Model 2": {
+    "General": 88,
+    "Red Dot": 89,
+    "2x Scope": 85,
+    "4x Scope": 83,
+    "AWM Scope": 55,
+    "Free Look": 65
+  },
+  "Tecno Model 3": {
+    "General": 97,
+    "Red Dot": 93,
+    "2x Scope": 77,
+    "4x Scope": 71,
+    "AWM Scope": 51,
+    "Free Look": 72
+  },
+  "Tecno Model 4": {
+    "General": 92,
+    "Red Dot": 80,
+    "2x Scope": 81,
+    "4x Scope": 77,
+    "AWM Scope": 45,
+    "Free Look": 56
+  },
+  "Tecno Model 5": {
+    "General": 88,
+    "Red Dot": 87,
+    "2x Scope": 76,
+    "4x Scope": 77,
+    "AWM Scope": 53,
+    "Free Look": 74
+  },
+  "Tecno Model 6": {
+    "General": 100,
+    "Red Dot": 87,
+    "2x Scope": 82,
+    "4x Scope": 72,
+    "AWM Scope": 60,
+    "Free Look": 75
+  },
+  "Tecno Model 7": {
+    "General": 96,
+    "Red Dot": 80,
+    "2x Scope": 76,
+    "4x Scope": 75,
+    "AWM Scope": 60,
+    "Free Look": 65
+  },
+  "Tecno Model 8": {
+    "General": 88,
+    "Red Dot": 90,
+    "2x Scope": 82,
+    "4x Scope": 72,
+    "AWM Scope": 49,
+    "Free Look": 58
+  },
+  "Tecno Model 9": {
+    "General": 88,
+    "Red Dot": 81,
+    "2x Scope": 82,
+    "4x Scope": 76,
+    "AWM Scope": 50,
+    "Free Look": 72
+  },
+  "Tecno Model 10": {
+    "General": 88,
+    "Red Dot": 81,
+    "2x Scope": 86,
+    "4x Scope": 78,
+    "AWM Scope": 53,
+    "Free Look": 75
+  },
+  "Tecno Model 11": {
+    "General": 99,
+    "Red Dot": 88,
+    "2x Scope": 81,
+    "4x Scope": 71,
+    "AWM Scope": 59,
+    "Free Look": 56
+  },
+  "Tecno Model 12": {
+    "General": 94,
+    "Red Dot": 90,
+    "2x Scope": 77,
+    "4x Scope": 70,
+    "AWM Scope": 50,
+    "Free Look": 69
+  },
+  "Tecno Model 13": {
+    "General": 100,
+    "Red Dot": 88,
+    "2x Scope": 81,
+    "4x Scope": 85,
+    "AWM Scope": 54,
+    "Free Look": 61
+  },
+  "Tecno Model 14": {
+    "General": 85,
+    "Red Dot": 89,
+    "2x Scope": 85,
+    "4x Scope": 77,
+    "AWM Scope": 54,
+    "Free Look": 75
+  },
+  "Tecno Model 15": {
+    "General": 92,
+    "Red Dot": 87,
+    "2x Scope": 89,
+    "4x Scope": 70,
+    "AWM Scope": 54,
+    "Free Look": 70
+  },
+  "Tecno Model 16": {
+    "General": 90,
+    "Red Dot": 83,
+    "2x Scope": 86,
+    "4x Scope": 78,
+    "AWM Scope": 45,
+    "Free Look": 63
+  },
+  "Tecno Model 17": {
+    "General": 89,
+    "Red Dot": 82,
+    "2x Scope": 88,
+    "4x Scope": 85,
+    "AWM Scope": 45,
+    "Free Look": 72
+  },
+  "Tecno Model 18": {
+    "General": 93,
+    "Red Dot": 86,
+    "2x Scope": 89,
+    "4x Scope": 83,
+    "AWM Scope": 53,
+    "Free Look": 74
+  },
+  "Tecno Model 19": {
+    "General": 87,
+    "Red Dot": 80,
+    "2x Scope": 76,
+    "4x Scope": 76,
+    "AWM Scope": 49,
+    "Free Look": 57
+  },
+  "Tecno Model 20": {
+    "General": 94,
+    "Red Dot": 92,
+    "2x Scope": 75,
+    "4x Scope": 76,
+    "AWM Scope": 55,
+    "Free Look": 64
+  },
+  "Tecno Model 21": {
+    "General": 92,
+    "Red Dot": 91,
+    "2x Scope": 76,
+    "4x Scope": 72,
+    "AWM Scope": 51,
+    "Free Look": 61
+  },
+  "Tecno Model 22": {
+    "General": 96,
+    "Red Dot": 86,
+    "2x Scope": 77,
+    "4x Scope": 80,
+    "AWM Scope": 52,
+    "Free Look": 66
+  },
+  "Tecno Model 23": {
+    "General": 91,
+    "Red Dot": 94,
+    "2x Scope": 84,
+    "4x Scope": 80,
+    "AWM Scope": 58,
+    "Free Look": 73
+  },
+  "Tecno Model 24": {
+    "General": 94,
+    "Red Dot": 81,
+    "2x Scope": 86,
+    "4x Scope": 84,
+    "AWM Scope": 54,
+    "Free Look": 75
+  },
+  "Tecno Model 25": {
+    "General": 91,
+    "Red Dot": 94,
+    "2x Scope": 79,
+    "4x Scope": 74,
+    "AWM Scope": 55,
+    "Free Look": 59
+  },
+  "Tecno Model 26": {
+    "General": 98,
+    "Red Dot": 94,
+    "2x Scope": 78,
+    "4x Scope": 76,
+    "AWM Scope": 47,
+    "Free Look": 59
+  },
+  "Tecno Model 27": {
+    "General": 89,
+    "Red Dot": 80,
+    "2x Scope": 80,
+    "4x Scope": 70,
+    "AWM Scope": 50,
+    "Free Look": 66
+  },
+  "Tecno Model 28": {
+    "General": 98,
+    "Red Dot": 86,
+    "2x Scope": 87,
+    "4x Scope": 70,
+    "AWM Scope": 60,
+    "Free Look": 73
+  },
+  "Tecno Model 29": {
+    "General": 90,
+    "Red Dot": 80,
+    "2x Scope": 78,
+    "4x Scope": 84,
+    "AWM Scope": 57,
+    "Free Look": 67
+  },
+  "Tecno Model 30": {
+    "General": 87,
+    "Red Dot": 94,
+    "2x Scope": 75,
+    "4x Scope": 71,
+    "AWM Scope": 50,
+    "Free Look": 62
+  },
+  "Tecno Model 31": {
+    "General": 92,
+    "Red Dot": 81,
+    "2x Scope": 83,
+    "4x Scope": 82,
+    "AWM Scope": 49,
+    "Free Look": 57
+  },
+  "Tecno Model 32": {
+    "General": 99,
+    "Red Dot": 94,
+    "2x Scope": 85,
+    "4x Scope": 75,
+    "AWM Scope": 59,
+    "Free Look": 66
+  },
+  "Tecno Model 33": {
+    "General": 99,
+    "Red Dot": 91,
+    "2x Scope": 76,
+    "4x Scope": 70,
+    "AWM Scope": 58,
+    "Free Look": 71
+  },
+  "Tecno Model 34": {
+    "General": 91,
+    "Red Dot": 82,
+    "2x Scope": 75,
+    "4x Scope": 73,
+    "AWM Scope": 57,
+    "Free Look": 63
+  },
+  "Tecno Model 35": {
+    "General": 96,
+    "Red Dot": 87,
+    "2x Scope": 83,
+    "4x Scope": 82,
+    "AWM Scope": 52,
+    "Free Look": 59
+  },
+  "Tecno Model 36": {
+    "General": 95,
+    "Red Dot": 81,
+    "2x Scope": 85,
+    "4x Scope": 85,
+    "AWM Scope": 56,
+    "Free Look": 75
+  },
+  "Tecno Model 37": {
+    "General": 95,
+    "Red Dot": 88,
+    "2x Scope": 76,
+    "4x Scope": 70,
+    "AWM Scope": 55,
+    "Free Look": 58
+  },
+  "Tecno Model 38": {
+    "General": 86,
+    "Red Dot": 89,
+    "2x Scope": 85,
+    "4x Scope": 73,
+    "AWM Scope": 49,
+    "Free Look": 72
+  },
+  "Tecno Model 39": {
+    "General": 86,
+    "Red Dot": 90,
+    "2x Scope": 79,
+    "4x Scope": 74,
+    "AWM Scope": 59,
+    "Free Look": 65
+  },
+  "Tecno Model 40": {
+    "General": 86,
+    "Red Dot": 91,
+    "2x Scope": 88,
+    "4x Scope": 70,
+    "AWM Scope": 60,
+    "Free Look": 59
+  },
+  "Tecno Model 41": {
+    "General": 93,
+    "Red Dot": 81,
+    "2x Scope": 89,
+    "4x Scope": 81,
+    "AWM Scope": 59,
+    "Free Look": 64
+  },
+  "Tecno Model 42": {
+    "General": 90,
+    "Red Dot": 82,
+    "2x Scope": 89,
+    "4x Scope": 71,
+    "AWM Scope": 59,
+    "Free Look": 57
+  },
+  "Tecno Model 43": {
+    "General": 89,
+    "Red Dot": 81,
+    "2x Scope": 75,
+    "4x Scope": 72,
+    "AWM Scope": 58,
+    "Free Look": 65
+  },
+  "Tecno Model 44": {
+    "General": 96,
+    "Red Dot": 94,
+    "2x Scope": 82,
+    "4x Scope": 79,
+    "AWM Scope": 50,
+    "Free Look": 59
+  },
+  "Tecno Model 45": {
+    "General": 90,
+    "Red Dot": 83,
+    "2x Scope": 78,
+    "4x Scope": 74,
+    "AWM Scope": 57,
+    "Free Look": 71
+  },
+  "Tecno Model 46": {
+    "General": 88,
+    "Red Dot": 94,
+    "2x Scope": 81,
+    "4x Scope": 85,
+    "AWM Scope": 59,
+    "Free Look": 72
+  },
+  "Tecno Model 47": {
+    "General": 92,
+    "Red Dot": 90,
+    "2x Scope": 75,
+    "4x Scope": 78,
+    "AWM Scope": 57,
+    "Free Look": 65
+  },
+  "Tecno Model 48": {
+    "General": 100,
+    "Red Dot": 84,
+    "2x Scope": 77,
+    "4x Scope": 72,
+    "AWM Scope": 56,
+    "Free Look": 70
+  },
+  "Tecno Model 49": {
+    "General": 85,
+    "Red Dot": 92,
+    "2x Scope": 86,
+    "4x Scope": 76,
+    "AWM Scope": 59,
+    "Free Look": 63
+  },
+  "Tecno Model 50": {
+    "General": 99,
+    "Red Dot": 90,
+    "2x Scope": 80,
+    "4x Scope": 78,
+    "AWM Scope": 51,
+    "Free Look": 68
+  },
+  "Tecno Model 51": {
+    "General": 88,
+    "Red Dot": 80,
+    "2x Scope": 84,
+    "4x Scope": 71,
+    "AWM Scope": 60,
+    "Free Look": 62
+  },
+  "Tecno Model 52": {
+    "General": 86,
+    "Red Dot": 80,
+    "2x Scope": 76,
+    "4x Scope": 85,
+    "AWM Scope": 51,
+    "Free Look": 57
+  },
+  "Tecno Model 53": {
+    "General": 91,
+    "Red Dot": 95,
+    "2x Scope": 83,
+    "4x Scope": 78,
+    "AWM Scope": 54,
+    "Free Look": 71
+  },
+  "Tecno Model 54": {
+    "General": 92,
+    "Red Dot": 88,
+    "2x Scope": 77,
+    "4x Scope": 79,
+    "AWM Scope": 51,
+    "Free Look": 64
+  },
+  "Tecno Model 55": {
+    "General": 96,
+    "Red Dot": 95,
+    "2x Scope": 82,
+    "4x Scope": 73,
+    "AWM Scope": 49,
+    "Free Look": 66
+  },
+  "Tecno Model 56": {
+    "General": 89,
+    "Red Dot": 89,
+    "2x Scope": 76,
+    "4x Scope": 70,
+    "AWM Scope": 45,
+    "Free Look": 58
+  },
+  "Tecno Model 57": {
+    "General": 86,
+    "Red Dot": 80,
+    "2x Scope": 81,
+    "4x Scope": 74,
+    "AWM Scope": 54,
+    "Free Look": 71
+  },
+  "Tecno Model 58": {
+    "General": 96,
+    "Red Dot": 94,
+    "2x Scope": 75,
+    "4x Scope": 82,
+    "AWM Scope": 51,
+    "Free Look": 66
+  },
+  "Tecno Model 59": {
+    "General": 87,
+    "Red Dot": 83,
+    "2x Scope": 77,
+    "4x Scope": 82,
+    "AWM Scope": 53,
+    "Free Look": 58
+  },
+  "Apple Model 1": {
+    "General": 95,
+    "Red Dot": 87,
+    "2x Scope": 86,
+    "4x Scope": 76,
+    "AWM Scope": 46,
+    "Free Look": 62
+  },
+  "Apple Model 2": {
+    "General": 89,
+    "Red Dot": 83,
+    "2x Scope": 81,
+    "4x Scope": 81,
+    "AWM Scope": 50,
+    "Free Look": 60
+  },
+  "Apple Model 3": {
+    "General": 96,
+    "Red Dot": 87,
+    "2x Scope": 81,
+    "4x Scope": 84,
+    "AWM Scope": 50,
+    "Free Look": 74
+  },
+  "Apple Model 4": {
+    "General": 87,
+    "Red Dot": 94,
+    "2x Scope": 77,
+    "4x Scope": 85,
+    "AWM Scope": 53,
+    "Free Look": 70
+  },
+  "Apple Model 5": {
+    "General": 87,
+    "Red Dot": 82,
+    "2x Scope": 89,
+    "4x Scope": 78,
+    "AWM Scope": 50,
+    "Free Look": 68
+  },
+  "Apple Model 6": {
+    "General": 95,
+    "Red Dot": 84,
+    "2x Scope": 78,
+    "4x Scope": 81,
+    "AWM Scope": 59,
+    "Free Look": 64
+  },
+  "Apple Model 7": {
+    "General": 99,
+    "Red Dot": 87,
+    "2x Scope": 78,
+    "4x Scope": 77,
+    "AWM Scope": 55,
+    "Free Look": 56
+  },
+  "Apple Model 8": {
+    "General": 87,
+    "Red Dot": 95,
+    "2x Scope": 79,
+    "4x Scope": 71,
+    "AWM Scope": 53,
+    "Free Look": 71
+  },
+  "Apple Model 9": {
+    "General": 87,
+    "Red Dot": 85,
+    "2x Scope": 87,
+    "4x Scope": 80,
+    "AWM Scope": 50,
+    "Free Look": 69
+  },
+  "Apple Model 10": {
+    "General": 92,
+    "Red Dot": 86,
+    "2x Scope": 80,
+    "4x Scope": 71,
+    "AWM Scope": 55,
+    "Free Look": 68
+  },
+  "Apple Model 11": {
+    "General": 89,
+    "Red Dot": 94,
+    "2x Scope": 83,
+    "4x Scope": 78,
+    "AWM Scope": 51,
+    "Free Look": 67
+  },
+  "Apple Model 12": {
+    "General": 91,
+    "Red Dot": 92,
+    "2x Scope": 81,
+    "4x Scope": 70,
+    "AWM Scope": 52,
+    "Free Look": 70
+  },
+  "Apple Model 13": {
+    "General": 96,
+    "Red Dot": 95,
+    "2x Scope": 83,
+    "4x Scope": 84,
+    "AWM Scope": 48,
+    "Free Look": 68
+  },
+  "Apple Model 14": {
+    "General": 89,
+    "Red Dot": 94,
+    "2x Scope": 88,
+    "4x Scope": 84,
+    "AWM Scope": 50,
+    "Free Look": 58
+  },
+  "Apple Model 15": {
+    "General": 93,
+    "Red Dot": 85,
+    "2x Scope": 83,
+    "4x Scope": 78,
+    "AWM Scope": 51,
+    "Free Look": 70
+  },
+  "Apple Model 16": {
+    "General": 94,
+    "Red Dot": 81,
+    "2x Scope": 77,
+    "4x Scope": 73,
+    "AWM Scope": 47,
+    "Free Look": 63
+  },
+  "Apple Model 17": {
+    "General": 98,
+    "Red Dot": 81,
+    "2x Scope": 84,
+    "4x Scope": 74,
+    "AWM Scope": 60,
+    "Free Look": 72
+  },
+  "Apple Model 18": {
+    "General": 92,
+    "Red Dot": 80,
+    "2x Scope": 82,
+    "4x Scope": 82,
+    "AWM Scope": 59,
+    "Free Look": 65
+  },
+  "Apple Model 19": {
+    "General": 86,
+    "Red Dot": 80,
+    "2x Scope": 82,
+    "4x Scope": 85,
+    "AWM Scope": 57,
+    "Free Look": 66
+  },
+  "Apple Model 20": {
+    "General": 89,
+    "Red Dot": 80,
+    "2x Scope": 84,
+    "4x Scope": 73,
+    "AWM Scope": 59,
+    "Free Look": 60
+  },
+  "Apple Model 21": {
+    "General": 89,
+    "Red Dot": 94,
+    "2x Scope": 90,
+    "4x Scope": 70,
+    "AWM Scope": 54,
+    "Free Look": 60
+  },
+  "Apple Model 22": {
+    "General": 89,
+    "Red Dot": 87,
+    "2x Scope": 84,
+    "4x Scope": 71,
+    "AWM Scope": 54,
+    "Free Look": 71
+  },
+  "Apple Model 23": {
+    "General": 97,
+    "Red Dot": 82,
+    "2x Scope": 87,
+    "4x Scope": 82,
+    "AWM Scope": 47,
+    "Free Look": 66
+  },
+  "Apple Model 24": {
+    "General": 86,
+    "Red Dot": 84,
+    "2x Scope": 90,
+    "4x Scope": 82,
+    "AWM Scope": 46,
+    "Free Look": 74
+  },
+  "Apple Model 25": {
+    "General": 88,
+    "Red Dot": 81,
+    "2x Scope": 84,
+    "4x Scope": 83,
+    "AWM Scope": 59,
+    "Free Look": 73
+  },
+  "Apple Model 26": {
+    "General": 91,
+    "Red Dot": 81,
+    "2x Scope": 89,
+    "4x Scope": 77,
+    "AWM Scope": 52,
+    "Free Look": 68
+  },
+  "Apple Model 27": {
+    "General": 98,
+    "Red Dot": 81,
+    "2x Scope": 88,
+    "4x Scope": 78,
+    "AWM Scope": 53,
+    "Free Look": 72
+  },
+  "Apple Model 28": {
+    "General": 97,
+    "Red Dot": 82,
+    "2x Scope": 83,
+    "4x Scope": 76,
+    "AWM Scope": 46,
+    "Free Look": 57
+  },
+  "Apple Model 29": {
+    "General": 92,
+    "Red Dot": 90,
+    "2x Scope": 88,
+    "4x Scope": 76,
+    "AWM Scope": 51,
+    "Free Look": 61
+  },
+  "Apple Model 30": {
+    "General": 92,
+    "Red Dot": 93,
+    "2x Scope": 90,
+    "4x Scope": 83,
+    "AWM Scope": 46,
+    "Free Look": 75
+  },
+  "Apple Model 31": {
+    "General": 94,
+    "Red Dot": 93,
+    "2x Scope": 81,
+    "4x Scope": 74,
+    "AWM Scope": 52,
+    "Free Look": 72
+  },
+  "Apple Model 32": {
+    "General": 94,
+    "Red Dot": 85,
+    "2x Scope": 83,
+    "4x Scope": 72,
+    "AWM Scope": 48,
+    "Free Look": 75
+  },
+  "Apple Model 33": {
+    "General": 96,
+    "Red Dot": 86,
+    "2x Scope": 80,
+    "4x Scope": 73,
+    "AWM Scope": 46,
+    "Free Look": 66
+  },
+  "Apple Model 34": {
+    "General": 96,
+    "Red Dot": 82,
+    "2x Scope": 77,
+    "4x Scope": 78,
+    "AWM Scope": 54,
+    "Free Look": 61
+  },
+  "Apple Model 35": {
+    "General": 96,
+    "Red Dot": 85,
+    "2x Scope": 76,
+    "4x Scope": 76,
+    "AWM Scope": 50,
+    "Free Look": 75
+  },
+  "Apple Model 36": {
+    "General": 95,
+    "Red Dot": 95,
+    "2x Scope": 76,
+    "4x Scope": 84,
+    "AWM Scope": 50,
+    "Free Look": 57
+  },
+  "Apple Model 37": {
+    "General": 89,
+    "Red Dot": 90,
+    "2x Scope": 78,
+    "4x Scope": 82,
+    "AWM Scope": 53,
+    "Free Look": 65
+  },
+  "Apple Model 38": {
+    "General": 85,
+    "Red Dot": 92,
+    "2x Scope": 90,
+    "4x Scope": 78,
+    "AWM Scope": 45,
+    "Free Look": 56
+  },
+  "Apple Model 39": {
+    "General": 94,
+    "Red Dot": 82,
+    "2x Scope": 79,
+    "4x Scope": 80,
+    "AWM Scope": 53,
+    "Free Look": 67
+  },
+  "Apple Model 40": {
+    "General": 89,
+    "Red Dot": 95,
+    "2x Scope": 89,
+    "4x Scope": 77,
+    "AWM Scope": 49,
+    "Free Look": 63
+  },
+  "Apple Model 41": {
+    "General": 89,
+    "Red Dot": 82,
+    "2x Scope": 83,
+    "4x Scope": 82,
+    "AWM Scope": 54,
+    "Free Look": 61
+  },
+  "Apple Model 42": {
+    "General": 87,
+    "Red Dot": 94,
+    "2x Scope": 90,
+    "4x Scope": 71,
+    "AWM Scope": 50,
+    "Free Look": 70
+  },
+  "Apple Model 43": {
+    "General": 87,
+    "Red Dot": 87,
+    "2x Scope": 89,
+    "4x Scope": 76,
+    "AWM Scope": 60,
+    "Free Look": 71
+  },
+  "Apple Model 44": {
+    "General": 86,
+    "Red Dot": 89,
+    "2x Scope": 83,
+    "4x Scope": 85,
+    "AWM Scope": 48,
+    "Free Look": 75
+  },
+  "Apple Model 45": {
+    "General": 96,
+    "Red Dot": 94,
+    "2x Scope": 84,
+    "4x Scope": 75,
+    "AWM Scope": 58,
+    "Free Look": 58
+  },
+  "Apple Model 46": {
+    "General": 99,
+    "Red Dot": 82,
+    "2x Scope": 84,
+    "4x Scope": 72,
+    "AWM Scope": 58,
+    "Free Look": 64
+  },
+  "Apple Model 47": {
+    "General": 88,
+    "Red Dot": 88,
+    "2x Scope": 88,
+    "4x Scope": 84,
+    "AWM Scope": 53,
+    "Free Look": 58
+  },
+  "Apple Model 48": {
+    "General": 93,
+    "Red Dot": 95,
+    "2x Scope": 85,
+    "4x Scope": 78,
+    "AWM Scope": 54,
+    "Free Look": 56
+  },
+  "Apple Model 49": {
+    "General": 95,
+    "Red Dot": 85,
+    "2x Scope": 88,
+    "4x Scope": 79,
+    "AWM Scope": 48,
+    "Free Look": 70
+  },
+  "Apple Model 50": {
+    "General": 85,
+    "Red Dot": 89,
+    "2x Scope": 89,
+    "4x Scope": 78,
+    "AWM Scope": 58,
+    "Free Look": 75
+  },
+  "Apple Model 51": {
+    "General": 86,
+    "Red Dot": 84,
+    "2x Scope": 86,
+    "4x Scope": 80,
+    "AWM Scope": 45,
+    "Free Look": 74
+  },
+  "Apple Model 52": {
+    "General": 98,
+    "Red Dot": 94,
+    "2x Scope": 90,
+    "4x Scope": 71,
+    "AWM Scope": 53,
+    "Free Look": 66
+  },
+  "Apple Model 53": {
+    "General": 99,
+    "Red Dot": 81,
+    "2x Scope": 84,
+    "4x Scope": 71,
+    "AWM Scope": 60,
+    "Free Look": 56
+  },
+  "Apple Model 54": {
+    "General": 100,
+    "Red Dot": 83,
+    "2x Scope": 87,
+    "4x Scope": 75,
+    "AWM Scope": 56,
+    "Free Look": 68
+  },
+  "Apple Model 55": {
+    "General": 86,
+    "Red Dot": 89,
+    "2x Scope": 82,
+    "4x Scope": 73,
+    "AWM Scope": 59,
+    "Free Look": 55
+  },
+  "Apple Model 56": {
+    "General": 88,
+    "Red Dot": 85,
+    "2x Scope": 78,
+    "4x Scope": 78,
+    "AWM Scope": 50,
+    "Free Look": 61
+  },
+  "Apple Model 57": {
+    "General": 87,
+    "Red Dot": 87,
+    "2x Scope": 78,
+    "4x Scope": 84,
+    "AWM Scope": 57,
+    "Free Look": 58
+  },
+  "Apple Model 58": {
+    "General": 89,
+    "Red Dot": 87,
+    "2x Scope": 77,
+    "4x Scope": 81,
+    "AWM Scope": 59,
+    "Free Look": 71
+  },
+  "Apple Model 59": {
+    "General": 96,
+    "Red Dot": 87,
+    "2x Scope": 84,
+    "4x Scope": 80,
+    "AWM Scope": 56,
+    "Free Look": 68
+  },
+  "Asus Model 1": {
+    "General": 94,
+    "Red Dot": 84,
+    "2x Scope": 84,
+    "4x Scope": 76,
+    "AWM Scope": 46,
+    "Free Look": 75
+  },
+  "Asus Model 2": {
+    "General": 94,
+    "Red Dot": 85,
+    "2x Scope": 82,
+    "4x Scope": 82,
+    "AWM Scope": 54,
+    "Free Look": 67
+  },
+  "Asus Model 3": {
+    "General": 96,
+    "Red Dot": 89,
+    "2x Scope": 83,
+    "4x Scope": 75,
+    "AWM Scope": 58,
+    "Free Look": 73
+  },
+  "Asus Model 4": {
+    "General": 85,
+    "Red Dot": 82,
+    "2x Scope": 86,
+    "4x Scope": 80,
+    "AWM Scope": 47,
+    "Free Look": 67
+  },
+  "Asus Model 5": {
+    "General": 99,
+    "Red Dot": 83,
+    "2x Scope": 82,
+    "4x Scope": 77,
+    "AWM Scope": 54,
+    "Free Look": 67
+  },
+  "Asus Model 6": {
+    "General": 93,
+    "Red Dot": 95,
+    "2x Scope": 89,
+    "4x Scope": 70,
+    "AWM Scope": 55,
+    "Free Look": 72
+  },
+  "Asus Model 7": {
+    "General": 97,
+    "Red Dot": 81,
+    "2x Scope": 75,
+    "4x Scope": 78,
+    "AWM Scope": 56,
+    "Free Look": 64
+  },
+  "Asus Model 8": {
+    "General": 93,
+    "Red Dot": 92,
+    "2x Scope": 82,
+    "4x Scope": 80,
+    "AWM Scope": 58,
+    "Free Look": 72
+  },
+  "Asus Model 9": {
+    "General": 92,
+    "Red Dot": 90,
+    "2x Scope": 84,
+    "4x Scope": 84,
+    "AWM Scope": 58,
+    "Free Look": 68
+  },
+  "Asus Model 10": {
+    "General": 86,
+    "Red Dot": 80,
+    "2x Scope": 84,
+    "4x Scope": 81,
+    "AWM Scope": 57,
+    "Free Look": 64
+  },
+  "Asus Model 11": {
+    "General": 89,
+    "Red Dot": 93,
+    "2x Scope": 79,
+    "4x Scope": 74,
+    "AWM Scope": 52,
+    "Free Look": 55
+  },
+  "Asus Model 12": {
+    "General": 97,
+    "Red Dot": 93,
+    "2x Scope": 80,
+    "4x Scope": 82,
+    "AWM Scope": 54,
+    "Free Look": 74
+  },
+  "Asus Model 13": {
+    "General": 94,
+    "Red Dot": 92,
+    "2x Scope": 78,
+    "4x Scope": 76,
+    "AWM Scope": 45,
+    "Free Look": 75
+  },
+  "Asus Model 14": {
+    "General": 86,
+    "Red Dot": 85,
+    "2x Scope": 85,
+    "4x Scope": 71,
+    "AWM Scope": 57,
+    "Free Look": 68
+  },
+  "Asus Model 15": {
+    "General": 94,
+    "Red Dot": 86,
+    "2x Scope": 86,
+    "4x Scope": 73,
+    "AWM Scope": 48,
+    "Free Look": 62
+  },
+  "Asus Model 16": {
+    "General": 89,
+    "Red Dot": 95,
+    "2x Scope": 90,
+    "4x Scope": 74,
+    "AWM Scope": 50,
+    "Free Look": 74
+  },
+  "Asus Model 17": {
+    "General": 86,
+    "Red Dot": 88,
+    "2x Scope": 78,
+    "4x Scope": 85,
+    "AWM Scope": 48,
+    "Free Look": 70
+  },
+  "Asus Model 18": {
+    "General": 89,
+    "Red Dot": 90,
+    "2x Scope": 81,
+    "4x Scope": 80,
+    "AWM Scope": 52,
+    "Free Look": 61
+  },
+  "Asus Model 19": {
+    "General": 85,
+    "Red Dot": 80,
+    "2x Scope": 75,
+    "4x Scope": 76,
+    "AWM Scope": 46,
+    "Free Look": 68
+  },
+  "Asus Model 20": {
+    "General": 96,
+    "Red Dot": 84,
+    "2x Scope": 80,
+    "4x Scope": 76,
+    "AWM Scope": 55,
+    "Free Look": 74
+  },
+  "Asus Model 21": {
+    "General": 89,
+    "Red Dot": 92,
+    "2x Scope": 83,
+    "4x Scope": 70,
+    "AWM Scope": 54,
+    "Free Look": 75
+  },
+  "Asus Model 22": {
+    "General": 96,
+    "Red Dot": 90,
+    "2x Scope": 90,
+    "4x Scope": 81,
+    "AWM Scope": 52,
+    "Free Look": 68
+  },
+  "Asus Model 23": {
+    "General": 96,
+    "Red Dot": 85,
+    "2x Scope": 80,
+    "4x Scope": 83,
+    "AWM Scope": 59,
+    "Free Look": 74
+  },
+  "Asus Model 24": {
+    "General": 88,
+    "Red Dot": 87,
+    "2x Scope": 79,
+    "4x Scope": 79,
+    "AWM Scope": 56,
+    "Free Look": 58
+  },
+  "Asus Model 25": {
+    "General": 88,
+    "Red Dot": 86,
+    "2x Scope": 79,
+    "4x Scope": 70,
+    "AWM Scope": 57,
+    "Free Look": 61
+  },
+  "Asus Model 26": {
+    "General": 98,
+    "Red Dot": 84,
+    "2x Scope": 88,
+    "4x Scope": 79,
+    "AWM Scope": 60,
+    "Free Look": 57
+  },
+  "Asus Model 27": {
+    "General": 98,
+    "Red Dot": 95,
+    "2x Scope": 80,
+    "4x Scope": 72,
+    "AWM Scope": 51,
+    "Free Look": 71
+  },
+  "Asus Model 28": {
+    "General": 96,
+    "Red Dot": 92,
+    "2x Scope": 90,
+    "4x Scope": 85,
+    "AWM Scope": 54,
+    "Free Look": 69
+  },
+  "Asus Model 29": {
+    "General": 85,
+    "Red Dot": 83,
+    "2x Scope": 86,
+    "4x Scope": 81,
+    "AWM Scope": 46,
+    "Free Look": 74
+  },
+  "Asus Model 30": {
+    "General": 89,
+    "Red Dot": 95,
+    "2x Scope": 77,
+    "4x Scope": 71,
+    "AWM Scope": 52,
+    "Free Look": 60
+  },
+  "Asus Model 31": {
+    "General": 99,
+    "Red Dot": 89,
+    "2x Scope": 79,
+    "4x Scope": 78,
+    "AWM Scope": 50,
+    "Free Look": 73
+  },
+  "Asus Model 32": {
+    "General": 98,
+    "Red Dot": 89,
+    "2x Scope": 87,
+    "4x Scope": 75,
+    "AWM Scope": 45,
+    "Free Look": 73
+  },
+  "Asus Model 33": {
+    "General": 88,
+    "Red Dot": 92,
+    "2x Scope": 82,
+    "4x Scope": 83,
+    "AWM Scope": 54,
+    "Free Look": 58
+  },
+  "Asus Model 34": {
+    "General": 96,
+    "Red Dot": 90,
+    "2x Scope": 86,
+    "4x Scope": 72,
+    "AWM Scope": 57,
+    "Free Look": 66
+  },
+  "Asus Model 35": {
+    "General": 96,
+    "Red Dot": 81,
+    "2x Scope": 77,
+    "4x Scope": 72,
+    "AWM Scope": 57,
+    "Free Look": 63
+  },
+  "Asus Model 36": {
+    "General": 88,
+    "Red Dot": 82,
+    "2x Scope": 75,
+    "4x Scope": 74,
+    "AWM Scope": 46,
+    "Free Look": 56
+  },
+  "Asus Model 37": {
+    "General": 98,
+    "Red Dot": 86,
+    "2x Scope": 76,
+    "4x Scope": 79,
+    "AWM Scope": 48,
+    "Free Look": 74
+  },
+  "Asus Model 38": {
+    "General": 87,
+    "Red Dot": 95,
+    "2x Scope": 86,
+    "4x Scope": 78,
+    "AWM Scope": 46,
+    "Free Look": 71
+  },
+  "Asus Model 39": {
+    "General": 98,
+    "Red Dot": 87,
+    "2x Scope": 87,
+    "4x Scope": 81,
+    "AWM Scope": 60,
+    "Free Look": 68
+  },
+  "Asus Model 40": {
+    "General": 95,
+    "Red Dot": 84,
+    "2x Scope": 80,
+    "4x Scope": 76,
+    "AWM Scope": 55,
+    "Free Look": 63
+  },
+  "Asus Model 41": {
+    "General": 90,
+    "Red Dot": 94,
+    "2x Scope": 81,
+    "4x Scope": 79,
+    "AWM Scope": 59,
+    "Free Look": 71
+  },
+  "Asus Model 42": {
+    "General": 99,
+    "Red Dot": 89,
+    "2x Scope": 89,
+    "4x Scope": 75,
+    "AWM Scope": 58,
+    "Free Look": 70
+  },
+  "Asus Model 43": {
+    "General": 96,
+    "Red Dot": 89,
+    "2x Scope": 77,
+    "4x Scope": 82,
+    "AWM Scope": 52,
+    "Free Look": 69
+  },
+  "Asus Model 44": {
+    "General": 96,
+    "Red Dot": 94,
+    "2x Scope": 89,
+    "4x Scope": 81,
+    "AWM Scope": 54,
+    "Free Look": 69
+  },
+  "Asus Model 45": {
+    "General": 90,
+    "Red Dot": 81,
+    "2x Scope": 78,
+    "4x Scope": 71,
+    "AWM Scope": 52,
+    "Free Look": 64
+  },
+  "Asus Model 46": {
+    "General": 98,
+    "Red Dot": 86,
+    "2x Scope": 76,
+    "4x Scope": 77,
+    "AWM Scope": 49,
+    "Free Look": 64
+  },
+  "Asus Model 47": {
+    "General": 94,
+    "Red Dot": 83,
+    "2x Scope": 83,
+    "4x Scope": 84,
+    "AWM Scope": 52,
+    "Free Look": 65
+  },
+  "Asus Model 48": {
+    "General": 99,
+    "Red Dot": 83,
+    "2x Scope": 90,
+    "4x Scope": 81,
+    "AWM Scope": 49,
+    "Free Look": 75
+  },
+  "Asus Model 49": {
+    "General": 94,
+    "Red Dot": 91,
+    "2x Scope": 75,
+    "4x Scope": 76,
+    "AWM Scope": 58,
+    "Free Look": 72
+  },
+  "Asus Model 50": {
+    "General": 93,
+    "Red Dot": 94,
+    "2x Scope": 79,
+    "4x Scope": 78,
+    "AWM Scope": 50,
+    "Free Look": 62
+  },
+  "Asus Model 51": {
+    "General": 85,
+    "Red Dot": 87,
+    "2x Scope": 77,
+    "4x Scope": 76,
+    "AWM Scope": 52,
+    "Free Look": 68
+  },
+  "Asus Model 52": {
+    "General": 100,
+    "Red Dot": 86,
+    "2x Scope": 84,
+    "4x Scope": 74,
+    "AWM Scope": 56,
+    "Free Look": 58
+  },
+  "Asus Model 53": {
+    "General": 97,
+    "Red Dot": 85,
+    "2x Scope": 82,
+    "4x Scope": 73,
+    "AWM Scope": 53,
+    "Free Look": 56
+  },
+  "Asus Model 54": {
+    "General": 88,
+    "Red Dot": 84,
+    "2x Scope": 80,
+    "4x Scope": 81,
+    "AWM Scope": 51,
+    "Free Look": 68
+  },
+  "Asus Model 55": {
+    "General": 100,
+    "Red Dot": 88,
+    "2x Scope": 85,
+    "4x Scope": 72,
+    "AWM Scope": 60,
+    "Free Look": 62
+  },
+  "Asus Model 56": {
+    "General": 87,
+    "Red Dot": 91,
+    "2x Scope": 79,
+    "4x Scope": 80,
+    "AWM Scope": 46,
+    "Free Look": 65
+  },
+  "Asus Model 57": {
+    "General": 97,
+    "Red Dot": 92,
+    "2x Scope": 82,
+    "4x Scope": 71,
+    "AWM Scope": 52,
+    "Free Look": 66
+  },
+  "Asus Model 58": {
+    "General": 92,
+    "Red Dot": 95,
+    "2x Scope": 89,
+    "4x Scope": 72,
+    "AWM Scope": 56,
+    "Free Look": 57
+  },
+  "Asus Model 59": {
+    "General": 87,
+    "Red Dot": 90,
+    "2x Scope": 86,
+    "4x Scope": 70,
+    "AWM Scope": 52,
+    "Free Look": 59
+  },
+  "Huawei Model 1": {
+    "General": 92,
+    "Red Dot": 85,
+    "2x Scope": 82,
+    "4x Scope": 79,
+    "AWM Scope": 48,
+    "Free Look": 75
+  },
+  "Huawei Model 2": {
+    "General": 85,
+    "Red Dot": 93,
+    "2x Scope": 83,
+    "4x Scope": 83,
+    "AWM Scope": 48,
+    "Free Look": 73
+  },
+  "Huawei Model 3": {
+    "General": 98,
+    "Red Dot": 80,
+    "2x Scope": 77,
+    "4x Scope": 81,
+    "AWM Scope": 60,
+    "Free Look": 62
+  },
+  "Huawei Model 4": {
+    "General": 89,
+    "Red Dot": 94,
+    "2x Scope": 87,
+    "4x Scope": 71,
+    "AWM Scope": 59,
+    "Free Look": 66
+  },
+  "Huawei Model 5": {
+    "General": 85,
+    "Red Dot": 95,
+    "2x Scope": 87,
+    "4x Scope": 76,
+    "AWM Scope": 53,
+    "Free Look": 57
+  },
+  "Huawei Model 6": {
+    "General": 98,
+    "Red Dot": 85,
+    "2x Scope": 85,
+    "4x Scope": 77,
+    "AWM Scope": 54,
+    "Free Look": 56
+  },
+  "Huawei Model 7": {
+    "General": 100,
+    "Red Dot": 94,
+    "2x Scope": 88,
+    "4x Scope": 79,
+    "AWM Scope": 60,
+    "Free Look": 64
+  },
+  "Huawei Model 8": {
+    "General": 87,
+    "Red Dot": 91,
+    "2x Scope": 86,
+    "4x Scope": 84,
+    "AWM Scope": 51,
+    "Free Look": 56
+  },
+  "Huawei Model 9": {
+    "General": 85,
+    "Red Dot": 94,
+    "2x Scope": 90,
+    "4x Scope": 82,
+    "AWM Scope": 60,
+    "Free Look": 65
+  },
+  "Huawei Model 10": {
+    "General": 97,
+    "Red Dot": 80,
+    "2x Scope": 86,
+    "4x Scope": 82,
+    "AWM Scope": 50,
+    "Free Look": 59
+  },
+  "Huawei Model 11": {
+    "General": 94,
+    "Red Dot": 83,
+    "2x Scope": 79,
+    "4x Scope": 76,
+    "AWM Scope": 55,
+    "Free Look": 56
+  },
+  "Huawei Model 12": {
+    "General": 97,
+    "Red Dot": 93,
+    "2x Scope": 84,
+    "4x Scope": 79,
+    "AWM Scope": 53,
+    "Free Look": 68
+  },
+  "Huawei Model 13": {
+    "General": 97,
+    "Red Dot": 89,
+    "2x Scope": 76,
+    "4x Scope": 72,
+    "AWM Scope": 55,
+    "Free Look": 69
+  },
+  "Huawei Model 14": {
+    "General": 85,
+    "Red Dot": 87,
+    "2x Scope": 80,
+    "4x Scope": 85,
+    "AWM Scope": 53,
+    "Free Look": 65
+  },
+  "Huawei Model 15": {
+    "General": 87,
+    "Red Dot": 80,
+    "2x Scope": 80,
+    "4x Scope": 81,
+    "AWM Scope": 59,
+    "Free Look": 64
+  },
+  "Huawei Model 16": {
+    "General": 97,
+    "Red Dot": 82,
+    "2x Scope": 78,
+    "4x Scope": 72,
+    "AWM Scope": 54,
+    "Free Look": 65
+  },
+  "Huawei Model 17": {
+    "General": 95,
+    "Red Dot": 84,
+    "2x Scope": 77,
+    "4x Scope": 76,
+    "AWM Scope": 48,
+    "Free Look": 63
+  },
+  "Huawei Model 18": {
+    "General": 88,
+    "Red Dot": 91,
+    "2x Scope": 88,
+    "4x Scope": 85,
+    "AWM Scope": 57,
+    "Free Look": 59
+  },
+  "Huawei Model 19": {
+    "General": 87,
+    "Red Dot": 81,
+    "2x Scope": 76,
+    "4x Scope": 79,
+    "AWM Scope": 56,
+    "Free Look": 74
+  },
+  "Huawei Model 20": {
+    "General": 100,
+    "Red Dot": 94,
+    "2x Scope": 85,
+    "4x Scope": 76,
+    "AWM Scope": 52,
+    "Free Look": 66
+  },
+  "Huawei Model 21": {
+    "General": 90,
+    "Red Dot": 80,
+    "2x Scope": 75,
+    "4x Scope": 75,
+    "AWM Scope": 58,
+    "Free Look": 64
+  },
+  "Huawei Model 22": {
+    "General": 92,
+    "Red Dot": 94,
+    "2x Scope": 79,
+    "4x Scope": 79,
+    "AWM Scope": 47,
+    "Free Look": 58
+  },
+  "Huawei Model 23": {
+    "General": 95,
+    "Red Dot": 92,
+    "2x Scope": 89,
+    "4x Scope": 77,
+    "AWM Scope": 60,
+    "Free Look": 65
+  },
+  "Huawei Model 24": {
+    "General": 92,
+    "Red Dot": 82,
+    "2x Scope": 79,
+    "4x Scope": 83,
+    "AWM Scope": 54,
+    "Free Look": 73
+  },
+  "Huawei Model 25": {
+    "General": 88,
+    "Red Dot": 87,
+    "2x Scope": 76,
+    "4x Scope": 84,
+    "AWM Scope": 60,
+    "Free Look": 56
+  },
+  "Huawei Model 26": {
+    "General": 85,
+    "Red Dot": 92,
+    "2x Scope": 76,
+    "4x Scope": 74,
+    "AWM Scope": 50,
+    "Free Look": 74
+  },
+  "Huawei Model 27": {
+    "General": 98,
+    "Red Dot": 87,
+    "2x Scope": 78,
+    "4x Scope": 84,
+    "AWM Scope": 49,
+    "Free Look": 74
+  },
+  "Huawei Model 28": {
+    "General": 93,
+    "Red Dot": 81,
+    "2x Scope": 76,
+    "4x Scope": 85,
+    "AWM Scope": 58,
+    "Free Look": 73
+  },
+  "Huawei Model 29": {
+    "General": 87,
+    "Red Dot": 84,
+    "2x Scope": 84,
+    "4x Scope": 71,
+    "AWM Scope": 47,
+    "Free Look": 71
+  },
+  "Huawei Model 30": {
+    "General": 89,
+    "Red Dot": 82,
+    "2x Scope": 87,
+    "4x Scope": 77,
+    "AWM Scope": 58,
+    "Free Look": 67
+  },
+  "Huawei Model 31": {
+    "General": 97,
+    "Red Dot": 91,
+    "2x Scope": 76,
+    "4x Scope": 78,
+    "AWM Scope": 49,
+    "Free Look": 64
+  },
+  "Huawei Model 32": {
+    "General": 85,
+    "Red Dot": 84,
+    "2x Scope": 82,
+    "4x Scope": 81,
+    "AWM Scope": 57,
+    "Free Look": 57
+  },
+  "Huawei Model 33": {
+    "General": 94,
+    "Red Dot": 83,
+    "2x Scope": 83,
+    "4x Scope": 71,
+    "AWM Scope": 46,
+    "Free Look": 67
+  },
+  "Huawei Model 34": {
+    "General": 99,
+    "Red Dot": 91,
+    "2x Scope": 87,
+    "4x Scope": 80,
+    "AWM Scope": 58,
+    "Free Look": 62
+  },
+  "Huawei Model 35": {
+    "General": 91,
+    "Red Dot": 81,
+    "2x Scope": 78,
+    "4x Scope": 74,
+    "AWM Scope": 55,
+    "Free Look": 55
+  },
+  "Huawei Model 36": {
+    "General": 97,
+    "Red Dot": 88,
+    "2x Scope": 79,
+    "4x Scope": 82,
+    "AWM Scope": 60,
+    "Free Look": 58
+  },
+  "Huawei Model 37": {
+    "General": 98,
+    "Red Dot": 88,
+    "2x Scope": 87,
+    "4x Scope": 71,
+    "AWM Scope": 53,
+    "Free Look": 61
+  },
+  "Huawei Model 38": {
+    "General": 94,
+    "Red Dot": 91,
+    "2x Scope": 90,
+    "4x Scope": 77,
+    "AWM Scope": 55,
+    "Free Look": 75
+  },
+  "Huawei Model 39": {
+    "General": 99,
+    "Red Dot": 89,
+    "2x Scope": 87,
+    "4x Scope": 74,
+    "AWM Scope": 47,
+    "Free Look": 74
+  },
+  "Huawei Model 40": {
+    "General": 90,
+    "Red Dot": 92,
+    "2x Scope": 77,
+    "4x Scope": 77,
+    "AWM Scope": 48,
+    "Free Look": 70
+  },
+  "Huawei Model 41": {
+    "General": 89,
+    "Red Dot": 93,
+    "2x Scope": 79,
+    "4x Scope": 70,
+    "AWM Scope": 51,
+    "Free Look": 64
+  },
+  "Huawei Model 42": {
+    "General": 89,
+    "Red Dot": 94,
+    "2x Scope": 84,
+    "4x Scope": 70,
+    "AWM Scope": 47,
+    "Free Look": 70
+  },
+  "Huawei Model 43": {
+    "General": 100,
+    "Red Dot": 88,
+    "2x Scope": 87,
+    "4x Scope": 77,
+    "AWM Scope": 55,
+    "Free Look": 69
+  },
+  "Huawei Model 44": {
+    "General": 97,
+    "Red Dot": 92,
+    "2x Scope": 75,
+    "4x Scope": 84,
+    "AWM Scope": 50,
+    "Free Look": 61
+  },
+  "Huawei Model 45": {
+    "General": 89,
+    "Red Dot": 86,
+    "2x Scope": 75,
+    "4x Scope": 79,
+    "AWM Scope": 45,
+    "Free Look": 73
+  },
+  "Huawei Model 46": {
+    "General": 100,
+    "Red Dot": 85,
+    "2x Scope": 77,
+    "4x Scope": 74,
+    "AWM Scope": 54,
+    "Free Look": 74
+  },
+  "Huawei Model 47": {
+    "General": 97,
+    "Red Dot": 89,
+    "2x Scope": 77,
+    "4x Scope": 74,
+    "AWM Scope": 48,
+    "Free Look": 65
+  },
+  "Huawei Model 48": {
+    "General": 100,
+    "Red Dot": 92,
+    "2x Scope": 82,
+    "4x Scope": 72,
+    "AWM Scope": 47,
+    "Free Look": 67
+  },
+  "Huawei Model 49": {
+    "General": 99,
+    "Red Dot": 90,
+    "2x Scope": 83,
+    "4x Scope": 73,
+    "AWM Scope": 52,
+    "Free Look": 62
+  },
+  "Huawei Model 50": {
+    "General": 90,
+    "Red Dot": 91,
+    "2x Scope": 82,
+    "4x Scope": 82,
+    "AWM Scope": 48,
+    "Free Look": 70
+  },
+  "Huawei Model 51": {
+    "General": 98,
+    "Red Dot": 83,
+    "2x Scope": 87,
+    "4x Scope": 77,
+    "AWM Scope": 57,
+    "Free Look": 66
+  },
+  "Huawei Model 52": {
+    "General": 92,
+    "Red Dot": 83,
+    "2x Scope": 75,
+    "4x Scope": 79,
+    "AWM Scope": 53,
+    "Free Look": 62
+  },
+  "Huawei Model 53": {
+    "General": 93,
+    "Red Dot": 91,
+    "2x Scope": 90,
+    "4x Scope": 77,
+    "AWM Scope": 47,
+    "Free Look": 63
+  },
+  "Huawei Model 54": {
+    "General": 92,
+    "Red Dot": 83,
+    "2x Scope": 82,
+    "4x Scope": 81,
+    "AWM Scope": 60,
+    "Free Look": 74
+  },
+  "Huawei Model 55": {
+    "General": 86,
+    "Red Dot": 80,
+    "2x Scope": 82,
+    "4x Scope": 85,
+    "AWM Scope": 48,
+    "Free Look": 68
+  },
+  "Huawei Model 56": {
+    "General": 97,
+    "Red Dot": 80,
+    "2x Scope": 86,
+    "4x Scope": 75,
+    "AWM Scope": 52,
+    "Free Look": 74
+  },
+  "Huawei Model 57": {
+    "General": 91,
+    "Red Dot": 82,
+    "2x Scope": 81,
+    "4x Scope": 79,
+    "AWM Scope": 54,
+    "Free Look": 74
+  },
+  "Huawei Model 58": {
+    "General": 88,
+    "Red Dot": 85,
+    "2x Scope": 78,
+    "4x Scope": 80,
+    "AWM Scope": 58,
+    "Free Look": 69
+  },
+  "Huawei Model 59": {
+    "General": 96,
+    "Red Dot": 88,
+    "2x Scope": 75,
+    "4x Scope": 82,
+    "AWM Scope": 45,
+    "Free Look": 69
+  },
+  "Nokia Model 1": {
+    "General": 95,
+    "Red Dot": 94,
+    "2x Scope": 83,
+    "4x Scope": 83,
+    "AWM Scope": 47,
+    "Free Look": 70
+  },
+  "Nokia Model 2": {
+    "General": 94,
+    "Red Dot": 81,
+    "2x Scope": 85,
+    "4x Scope": 79,
+    "AWM Scope": 51,
+    "Free Look": 65
+  },
+  "Nokia Model 3": {
+    "General": 98,
+    "Red Dot": 82,
+    "2x Scope": 78,
+    "4x Scope": 76,
+    "AWM Scope": 58,
+    "Free Look": 72
+  },
+  "Nokia Model 4": {
+    "General": 92,
+    "Red Dot": 88,
+    "2x Scope": 76,
+    "4x Scope": 73,
+    "AWM Scope": 55,
+    "Free Look": 58
+  },
+  "Nokia Model 5": {
+    "General": 94,
+    "Red Dot": 83,
+    "2x Scope": 78,
+    "4x Scope": 71,
+    "AWM Scope": 57,
+    "Free Look": 62
+  },
+  "Nokia Model 6": {
+    "General": 93,
+    "Red Dot": 82,
+    "2x Scope": 78,
+    "4x Scope": 73,
+    "AWM Scope": 51,
+    "Free Look": 68
+  },
+  "Nokia Model 7": {
+    "General": 93,
+    "Red Dot": 82,
+    "2x Scope": 75,
+    "4x Scope": 71,
+    "AWM Scope": 58,
+    "Free Look": 66
+  },
+  "Nokia Model 8": {
+    "General": 87,
+    "Red Dot": 88,
+    "2x Scope": 86,
+    "4x Scope": 76,
+    "AWM Scope": 59,
+    "Free Look": 61
+  },
+  "Nokia Model 9": {
+    "General": 97,
+    "Red Dot": 80,
+    "2x Scope": 82,
+    "4x Scope": 81,
+    "AWM Scope": 50,
+    "Free Look": 68
+  },
+  "Nokia Model 10": {
+    "General": 89,
+    "Red Dot": 93,
+    "2x Scope": 87,
+    "4x Scope": 73,
+    "AWM Scope": 52,
+    "Free Look": 72
+  },
+  "Nokia Model 11": {
+    "General": 91,
+    "Red Dot": 95,
+    "2x Scope": 84,
+    "4x Scope": 71,
+    "AWM Scope": 53,
+    "Free Look": 75
+  },
+  "Nokia Model 12": {
+    "General": 90,
+    "Red Dot": 84,
+    "2x Scope": 76,
+    "4x Scope": 82,
+    "AWM Scope": 47,
+    "Free Look": 69
+  },
+  "Nokia Model 13": {
+    "General": 95,
+    "Red Dot": 82,
+    "2x Scope": 77,
+    "4x Scope": 81,
+    "AWM Scope": 52,
+    "Free Look": 63
+  },
+  "Nokia Model 14": {
+    "General": 86,
+    "Red Dot": 94,
+    "2x Scope": 79,
+    "4x Scope": 74,
+    "AWM Scope": 45,
+    "Free Look": 64
+  },
+  "Nokia Model 15": {
+    "General": 86,
+    "Red Dot": 93,
+    "2x Scope": 90,
+    "4x Scope": 73,
+    "AWM Scope": 58,
+    "Free Look": 64
+  },
+  "Nokia Model 16": {
+    "General": 94,
+    "Red Dot": 86,
+    "2x Scope": 82,
+    "4x Scope": 70,
+    "AWM Scope": 49,
+    "Free Look": 61
+  },
+  "Nokia Model 17": {
+    "General": 93,
+    "Red Dot": 85,
+    "2x Scope": 85,
+    "4x Scope": 81,
+    "AWM Scope": 52,
+    "Free Look": 56
+  },
+  "Nokia Model 18": {
+    "General": 100,
+    "Red Dot": 86,
+    "2x Scope": 84,
+    "4x Scope": 76,
+    "AWM Scope": 55,
+    "Free Look": 60
+  },
+  "Nokia Model 19": {
+    "General": 99,
+    "Red Dot": 82,
+    "2x Scope": 77,
+    "4x Scope": 71,
+    "AWM Scope": 46,
+    "Free Look": 59
+  },
+  "Nokia Model 20": {
+    "General": 97,
+    "Red Dot": 82,
+    "2x Scope": 86,
+    "4x Scope": 85,
+    "AWM Scope": 52,
+    "Free Look": 70
+  },
+  "Nokia Model 21": {
+    "General": 92,
+    "Red Dot": 94,
+    "2x Scope": 80,
+    "4x Scope": 74,
+    "AWM Scope": 52,
+    "Free Look": 62
+  },
+  "Nokia Model 22": {
+    "General": 91,
+    "Red Dot": 80,
+    "2x Scope": 75,
+    "4x Scope": 75,
+    "AWM Scope": 59,
+    "Free Look": 73
+  },
+  "Nokia Model 23": {
+    "General": 87,
+    "Red Dot": 85,
+    "2x Scope": 88,
+    "4x Scope": 84,
+    "AWM Scope": 57,
+    "Free Look": 62
+  },
+  "Nokia Model 24": {
+    "General": 88,
+    "Red Dot": 95,
+    "2x Scope": 81,
+    "4x Scope": 84,
+    "AWM Scope": 51,
+    "Free Look": 66
+  },
+  "Nokia Model 25": {
+    "General": 95,
+    "Red Dot": 83,
+    "2x Scope": 86,
+    "4x Scope": 70,
+    "AWM Scope": 59,
+    "Free Look": 59
+  },
+  "Nokia Model 26": {
+    "General": 91,
+    "Red Dot": 89,
+    "2x Scope": 85,
+    "4x Scope": 84,
+    "AWM Scope": 51,
+    "Free Look": 60
+  },
+  "Nokia Model 27": {
+    "General": 100,
+    "Red Dot": 90,
+    "2x Scope": 82,
+    "4x Scope": 76,
+    "AWM Scope": 54,
+    "Free Look": 63
+  },
+  "Nokia Model 28": {
+    "General": 90,
+    "Red Dot": 92,
+    "2x Scope": 84,
+    "4x Scope": 80,
+    "AWM Scope": 47,
+    "Free Look": 74
+  },
+  "Nokia Model 29": {
+    "General": 86,
+    "Red Dot": 85,
+    "2x Scope": 90,
+    "4x Scope": 76,
+    "AWM Scope": 59,
+    "Free Look": 57
+  },
+  "Nokia Model 30": {
+    "General": 88,
+    "Red Dot": 95,
+    "2x Scope": 88,
+    "4x Scope": 72,
+    "AWM Scope": 47,
+    "Free Look": 66
+  },
+  "Nokia Model 31": {
+    "General": 96,
+    "Red Dot": 92,
+    "2x Scope": 89,
+    "4x Scope": 83,
+    "AWM Scope": 46,
+    "Free Look": 72
+  },
+  "Nokia Model 32": {
+    "General": 92,
+    "Red Dot": 92,
+    "2x Scope": 82,
+    "4x Scope": 80,
+    "AWM Scope": 60,
+    "Free Look": 72
+  },
+  "Nokia Model 33": {
+    "General": 86,
+    "Red Dot": 87,
+    "2x Scope": 80,
+    "4x Scope": 75,
+    "AWM Scope": 59,
+    "Free Look": 62
+  },
+  "Nokia Model 34": {
+    "General": 91,
+    "Red Dot": 88,
+    "2x Scope": 86,
+    "4x Scope": 83,
+    "AWM Scope": 51,
+    "Free Look": 55
+  },
+  "Nokia Model 35": {
+    "General": 92,
+    "Red Dot": 89,
+    "2x Scope": 80,
+    "4x Scope": 75,
+    "AWM Scope": 49,
+    "Free Look": 57
+  },
+  "Nokia Model 36": {
+    "General": 88,
+    "Red Dot": 82,
+    "2x Scope": 90,
+    "4x Scope": 75,
+    "AWM Scope": 58,
+    "Free Look": 66
+  },
+  "Nokia Model 37": {
+    "General": 89,
+    "Red Dot": 92,
+    "2x Scope": 84,
+    "4x Scope": 75,
+    "AWM Scope": 50,
+    "Free Look": 66
+  },
+  "Nokia Model 38": {
+    "General": 99,
+    "Red Dot": 89,
+    "2x Scope": 90,
+    "4x Scope": 83,
+    "AWM Scope": 45,
+    "Free Look": 61
+  },
+  "Nokia Model 39": {
+    "General": 96,
+    "Red Dot": 88,
+    "2x Scope": 80,
+    "4x Scope": 72,
+    "AWM Scope": 55,
+    "Free Look": 72
+  },
+  "Nokia Model 40": {
+    "General": 89,
+    "Red Dot": 86,
+    "2x Scope": 85,
+    "4x Scope": 77,
+    "AWM Scope": 52,
+    "Free Look": 69
+  },
+  "Nokia Model 41": {
+    "General": 95,
+    "Red Dot": 86,
+    "2x Scope": 83,
+    "4x Scope": 79,
+    "AWM Scope": 60,
+    "Free Look": 68
+  },
+  "Nokia Model 42": {
+    "General": 85,
+    "Red Dot": 94,
+    "2x Scope": 81,
+    "4x Scope": 85,
+    "AWM Scope": 55,
+    "Free Look": 73
+  },
+  "Nokia Model 43": {
+    "General": 97,
+    "Red Dot": 90,
+    "2x Scope": 88,
+    "4x Scope": 75,
+    "AWM Scope": 45,
+    "Free Look": 56
+  },
+  "Nokia Model 44": {
+    "General": 87,
+    "Red Dot": 87,
+    "2x Scope": 81,
+    "4x Scope": 73,
+    "AWM Scope": 55,
+    "Free Look": 74
+  },
+  "Nokia Model 45": {
+    "General": 96,
+    "Red Dot": 83,
+    "2x Scope": 87,
+    "4x Scope": 80,
+    "AWM Scope": 49,
+    "Free Look": 65
+  },
+  "Nokia Model 46": {
+    "General": 98,
+    "Red Dot": 81,
+    "2x Scope": 88,
+    "4x Scope": 73,
+    "AWM Scope": 56,
+    "Free Look": 57
+  },
+  "Nokia Model 47": {
+    "General": 94,
+    "Red Dot": 87,
+    "2x Scope": 90,
+    "4x Scope": 76,
+    "AWM Scope": 52,
+    "Free Look": 68
+  },
+  "Nokia Model 48": {
+    "General": 87,
+    "Red Dot": 94,
+    "2x Scope": 89,
+    "4x Scope": 73,
+    "AWM Scope": 51,
+    "Free Look": 75
+  },
+  "Nokia Model 49": {
+    "General": 94,
+    "Red Dot": 85,
+    "2x Scope": 81,
+    "4x Scope": 71,
+    "AWM Scope": 46,
+    "Free Look": 67
+  },
+  "Nokia Model 50": {
+    "General": 87,
+    "Red Dot": 81,
+    "2x Scope": 84,
+    "4x Scope": 85,
+    "AWM Scope": 60,
+    "Free Look": 72
+  },
+  "Nokia Model 51": {
+    "General": 97,
+    "Red Dot": 81,
+    "2x Scope": 89,
+    "4x Scope": 76,
+    "AWM Scope": 51,
+    "Free Look": 63
+  },
+  "Nokia Model 52": {
+    "General": 96,
+    "Red Dot": 85,
+    "2x Scope": 79,
+    "4x Scope": 77,
+    "AWM Scope": 56,
+    "Free Look": 66
+  },
+  "Nokia Model 53": {
+    "General": 85,
+    "Red Dot": 91,
+    "2x Scope": 81,
+    "4x Scope": 84,
+    "AWM Scope": 52,
+    "Free Look": 58
+  },
+  "Nokia Model 54": {
+    "General": 95,
+    "Red Dot": 87,
+    "2x Scope": 90,
+    "4x Scope": 79,
+    "AWM Scope": 54,
+    "Free Look": 70
+  },
+  "Nokia Model 55": {
+    "General": 99,
+    "Red Dot": 95,
+    "2x Scope": 81,
+    "4x Scope": 80,
+    "AWM Scope": 55,
+    "Free Look": 75
+  },
+  "Nokia Model 56": {
+    "General": 96,
+    "Red Dot": 95,
+    "2x Scope": 78,
+    "4x Scope": 73,
+    "AWM Scope": 56,
+    "Free Look": 59
+  },
+  "Nokia Model 57": {
+    "General": 89,
+    "Red Dot": 87,
+    "2x Scope": 88,
+    "4x Scope": 74,
+    "AWM Scope": 54,
+    "Free Look": 62
+  },
+  "Nokia Model 58": {
+    "General": 89,
+    "Red Dot": 83,
+    "2x Scope": 79,
+    "4x Scope": 79,
+    "AWM Scope": 50,
+    "Free Look": 73
+  },
+  "Nokia Model 59": {
+    "General": 94,
+    "Red Dot": 94,
+    "2x Scope": 85,
+    "4x Scope": 72,
+    "AWM Scope": 53,
+    "Free Look": 70
+  },
+  "Lava Model 1": {
+    "General": 100,
+    "Red Dot": 90,
+    "2x Scope": 81,
+    "4x Scope": 70,
+    "AWM Scope": 50,
+    "Free Look": 73
+  },
+  "Lava Model 2": {
+    "General": 89,
+    "Red Dot": 90,
+    "2x Scope": 83,
+    "4x Scope": 70,
+    "AWM Scope": 50,
+    "Free Look": 61
+  },
+  "Lava Model 3": {
+    "General": 87,
+    "Red Dot": 90,
+    "2x Scope": 78,
+    "4x Scope": 78,
+    "AWM Scope": 51,
+    "Free Look": 66
+  },
+  "Lava Model 4": {
+    "General": 97,
+    "Red Dot": 81,
+    "2x Scope": 75,
+    "4x Scope": 81,
+    "AWM Scope": 50,
+    "Free Look": 58
+  },
+  "Lava Model 5": {
+    "General": 91,
+    "Red Dot": 90,
+    "2x Scope": 88,
+    "4x Scope": 78,
+    "AWM Scope": 57,
+    "Free Look": 63
+  },
+  "Lava Model 6": {
+    "General": 99,
+    "Red Dot": 85,
+    "2x Scope": 77,
+    "4x Scope": 74,
+    "AWM Scope": 60,
+    "Free Look": 73
+  },
+  "Lava Model 7": {
+    "General": 98,
+    "Red Dot": 92,
+    "2x Scope": 76,
+    "4x Scope": 82,
+    "AWM Scope": 56,
+    "Free Look": 58
+  },
+  "Lava Model 8": {
+    "General": 92,
+    "Red Dot": 81,
+    "2x Scope": 88,
+    "4x Scope": 71,
+    "AWM Scope": 54,
+    "Free Look": 74
+  },
+  "Lava Model 9": {
+    "General": 89,
+    "Red Dot": 83,
+    "2x Scope": 75,
+    "4x Scope": 82,
+    "AWM Scope": 52,
+    "Free Look": 75
+  },
+  "Lava Model 10": {
+    "General": 87,
+    "Red Dot": 80,
+    "2x Scope": 81,
+    "4x Scope": 75,
+    "AWM Scope": 52,
+    "Free Look": 71
+  },
+  "Lava Model 11": {
+    "General": 88,
+    "Red Dot": 95,
+    "2x Scope": 80,
+    "4x Scope": 85,
+    "AWM Scope": 60,
+    "Free Look": 70
+  },
+  "Lava Model 12": {
+    "General": 87,
+    "Red Dot": 93,
+    "2x Scope": 83,
+    "4x Scope": 72,
+    "AWM Scope": 46,
+    "Free Look": 74
+  },
+  "Lava Model 13": {
+    "General": 88,
+    "Red Dot": 93,
+    "2x Scope": 90,
+    "4x Scope": 70,
+    "AWM Scope": 46,
+    "Free Look": 72
+  },
+  "Lava Model 14": {
+    "General": 93,
+    "Red Dot": 89,
+    "2x Scope": 76,
+    "4x Scope": 83,
+    "AWM Scope": 49,
+    "Free Look": 71
+  },
+  "Lava Model 15": {
+    "General": 90,
+    "Red Dot": 80,
+    "2x Scope": 89,
+    "4x Scope": 78,
+    "AWM Scope": 58,
+    "Free Look": 69
+  },
+  "Lava Model 16": {
+    "General": 96,
+    "Red Dot": 86,
+    "2x Scope": 87,
+    "4x Scope": 73,
+    "AWM Scope": 54,
+    "Free Look": 64
+  },
+  "Lava Model 17": {
+    "General": 91,
+    "Red Dot": 83,
+    "2x Scope": 79,
+    "4x Scope": 85,
+    "AWM Scope": 45,
+    "Free Look": 72
+  },
+  "Lava Model 18": {
+    "General": 87,
+    "Red Dot": 93,
+    "2x Scope": 87,
+    "4x Scope": 84,
+    "AWM Scope": 46,
+    "Free Look": 56
+  },
+  "Lava Model 19": {
+    "General": 85,
+    "Red Dot": 85,
+    "2x Scope": 78,
+    "4x Scope": 74,
+    "AWM Scope": 57,
+    "Free Look": 74
+  },
+  "Lava Model 20": {
+    "General": 94,
+    "Red Dot": 83,
+    "2x Scope": 87,
+    "4x Scope": 80,
+    "AWM Scope": 52,
+    "Free Look": 65
+  },
+  "Lava Model 21": {
+    "General": 94,
+    "Red Dot": 81,
+    "2x Scope": 84,
+    "4x Scope": 85,
+    "AWM Scope": 51,
+    "Free Look": 75
+  },
+  "Lava Model 22": {
+    "General": 88,
+    "Red Dot": 82,
+    "2x Scope": 86,
+    "4x Scope": 71,
+    "AWM Scope": 54,
+    "Free Look": 60
+  },
+  "Lava Model 23": {
+    "General": 94,
+    "Red Dot": 82,
+    "2x Scope": 77,
+    "4x Scope": 77,
+    "AWM Scope": 53,
+    "Free Look": 73
+  },
+  "Lava Model 24": {
+    "General": 87,
+    "Red Dot": 84,
+    "2x Scope": 86,
+    "4x Scope": 71,
+    "AWM Scope": 46,
+    "Free Look": 71
+  },
+  "Lava Model 25": {
+    "General": 91,
+    "Red Dot": 93,
+    "2x Scope": 83,
+    "4x Scope": 71,
+    "AWM Scope": 58,
+    "Free Look": 68
+  },
+  "Lava Model 26": {
+    "General": 93,
+    "Red Dot": 83,
+    "2x Scope": 81,
+    "4x Scope": 77,
+    "AWM Scope": 56,
+    "Free Look": 68
+  },
+  "Lava Model 27": {
+    "General": 99,
+    "Red Dot": 95,
+    "2x Scope": 82,
+    "4x Scope": 74,
+    "AWM Scope": 48,
+    "Free Look": 75
+  },
+  "Lava Model 28": {
+    "General": 93,
+    "Red Dot": 82,
+    "2x Scope": 83,
+    "4x Scope": 77,
+    "AWM Scope": 48,
+    "Free Look": 65
+  },
+  "Lava Model 29": {
+    "General": 95,
+    "Red Dot": 86,
+    "2x Scope": 77,
+    "4x Scope": 81,
+    "AWM Scope": 49,
+    "Free Look": 60
+  },
+  "Lava Model 30": {
+    "General": 94,
+    "Red Dot": 88,
+    "2x Scope": 84,
+    "4x Scope": 82,
+    "AWM Scope": 45,
+    "Free Look": 65
+  },
+  "Lava Model 31": {
+    "General": 91,
+    "Red Dot": 81,
+    "2x Scope": 87,
+    "4x Scope": 76,
+    "AWM Scope": 58,
+    "Free Look": 72
+  },
+  "Lava Model 32": {
+    "General": 90,
+    "Red Dot": 95,
+    "2x Scope": 82,
+    "4x Scope": 73,
+    "AWM Scope": 45,
+    "Free Look": 57
+  },
+  "Lava Model 33": {
+    "General": 93,
+    "Red Dot": 85,
+    "2x Scope": 83,
+    "4x Scope": 71,
+    "AWM Scope": 49,
+    "Free Look": 70
+  },
+  "Lava Model 34": {
+    "General": 91,
+    "Red Dot": 82,
+    "2x Scope": 81,
+    "4x Scope": 84,
+    "AWM Scope": 49,
+    "Free Look": 56
+  },
+  "Lava Model 35": {
+    "General": 94,
+    "Red Dot": 95,
+    "2x Scope": 80,
+    "4x Scope": 70,
+    "AWM Scope": 46,
+    "Free Look": 75
+  },
+  "Lava Model 36": {
+    "General": 97,
+    "Red Dot": 89,
+    "2x Scope": 80,
+    "4x Scope": 74,
+    "AWM Scope": 58,
+    "Free Look": 66
+  },
+  "Lava Model 37": {
+    "General": 89,
+    "Red Dot": 86,
+    "2x Scope": 85,
+    "4x Scope": 84,
+    "AWM Scope": 58,
+    "Free Look": 67
+  },
+  "Lava Model 38": {
+    "General": 96,
+    "Red Dot": 83,
+    "2x Scope": 90,
+    "4x Scope": 77,
+    "AWM Scope": 53,
+    "Free Look": 71
+  },
+  "Lava Model 39": {
+    "General": 85,
+    "Red Dot": 93,
+    "2x Scope": 85,
+    "4x Scope": 76,
+    "AWM Scope": 47,
+    "Free Look": 61
+  },
+  "Lava Model 40": {
+    "General": 98,
+    "Red Dot": 89,
+    "2x Scope": 80,
+    "4x Scope": 77,
+    "AWM Scope": 50,
+    "Free Look": 72
+  },
+  "Lava Model 41": {
+    "General": 100,
+    "Red Dot": 88,
+    "2x Scope": 81,
+    "4x Scope": 70,
+    "AWM Scope": 50,
+    "Free Look": 66
+  },
+  "Lava Model 42": {
+    "General": 85,
+    "Red Dot": 84,
+    "2x Scope": 89,
+    "4x Scope": 73,
+    "AWM Scope": 55,
+    "Free Look": 63
+  },
+  "Lava Model 43": {
+    "General": 87,
+    "Red Dot": 81,
+    "2x Scope": 75,
+    "4x Scope": 78,
+    "AWM Scope": 53,
+    "Free Look": 65
+  },
+  "Lava Model 44": {
+    "General": 89,
+    "Red Dot": 94,
+    "2x Scope": 82,
+    "4x Scope": 79,
+    "AWM Scope": 57,
+    "Free Look": 74
+  },
+  "Lava Model 45": {
+    "General": 91,
+    "Red Dot": 80,
+    "2x Scope": 90,
+    "4x Scope": 70,
+    "AWM Scope": 49,
+    "Free Look": 73
+  },
+  "Lava Model 46": {
+    "General": 96,
+    "Red Dot": 85,
+    "2x Scope": 78,
+    "4x Scope": 80,
+    "AWM Scope": 46,
+    "Free Look": 56
+  },
+  "Lava Model 47": {
+    "General": 96,
+    "Red Dot": 84,
+    "2x Scope": 87,
+    "4x Scope": 74,
+    "AWM Scope": 46,
+    "Free Look": 60
+  },
+  "Lava Model 48": {
+    "General": 89,
+    "Red Dot": 92,
+    "2x Scope": 90,
+    "4x Scope": 76,
+    "AWM Scope": 57,
+    "Free Look": 75
+  },
+  "Lava Model 49": {
+    "General": 87,
+    "Red Dot": 81,
+    "2x Scope": 82,
+    "4x Scope": 75,
+    "AWM Scope": 46,
+    "Free Look": 64
+  },
+  "Lava Model 50": {
+    "General": 95,
+    "Red Dot": 92,
+    "2x Scope": 87,
+    "4x Scope": 77,
+    "AWM Scope": 59,
+    "Free Look": 56
+  },
+  "Lava Model 51": {
+    "General": 90,
+    "Red Dot": 80,
+    "2x Scope": 90,
+    "4x Scope": 75,
+    "AWM Scope": 55,
+    "Free Look": 56
+  },
+  "Lava Model 52": {
+    "General": 95,
+    "Red Dot": 84,
+    "2x Scope": 75,
+    "4x Scope": 82,
+    "AWM Scope": 52,
+    "Free Look": 57
+  },
+  "Lava Model 53": {
+    "General": 90,
+    "Red Dot": 92,
+    "2x Scope": 76,
+    "4x Scope": 71,
+    "AWM Scope": 49,
+    "Free Look": 57
+  },
+  "Lava Model 54": {
+    "General": 99,
+    "Red Dot": 85,
+    "2x Scope": 75,
+    "4x Scope": 77,
+    "AWM Scope": 51,
+    "Free Look": 62
+  },
+  "Lava Model 55": {
+    "General": 96,
+    "Red Dot": 83,
+    "2x Scope": 81,
+    "4x Scope": 72,
+    "AWM Scope": 57,
+    "Free Look": 56
+  },
+  "Lava Model 56": {
+    "General": 97,
+    "Red Dot": 82,
+    "2x Scope": 83,
+    "4x Scope": 74,
+    "AWM Scope": 57,
+    "Free Look": 57
+  },
+  "Lava Model 57": {
+    "General": 88,
+    "Red Dot": 82,
+    "2x Scope": 83,
+    "4x Scope": 74,
+    "AWM Scope": 46,
+    "Free Look": 74
+  },
+  "Lava Model 58": {
+    "General": 91,
+    "Red Dot": 86,
+    "2x Scope": 83,
+    "4x Scope": 70,
+    "AWM Scope": 53,
+    "Free Look": 67
+  },
+  "Lava Model 59": {
+    "General": 90,
+    "Red Dot": 82,
+    "2x Scope": 76,
+    "4x Scope": 70,
+    "AWM Scope": 49,
+    "Free Look": 74
+  },
+  "Micromax Model 1": {
+    "General": 96,
+    "Red Dot": 87,
+    "2x Scope": 81,
+    "4x Scope": 75,
+    "AWM Scope": 54,
+    "Free Look": 72
+  },
+  "Micromax Model 2": {
+    "General": 91,
+    "Red Dot": 91,
+    "2x Scope": 81,
+    "4x Scope": 82,
+    "AWM Scope": 51,
+    "Free Look": 56
+  },
+  "Micromax Model 3": {
+    "General": 99,
+    "Red Dot": 91,
+    "2x Scope": 79,
+    "4x Scope": 80,
+    "AWM Scope": 49,
+    "Free Look": 58
+  },
+  "Micromax Model 4": {
+    "General": 87,
+    "Red Dot": 85,
+    "2x Scope": 75,
+    "4x Scope": 78,
+    "AWM Scope": 47,
+    "Free Look": 64
+  },
+  "Micromax Model 5": {
+    "General": 91,
+    "Red Dot": 82,
+    "2x Scope": 86,
+    "4x Scope": 80,
+    "AWM Scope": 49,
+    "Free Look": 57
+  },
+  "Micromax Model 6": {
+    "General": 100,
+    "Red Dot": 87,
+    "2x Scope": 84,
+    "4x Scope": 83,
+    "AWM Scope": 47,
+    "Free Look": 62
+  },
+  "Micromax Model 7": {
+    "General": 96,
+    "Red Dot": 83,
+    "2x Scope": 77,
+    "4x Scope": 85,
+    "AWM Scope": 55,
+    "Free Look": 72
+  },
+  "Micromax Model 8": {
+    "General": 92,
+    "Red Dot": 87,
+    "2x Scope": 76,
+    "4x Scope": 74,
+    "AWM Scope": 47,
+    "Free Look": 74
+  },
+  "Micromax Model 9": {
+    "General": 86,
+    "Red Dot": 88,
+    "2x Scope": 81,
+    "4x Scope": 74,
+    "AWM Scope": 52,
+    "Free Look": 55
+  },
+  "Micromax Model 10": {
+    "General": 86,
+    "Red Dot": 88,
+    "2x Scope": 82,
+    "4x Scope": 83,
+    "AWM Scope": 45,
+    "Free Look": 70
+  },
+  "Micromax Model 11": {
+    "General": 95,
+    "Red Dot": 80,
+    "2x Scope": 78,
+    "4x Scope": 80,
+    "AWM Scope": 52,
+    "Free Look": 61
+  },
+  "Micromax Model 12": {
+    "General": 93,
+    "Red Dot": 83,
+    "2x Scope": 90,
+    "4x Scope": 76,
+    "AWM Scope": 47,
+    "Free Look": 59
+  },
+  "Micromax Model 13": {
+    "General": 94,
+    "Red Dot": 90,
+    "2x Scope": 88,
+    "4x Scope": 85,
+    "AWM Scope": 51,
+    "Free Look": 62
+  },
+  "Micromax Model 14": {
+    "General": 99,
+    "Red Dot": 84,
+    "2x Scope": 77,
+    "4x Scope": 82,
+    "AWM Scope": 49,
+    "Free Look": 70
+  },
+  "Micromax Model 15": {
+    "General": 91,
+    "Red Dot": 90,
+    "2x Scope": 86,
+    "4x Scope": 83,
+    "AWM Scope": 46,
+    "Free Look": 74
+  },
+  "Micromax Model 16": {
+    "General": 94,
+    "Red Dot": 87,
+    "2x Scope": 76,
+    "4x Scope": 77,
+    "AWM Scope": 57,
+    "Free Look": 59
+  },
+  "Micromax Model 17": {
+    "General": 89,
+    "Red Dot": 91,
+    "2x Scope": 90,
+    "4x Scope": 85,
+    "AWM Scope": 60,
+    "Free Look": 67
+  },
+  "Micromax Model 18": {
+    "General": 97,
+    "Red Dot": 80,
+    "2x Scope": 85,
+    "4x Scope": 82,
+    "AWM Scope": 60,
+    "Free Look": 57
+  },
+  "Micromax Model 19": {
+    "General": 86,
+    "Red Dot": 86,
+    "2x Scope": 84,
+    "4x Scope": 70,
+    "AWM Scope": 49,
+    "Free Look": 66
+  },
+  "Micromax Model 20": {
+    "General": 96,
+    "Red Dot": 81,
+    "2x Scope": 76,
+    "4x Scope": 75,
+    "AWM Scope": 45,
+    "Free Look": 72
+  },
+  "Micromax Model 21": {
+    "General": 92,
+    "Red Dot": 85,
+    "2x Scope": 85,
+    "4x Scope": 73,
+    "AWM Scope": 52,
+    "Free Look": 71
+  },
+  "Micromax Model 22": {
+    "General": 85,
+    "Red Dot": 89,
+    "2x Scope": 80,
+    "4x Scope": 85,
+    "AWM Scope": 47,
+    "Free Look": 67
+  },
+  "Micromax Model 23": {
+    "General": 94,
+    "Red Dot": 83,
+    "2x Scope": 83,
+    "4x Scope": 84,
+    "AWM Scope": 58,
+    "Free Look": 69
+  },
+  "Micromax Model 24": {
+    "General": 91,
+    "Red Dot": 82,
+    "2x Scope": 79,
+    "4x Scope": 71,
+    "AWM Scope": 46,
+    "Free Look": 67
+  },
+  "Micromax Model 25": {
+    "General": 93,
+    "Red Dot": 85,
+    "2x Scope": 87,
+    "4x Scope": 79,
+    "AWM Scope": 57,
+    "Free Look": 67
+  },
+  "Micromax Model 26": {
+    "General": 94,
+    "Red Dot": 94,
+    "2x Scope": 75,
+    "4x Scope": 75,
+    "AWM Scope": 46,
+    "Free Look": 67
+  },
+  "Micromax Model 27": {
+    "General": 85,
+    "Red Dot": 88,
+    "2x Scope": 87,
+    "4x Scope": 85,
+    "AWM Scope": 47,
+    "Free Look": 61
+  },
+  "Micromax Model 28": {
+    "General": 95,
+    "Red Dot": 86,
+    "2x Scope": 90,
+    "4x Scope": 72,
+    "AWM Scope": 46,
+    "Free Look": 66
+  },
+  "Micromax Model 29": {
+    "General": 97,
+    "Red Dot": 82,
+    "2x Scope": 83,
+    "4x Scope": 82,
+    "AWM Scope": 58,
+    "Free Look": 64
+  },
+  "Micromax Model 30": {
+    "General": 87,
+    "Red Dot": 84,
+    "2x Scope": 89,
+    "4x Scope": 84,
+    "AWM Scope": 48,
+    "Free Look": 56
+  },
+  "Micromax Model 31": {
+    "General": 94,
+    "Red Dot": 89,
+    "2x Scope": 84,
+    "4x Scope": 81,
+    "AWM Scope": 51,
+    "Free Look": 67
+  },
+  "Micromax Model 32": {
+    "General": 98,
+    "Red Dot": 80,
+    "2x Scope": 90,
+    "4x Scope": 82,
+    "AWM Scope": 58,
+    "Free Look": 61
+  },
+  "Micromax Model 33": {
+    "General": 87,
+    "Red Dot": 83,
+    "2x Scope": 75,
+    "4x Scope": 71,
+    "AWM Scope": 49,
+    "Free Look": 61
+  },
+  "Micromax Model 34": {
+    "General": 88,
+    "Red Dot": 93,
+    "2x Scope": 87,
+    "4x Scope": 83,
+    "AWM Scope": 57,
+    "Free Look": 62
+  },
+  "Micromax Model 35": {
+    "General": 96,
+    "Red Dot": 85,
+    "2x Scope": 82,
+    "4x Scope": 78,
+    "AWM Scope": 57,
+    "Free Look": 61
+  },
+  "Micromax Model 36": {
+    "General": 85,
+    "Red Dot": 83,
+    "2x Scope": 79,
+    "4x Scope": 78,
+    "AWM Scope": 49,
+    "Free Look": 72
+  },
+  "Micromax Model 37": {
+    "General": 99,
+    "Red Dot": 90,
+    "2x Scope": 76,
+    "4x Scope": 77,
+    "AWM Scope": 53,
+    "Free Look": 63
+  },
+  "Micromax Model 38": {
+    "General": 86,
+    "Red Dot": 84,
+    "2x Scope": 78,
+    "4x Scope": 75,
+    "AWM Scope": 47,
+    "Free Look": 71
+  },
+  "Micromax Model 39": {
+    "General": 96,
+    "Red Dot": 86,
+    "2x Scope": 83,
+    "4x Scope": 85,
+    "AWM Scope": 47,
+    "Free Look": 74
+  },
+  "Micromax Model 40": {
+    "General": 86,
+    "Red Dot": 93,
+    "2x Scope": 90,
+    "4x Scope": 71,
+    "AWM Scope": 48,
+    "Free Look": 61
+  },
+  "Micromax Model 41": {
+    "General": 92,
+    "Red Dot": 86,
+    "2x Scope": 90,
+    "4x Scope": 71,
+    "AWM Scope": 50,
+    "Free Look": 71
+  },
+  "Micromax Model 42": {
+    "General": 87,
+    "Red Dot": 92,
+    "2x Scope": 89,
+    "4x Scope": 78,
+    "AWM Scope": 53,
+    "Free Look": 70
+  },
+  "Micromax Model 43": {
+    "General": 92,
+    "Red Dot": 83,
+    "2x Scope": 75,
+    "4x Scope": 85,
+    "AWM Scope": 47,
+    "Free Look": 71
+  },
+  "Micromax Model 44": {
+    "General": 86,
+    "Red Dot": 84,
+    "2x Scope": 89,
+    "4x Scope": 80,
+    "AWM Scope": 50,
+    "Free Look": 61
+  },
+  "Micromax Model 45": {
+    "General": 93,
+    "Red Dot": 82,
+    "2x Scope": 80,
+    "4x Scope": 74,
+    "AWM Scope": 59,
+    "Free Look": 58
+  },
+  "Micromax Model 46": {
+    "General": 91,
+    "Red Dot": 90,
+    "2x Scope": 81,
+    "4x Scope": 71,
+    "AWM Scope": 60,
+    "Free Look": 71
+  },
+  "Micromax Model 47": {
+    "General": 93,
+    "Red Dot": 93,
+    "2x Scope": 87,
+    "4x Scope": 71,
+    "AWM Scope": 46,
+    "Free Look": 61
+  },
+  "Micromax Model 48": {
+    "General": 95,
+    "Red Dot": 91,
+    "2x Scope": 75,
+    "4x Scope": 83,
+    "AWM Scope": 47,
+    "Free Look": 64
+  },
+  "Micromax Model 49": {
+    "General": 86,
+    "Red Dot": 92,
+    "2x Scope": 89,
+    "4x Scope": 80,
+    "AWM Scope": 45,
+    "Free Look": 66
+  },
+  "Micromax Model 50": {
+    "General": 90,
+    "Red Dot": 89,
+    "2x Scope": 78,
+    "4x Scope": 75,
+    "AWM Scope": 57,
+    "Free Look": 74
+  },
+  "Micromax Model 51": {
+    "General": 97,
+    "Red Dot": 90,
+    "2x Scope": 88,
+    "4x Scope": 71,
+    "AWM Scope": 50,
+    "Free Look": 58
+  },
+  "Micromax Model 52": {
+    "General": 88,
+    "Red Dot": 90,
+    "2x Scope": 90,
+    "4x Scope": 80,
+    "AWM Scope": 53,
+    "Free Look": 66
+  },
+  "Micromax Model 53": {
+    "General": 97,
+    "Red Dot": 80,
+    "2x Scope": 86,
+    "4x Scope": 79,
+    "AWM Scope": 56,
+    "Free Look": 67
+  },
+  "Micromax Model 54": {
+    "General": 96,
+    "Red Dot": 87,
+    "2x Scope": 84,
+    "4x Scope": 75,
+    "AWM Scope": 48,
+    "Free Look": 65
+  },
+  "Micromax Model 55": {
+    "General": 89,
+    "Red Dot": 80,
+    "2x Scope": 75,
+    "4x Scope": 83,
+    "AWM Scope": 58,
+    "Free Look": 66
+  },
+  "Micromax Model 56": {
+    "General": 85,
+    "Red Dot": 80,
+    "2x Scope": 81,
+    "4x Scope": 71,
+    "AWM Scope": 50,
+    "Free Look": 55
+  },
+  "Micromax Model 57": {
+    "General": 93,
+    "Red Dot": 91,
+    "2x Scope": 77,
+    "4x Scope": 81,
+    "AWM Scope": 46,
+    "Free Look": 62
+  },
+  "Micromax Model 58": {
+    "General": 99,
+    "Red Dot": 90,
+    "2x Scope": 85,
+    "4x Scope": 85,
+    "AWM Scope": 56,
+    "Free Look": 55
+  },
+  "Micromax Model 59": {
+    "General": 99,
+    "Red Dot": 85,
+    "2x Scope": 90,
+    "4x Scope": 77,
+    "AWM Scope": 48,
+    "Free Look": 74
+  },
+  "Lenovo Model 1": {
+    "General": 94,
+    "Red Dot": 89,
+    "2x Scope": 77,
+    "4x Scope": 75,
+    "AWM Scope": 57,
+    "Free Look": 62
+  },
+  "Lenovo Model 2": {
+    "General": 100,
+    "Red Dot": 91,
+    "2x Scope": 80,
+    "4x Scope": 79,
+    "AWM Scope": 56,
+    "Free Look": 68
+  },
+  "Lenovo Model 3": {
+    "General": 87,
+    "Red Dot": 90,
+    "2x Scope": 80,
+    "4x Scope": 84,
+    "AWM Scope": 53,
+    "Free Look": 62
+  },
+  "Lenovo Model 4": {
+    "General": 89,
+    "Red Dot": 86,
+    "2x Scope": 86,
+    "4x Scope": 75,
+    "AWM Scope": 48,
+    "Free Look": 58
+  },
+  "Lenovo Model 5": {
+    "General": 96,
+    "Red Dot": 91,
+    "2x Scope": 88,
+    "4x Scope": 81,
+    "AWM Scope": 53,
+    "Free Look": 65
+  },
+  "Lenovo Model 6": {
+    "General": 95,
+    "Red Dot": 86,
+    "2x Scope": 88,
+    "4x Scope": 70,
+    "AWM Scope": 52,
+    "Free Look": 71
+  },
+  "Lenovo Model 7": {
+    "General": 85,
+    "Red Dot": 80,
+    "2x Scope": 83,
+    "4x Scope": 79,
+    "AWM Scope": 46,
+    "Free Look": 61
+  },
+  "Lenovo Model 8": {
+    "General": 94,
+    "Red Dot": 83,
+    "2x Scope": 77,
+    "4x Scope": 79,
+    "AWM Scope": 55,
+    "Free Look": 74
+  },
+  "Lenovo Model 9": {
+    "General": 89,
+    "Red Dot": 85,
+    "2x Scope": 77,
+    "4x Scope": 76,
+    "AWM Scope": 58,
+    "Free Look": 69
+  },
+  "Lenovo Model 10": {
+    "General": 86,
+    "Red Dot": 81,
+    "2x Scope": 77,
+    "4x Scope": 74,
+    "AWM Scope": 57,
+    "Free Look": 56
+  },
+  "Lenovo Model 11": {
+    "General": 86,
+    "Red Dot": 85,
+    "2x Scope": 89,
+    "4x Scope": 72,
+    "AWM Scope": 56,
+    "Free Look": 71
+  },
+  "Lenovo Model 12": {
+    "General": 98,
+    "Red Dot": 86,
+    "2x Scope": 82,
+    "4x Scope": 80,
+    "AWM Scope": 51,
+    "Free Look": 56
+  },
+  "Lenovo Model 13": {
+    "General": 91,
+    "Red Dot": 85,
+    "2x Scope": 76,
+    "4x Scope": 82,
+    "AWM Scope": 51,
+    "Free Look": 61
+  },
+  "Lenovo Model 14": {
+    "General": 97,
+    "Red Dot": 95,
+    "2x Scope": 85,
+    "4x Scope": 82,
+    "AWM Scope": 59,
+    "Free Look": 75
+  },
+  "Lenovo Model 15": {
+    "General": 85,
+    "Red Dot": 89,
+    "2x Scope": 84,
+    "4x Scope": 82,
+    "AWM Scope": 46,
+    "Free Look": 68
+  },
+  "Lenovo Model 16": {
+    "General": 96,
+    "Red Dot": 84,
+    "2x Scope": 75,
+    "4x Scope": 72,
+    "AWM Scope": 46,
+    "Free Look": 62
+  },
+  "Lenovo Model 17": {
+    "General": 100,
+    "Red Dot": 80,
+    "2x Scope": 90,
+    "4x Scope": 81,
+    "AWM Scope": 47,
+    "Free Look": 69
+  },
+  "Lenovo Model 18": {
+    "General": 97,
+    "Red Dot": 85,
+    "2x Scope": 87,
+    "4x Scope": 70,
+    "AWM Scope": 59,
+    "Free Look": 68
+  },
+  "Lenovo Model 19": {
+    "General": 86,
+    "Red Dot": 92,
+    "2x Scope": 76,
+    "4x Scope": 78,
+    "AWM Scope": 52,
+    "Free Look": 70
+  },
+  "Lenovo Model 20": {
+    "General": 95,
+    "Red Dot": 84,
+    "2x Scope": 81,
+    "4x Scope": 81,
+    "AWM Scope": 47,
+    "Free Look": 71
+  },
+  "Lenovo Model 21": {
+    "General": 94,
+    "Red Dot": 87,
+    "2x Scope": 80,
+    "4x Scope": 81,
+    "AWM Scope": 59,
+    "Free Look": 59
+  },
+  "Lenovo Model 22": {
+    "General": 100,
+    "Red Dot": 82,
+    "2x Scope": 78,
+    "4x Scope": 82,
+    "AWM Scope": 53,
+    "Free Look": 57
+  },
+  "Lenovo Model 23": {
+    "General": 95,
+    "Red Dot": 85,
+    "2x Scope": 80,
+    "4x Scope": 78,
+    "AWM Scope": 45,
+    "Free Look": 72
+  },
+  "Lenovo Model 24": {
+    "General": 99,
+    "Red Dot": 85,
+    "2x Scope": 90,
+    "4x Scope": 78,
+    "AWM Scope": 60,
+    "Free Look": 69
+  },
+  "Lenovo Model 25": {
+    "General": 99,
+    "Red Dot": 90,
+    "2x Scope": 76,
+    "4x Scope": 81,
+    "AWM Scope": 47,
+    "Free Look": 72
+  },
+  "Lenovo Model 26": {
+    "General": 93,
+    "Red Dot": 90,
+    "2x Scope": 75,
+    "4x Scope": 70,
+    "AWM Scope": 45,
+    "Free Look": 67
+  },
+  "Lenovo Model 27": {
+    "General": 86,
+    "Red Dot": 84,
+    "2x Scope": 81,
+    "4x Scope": 81,
+    "AWM Scope": 58,
+    "Free Look": 73
+  },
+  "Lenovo Model 28": {
+    "General": 86,
+    "Red Dot": 90,
+    "2x Scope": 75,
+    "4x Scope": 81,
+    "AWM Scope": 58,
+    "Free Look": 65
+  },
+  "Lenovo Model 29": {
+    "General": 92,
+    "Red Dot": 94,
+    "2x Scope": 79,
+    "4x Scope": 81,
+    "AWM Scope": 59,
+    "Free Look": 69
+  },
+  "Lenovo Model 30": {
+    "General": 87,
+    "Red Dot": 82,
+    "2x Scope": 86,
+    "4x Scope": 74,
+    "AWM Scope": 52,
+    "Free Look": 60
+  },
+  "Lenovo Model 31": {
+    "General": 92,
+    "Red Dot": 91,
+    "2x Scope": 75,
+    "4x Scope": 84,
+    "AWM Scope": 51,
+    "Free Look": 56
+  },
+  "Lenovo Model 32": {
+    "General": 86,
+    "Red Dot": 88,
+    "2x Scope": 81,
+    "4x Scope": 75,
+    "AWM Scope": 51,
+    "Free Look": 56
+  },
+  "Lenovo Model 33": {
+    "General": 92,
+    "Red Dot": 85,
+    "2x Scope": 76,
+    "4x Scope": 70,
+    "AWM Scope": 45,
+    "Free Look": 65
+  },
+  "Lenovo Model 34": {
+    "General": 92,
+    "Red Dot": 92,
+    "2x Scope": 77,
+    "4x Scope": 80,
+    "AWM Scope": 50,
+    "Free Look": 65
+  },
+  "Lenovo Model 35": {
+    "General": 96,
+    "Red Dot": 81,
+    "2x Scope": 78,
+    "4x Scope": 79,
+    "AWM Scope": 51,
+    "Free Look": 66
+  },
+  "Lenovo Model 36": {
+    "General": 98,
+    "Red Dot": 88,
+    "2x Scope": 85,
+    "4x Scope": 71,
+    "AWM Scope": 51,
+    "Free Look": 69
+  },
+  "Lenovo Model 37": {
+    "General": 89,
+    "Red Dot": 90,
+    "2x Scope": 75,
+    "4x Scope": 79,
+    "AWM Scope": 50,
+    "Free Look": 57
+  },
+  "Lenovo Model 38": {
+    "General": 92,
+    "Red Dot": 91,
+    "2x Scope": 80,
+    "4x Scope": 78,
+    "AWM Scope": 59,
+    "Free Look": 56
+  },
+  "Lenovo Model 39": {
+    "General": 91,
+    "Red Dot": 94,
+    "2x Scope": 90,
+    "4x Scope": 85,
+    "AWM Scope": 49,
+    "Free Look": 57
+  },
+  "Lenovo Model 40": {
+    "General": 94,
+    "Red Dot": 83,
+    "2x Scope": 80,
+    "4x Scope": 73,
+    "AWM Scope": 54,
+    "Free Look": 65
+  },
+  "Lenovo Model 41": {
+    "General": 100,
+    "Red Dot": 81,
+    "2x Scope": 87,
+    "4x Scope": 82,
+    "AWM Scope": 50,
+    "Free Look": 58
+  },
+  "Lenovo Model 42": {
+    "General": 90,
+    "Red Dot": 84,
+    "2x Scope": 80,
+    "4x Scope": 75,
+    "AWM Scope": 58,
+    "Free Look": 66
+  },
+  "Lenovo Model 43": {
+    "General": 89,
+    "Red Dot": 81,
+    "2x Scope": 90,
+    "4x Scope": 78,
+    "AWM Scope": 46,
+    "Free Look": 62
+  },
+  "Lenovo Model 44": {
+    "General": 86,
+    "Red Dot": 88,
+    "2x Scope": 89,
+    "4x Scope": 81,
+    "AWM Scope": 45,
+    "Free Look": 66
+  },
+  "Lenovo Model 45": {
+    "General": 90,
+    "Red Dot": 81,
+    "2x Scope": 76,
+    "4x Scope": 74,
+    "AWM Scope": 60,
+    "Free Look": 72
+  },
+  "Lenovo Model 46": {
+    "General": 96,
+    "Red Dot": 80,
+    "2x Scope": 77,
+    "4x Scope": 73,
+    "AWM Scope": 56,
+    "Free Look": 60
+  },
+  "Lenovo Model 47": {
+    "General": 99,
+    "Red Dot": 83,
+    "2x Scope": 75,
+    "4x Scope": 84,
+    "AWM Scope": 59,
+    "Free Look": 64
+  },
+  "Lenovo Model 48": {
+    "General": 88,
+    "Red Dot": 94,
+    "2x Scope": 82,
+    "4x Scope": 70,
+    "AWM Scope": 57,
+    "Free Look": 64
+  },
+  "Lenovo Model 49": {
+    "General": 98,
+    "Red Dot": 86,
+    "2x Scope": 80,
+    "4x Scope": 85,
+    "AWM Scope": 47,
+    "Free Look": 67
+  },
+  "Lenovo Model 50": {
+    "General": 91,
+    "Red Dot": 90,
+    "2x Scope": 84,
+    "4x Scope": 78,
+    "AWM Scope": 58,
+    "Free Look": 69
+  },
+  "Lenovo Model 51": {
+    "General": 87,
+    "Red Dot": 94,
+    "2x Scope": 86,
+    "4x Scope": 79,
+    "AWM Scope": 58,
+    "Free Look": 68
+  },
+  "Lenovo Model 52": {
+    "General": 85,
+    "Red Dot": 91,
+    "2x Scope": 85,
+    "4x Scope": 77,
+    "AWM Scope": 55,
+    "Free Look": 71
+  },
+  "Lenovo Model 53": {
+    "General": 99,
+    "Red Dot": 90,
+    "2x Scope": 83,
+    "4x Scope": 78,
+    "AWM Scope": 54,
+    "Free Look": 72
+  },
+  "Lenovo Model 54": {
+    "General": 88,
+    "Red Dot": 82,
+    "2x Scope": 88,
+    "4x Scope": 79,
+    "AWM Scope": 57,
+    "Free Look": 67
+  },
+  "Lenovo Model 55": {
+    "General": 93,
+    "Red Dot": 86,
+    "2x Scope": 81,
+    "4x Scope": 81,
+    "AWM Scope": 51,
+    "Free Look": 74
+  },
+  "Lenovo Model 56": {
+    "General": 97,
+    "Red Dot": 94,
+    "2x Scope": 76,
+    "4x Scope": 76,
+    "AWM Scope": 57,
+    "Free Look": 62
+  },
+  "Lenovo Model 57": {
+    "General": 99,
+    "Red Dot": 87,
+    "2x Scope": 82,
+    "4x Scope": 81,
+    "AWM Scope": 55,
+    "Free Look": 66
+  },
+  "Lenovo Model 58": {
+    "General": 97,
+    "Red Dot": 88,
+    "2x Scope": 86,
+    "4x Scope": 76,
+    "AWM Scope": 45,
+    "Free Look": 66
+  },
+  "Lenovo Model 59": {
+    "General": 99,
+    "Red Dot": 93,
+    "2x Scope": 82,
+    "4x Scope": 80,
+    "AWM Scope": 51,
+    "Free Look": 70
+  },
+  "Honor Model 1": {
+    "General": 100,
+    "Red Dot": 86,
+    "2x Scope": 77,
+    "4x Scope": 80,
+    "AWM Scope": 56,
+    "Free Look": 59
+  },
+  "Honor Model 2": {
+    "General": 89,
+    "Red Dot": 93,
+    "2x Scope": 78,
+    "4x Scope": 74,
+    "AWM Scope": 58,
+    "Free Look": 65
+  },
+  "Honor Model 3": {
+    "General": 92,
+    "Red Dot": 93,
+    "2x Scope": 81,
+    "4x Scope": 82,
+    "AWM Scope": 49,
+    "Free Look": 58
+  },
+  "Honor Model 4": {
+    "General": 85,
+    "Red Dot": 84,
+    "2x Scope": 80,
+    "4x Scope": 84,
+    "AWM Scope": 53,
+    "Free Look": 64
+  },
+  "Honor Model 5": {
+    "General": 92,
+    "Red Dot": 93,
+    "2x Scope": 82,
+    "4x Scope": 80,
+    "AWM Scope": 45,
+    "Free Look": 67
+  },
+  "Honor Model 6": {
+    "General": 93,
+    "Red Dot": 90,
+    "2x Scope": 86,
+    "4x Scope": 70,
+    "AWM Scope": 53,
+    "Free Look": 62
+  },
+  "Honor Model 7": {
+    "General": 98,
+    "Red Dot": 95,
+    "2x Scope": 80,
+    "4x Scope": 82,
+    "AWM Scope": 59,
+    "Free Look": 59
+  },
+  "Honor Model 8": {
+    "General": 89,
+    "Red Dot": 81,
+    "2x Scope": 83,
+    "4x Scope": 81,
+    "AWM Scope": 46,
+    "Free Look": 74
+  },
+  "Honor Model 9": {
+    "General": 89,
+    "Red Dot": 89,
+    "2x Scope": 78,
+    "4x Scope": 82,
+    "AWM Scope": 45,
+    "Free Look": 66
+  },
+  "Honor Model 10": {
+    "General": 97,
+    "Red Dot": 83,
+    "2x Scope": 75,
+    "4x Scope": 80,
+    "AWM Scope": 56,
+    "Free Look": 73
+  },
+  "Honor Model 11": {
+    "General": 85,
+    "Red Dot": 84,
+    "2x Scope": 83,
+    "4x Scope": 85,
+    "AWM Scope": 47,
+    "Free Look": 65
+  },
+  "Honor Model 12": {
+    "General": 91,
+    "Red Dot": 86,
+    "2x Scope": 86,
+    "4x Scope": 81,
+    "AWM Scope": 56,
+    "Free Look": 73
+  },
+  "Honor Model 13": {
+    "General": 91,
+    "Red Dot": 87,
+    "2x Scope": 90,
+    "4x Scope": 84,
+    "AWM Scope": 48,
+    "Free Look": 58
+  },
+  "Honor Model 14": {
+    "General": 86,
+    "Red Dot": 88,
+    "2x Scope": 90,
+    "4x Scope": 85,
+    "AWM Scope": 45,
+    "Free Look": 72
+  },
+  "Honor Model 15": {
+    "General": 94,
+    "Red Dot": 94,
+    "2x Scope": 76,
+    "4x Scope": 72,
+    "AWM Scope": 58,
+    "Free Look": 62
+  },
+  "Honor Model 16": {
+    "General": 90,
+    "Red Dot": 80,
+    "2x Scope": 82,
+    "4x Scope": 72,
+    "AWM Scope": 60,
+    "Free Look": 56
+  },
+  "Honor Model 17": {
+    "General": 85,
+    "Red Dot": 90,
+    "2x Scope": 75,
+    "4x Scope": 75,
+    "AWM Scope": 55,
+    "Free Look": 55
+  },
+  "Honor Model 18": {
+    "General": 96,
+    "Red Dot": 88,
+    "2x Scope": 79,
+    "4x Scope": 76,
+    "AWM Scope": 57,
+    "Free Look": 57
+  },
+  "Honor Model 19": {
+    "General": 95,
+    "Red Dot": 91,
+    "2x Scope": 90,
+    "4x Scope": 84,
+    "AWM Scope": 57,
+    "Free Look": 75
+  },
+  "Honor Model 20": {
+    "General": 100,
+    "Red Dot": 80,
+    "2x Scope": 86,
+    "4x Scope": 79,
+    "AWM Scope": 60,
+    "Free Look": 60
+  },
+  "Honor Model 21": {
+    "General": 89,
+    "Red Dot": 95,
+    "2x Scope": 80,
+    "4x Scope": 70,
+    "AWM Scope": 46,
+    "Free Look": 71
+  },
+  "Honor Model 22": {
+    "General": 99,
+    "Red Dot": 91,
+    "2x Scope": 83,
+    "4x Scope": 73,
+    "AWM Scope": 55,
+    "Free Look": 70
+  },
+  "Honor Model 23": {
+    "General": 90,
+    "Red Dot": 82,
+    "2x Scope": 76,
+    "4x Scope": 71,
+    "AWM Scope": 45,
+    "Free Look": 63
+  },
+  "Honor Model 24": {
+    "General": 92,
+    "Red Dot": 85,
+    "2x Scope": 83,
+    "4x Scope": 72,
+    "AWM Scope": 49,
+    "Free Look": 62
+  },
+  "Honor Model 25": {
+    "General": 87,
+    "Red Dot": 86,
+    "2x Scope": 87,
+    "4x Scope": 72,
+    "AWM Scope": 49,
+    "Free Look": 71
+  },
+  "Honor Model 26": {
+    "General": 89,
+    "Red Dot": 89,
+    "2x Scope": 80,
+    "4x Scope": 70,
+    "AWM Scope": 51,
+    "Free Look": 60
+  },
+  "Honor Model 27": {
+    "General": 86,
+    "Red Dot": 90,
+    "2x Scope": 77,
+    "4x Scope": 84,
+    "AWM Scope": 49,
+    "Free Look": 66
+  },
+  "Honor Model 28": {
+    "General": 89,
+    "Red Dot": 82,
+    "2x Scope": 90,
+    "4x Scope": 72,
+    "AWM Scope": 53,
+    "Free Look": 72
+  },
+  "Honor Model 29": {
+    "General": 89,
+    "Red Dot": 87,
+    "2x Scope": 89,
+    "4x Scope": 85,
+    "AWM Scope": 57,
+    "Free Look": 75
+  },
+  "Honor Model 30": {
+    "General": 99,
+    "Red Dot": 92,
+    "2x Scope": 78,
+    "4x Scope": 82,
+    "AWM Scope": 55,
+    "Free Look": 66
+  },
+  "Honor Model 31": {
+    "General": 92,
+    "Red Dot": 89,
+    "2x Scope": 76,
+    "4x Scope": 78,
+    "AWM Scope": 55,
+    "Free Look": 66
+  },
+  "Honor Model 32": {
+    "General": 97,
+    "Red Dot": 95,
+    "2x Scope": 85,
+    "4x Scope": 76,
+    "AWM Scope": 59,
+    "Free Look": 67
+  },
+  "Honor Model 33": {
+    "General": 96,
+    "Red Dot": 93,
+    "2x Scope": 90,
+    "4x Scope": 82,
+    "AWM Scope": 55,
+    "Free Look": 71
+  },
+  "Honor Model 34": {
+    "General": 85,
+    "Red Dot": 81,
+    "2x Scope": 80,
+    "4x Scope": 71,
+    "AWM Scope": 45,
+    "Free Look": 71
+  },
+  "Honor Model 35": {
+    "General": 90,
+    "Red Dot": 84,
+    "2x Scope": 75,
+    "4x Scope": 75,
+    "AWM Scope": 58,
+    "Free Look": 64
+  },
+  "Honor Model 36": {
+    "General": 96,
+    "Red Dot": 87,
+    "2x Scope": 89,
+    "4x Scope": 78,
+    "AWM Scope": 53,
+    "Free Look": 74
+  },
+  "Honor Model 37": {
+    "General": 85,
+    "Red Dot": 82,
+    "2x Scope": 85,
+    "4x Scope": 75,
+    "AWM Scope": 46,
+    "Free Look": 75
+  },
+  "Honor Model 38": {
+    "General": 96,
+    "Red Dot": 92,
+    "2x Scope": 79,
+    "4x Scope": 81,
+    "AWM Scope": 53,
+    "Free Look": 65
+  },
+  "Honor Model 39": {
+    "General": 88,
+    "Red Dot": 89,
+    "2x Scope": 85,
+    "4x Scope": 79,
+    "AWM Scope": 57,
+    "Free Look": 66
+  },
+  "Honor Model 40": {
+    "General": 95,
+    "Red Dot": 94,
+    "2x Scope": 75,
+    "4x Scope": 82,
+    "AWM Scope": 60,
+    "Free Look": 68
+  },
+  "Honor Model 41": {
+    "General": 98,
+    "Red Dot": 80,
+    "2x Scope": 87,
+    "4x Scope": 73,
+    "AWM Scope": 55,
+    "Free Look": 57
+  },
+  "Honor Model 42": {
+    "General": 94,
+    "Red Dot": 84,
+    "2x Scope": 84,
+    "4x Scope": 82,
+    "AWM Scope": 54,
+    "Free Look": 75
+  },
+  "Honor Model 43": {
+    "General": 99,
+    "Red Dot": 94,
+    "2x Scope": 85,
+    "4x Scope": 75,
+    "AWM Scope": 53,
+    "Free Look": 55
+  },
+  "Honor Model 44": {
+    "General": 85,
+    "Red Dot": 95,
+    "2x Scope": 82,
+    "4x Scope": 81,
+    "AWM Scope": 52,
+    "Free Look": 69
+  },
+  "Honor Model 45": {
+    "General": 95,
+    "Red Dot": 93,
+    "2x Scope": 85,
+    "4x Scope": 76,
+    "AWM Scope": 48,
+    "Free Look": 58
+  },
+  "Honor Model 46": {
+    "General": 88,
+    "Red Dot": 93,
+    "2x Scope": 87,
+    "4x Scope": 81,
+    "AWM Scope": 59,
+    "Free Look": 73
+  },
+  "Honor Model 47": {
+    "General": 89,
+    "Red Dot": 89,
+    "2x Scope": 75,
+    "4x Scope": 80,
+    "AWM Scope": 57,
+    "Free Look": 59
+  },
+  "Honor Model 48": {
+    "General": 89,
+    "Red Dot": 90,
+    "2x Scope": 87,
+    "4x Scope": 75,
+    "AWM Scope": 51,
+    "Free Look": 55
+  },
+  "Honor Model 49": {
+    "General": 98,
+    "Red Dot": 90,
+    "2x Scope": 88,
+    "4x Scope": 71,
+    "AWM Scope": 56,
+    "Free Look": 63
+  },
+  "Honor Model 50": {
+    "General": 86,
+    "Red Dot": 94,
+    "2x Scope": 81,
+    "4x Scope": 72,
+    "AWM Scope": 47,
+    "Free Look": 64
+  },
+  "Honor Model 51": {
+    "General": 88,
+    "Red Dot": 83,
+    "2x Scope": 75,
+    "4x Scope": 81,
+    "AWM Scope": 54,
+    "Free Look": 71
+  },
+  "Honor Model 52": {
+    "General": 87,
+    "Red Dot": 92,
+    "2x Scope": 83,
+    "4x Scope": 76,
+    "AWM Scope": 56,
+    "Free Look": 67
+  },
+  "Honor Model 53": {
+    "General": 96,
+    "Red Dot": 82,
+    "2x Scope": 82,
+    "4x Scope": 77,
+    "AWM Scope": 58,
+    "Free Look": 58
+  },
+  "Honor Model 54": {
+    "General": 87,
+    "Red Dot": 80,
+    "2x Scope": 82,
+    "4x Scope": 79,
+    "AWM Scope": 55,
+    "Free Look": 59
+  },
+  "Honor Model 55": {
+    "General": 85,
+    "Red Dot": 80,
+    "2x Scope": 78,
+    "4x Scope": 74,
+    "AWM Scope": 54,
+    "Free Look": 68
+  },
+  "Honor Model 56": {
+    "General": 92,
+    "Red Dot": 93,
+    "2x Scope": 85,
+    "4x Scope": 72,
+    "AWM Scope": 53,
+    "Free Look": 72
+  }
+}
